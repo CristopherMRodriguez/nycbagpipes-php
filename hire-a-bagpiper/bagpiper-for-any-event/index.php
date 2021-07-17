@@ -23,6 +23,7 @@
 				</p>
 			</div>
 		</section>		
-	<?php require "../../footer.php";?>
+		<?php require "../../footer.php";?>
+		<script src="index.js"></script>
 	</body>
 </html>

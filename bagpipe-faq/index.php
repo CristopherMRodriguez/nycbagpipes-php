@@ -12,5 +12,6 @@
 		<a href="<?php echo $Site . "/bagpipe-faq/hire-a-bagpiper" ?>"><h2>Hire a Bagpiper</a></h2>
 		<a href="<?php echo $Site . "/bagpipe-faq/learning-bagpipes" ?>"><h2>Learning Bagpipes</a></h2>
 		<?php require "../footer.php";?>
+		<script src="index.js"></script>
 	</body>
 </html>

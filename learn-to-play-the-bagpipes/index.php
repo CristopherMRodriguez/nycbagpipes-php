@@ -16,7 +16,7 @@
 				Choose to learn bagpiping in person or conveniently online.</p>
 		</div>
 		<div class="section-border"></div>
-		<section class="section">
+		<section class="section section-odd">
 			<a class="pic-anchor"  class="button" href="<?php echo $Site . "/learn-to-play-the-bagpipes/in-erson-bagpipe-lessons";?>">
 				<img src="../img/bagpiper-soldier-2.jpg" alt="Learn Bagpipes In Person">
 			</a>	
@@ -31,7 +31,7 @@
 			</div>
 		</section>
 		<div class="section-border"></div>
-		<section class="section bottom-section">
+		<section class="section bottom-section section-even">
 			<div class="section-div">
 				<h1 class="section-title">Learn Bagpipes Online</h1>
 				<a class="landing-page-button-a" href="<?php echo $Site . "/learn-to-play-the-bagpipes/online-bagpipe-lessons"?>">					

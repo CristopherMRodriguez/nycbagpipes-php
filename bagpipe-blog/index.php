@@ -16,5 +16,6 @@
 		<a href="<?php echo $Site . "/bagpipe-blog/blog5" ?>"><h2>Blog 5</a></h2>
 		<a href="<?php echo $Site . "/bagpipe-blog/blog6" ?>"><h2>Blog 6</a></h2>
 		<?php require "../footer.php";?>
+		<script src="index.js"></script>
 	</body>
 </html>

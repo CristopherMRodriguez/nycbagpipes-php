@@ -12,5 +12,6 @@
 		<?php require "nav.php";?>
 		<?php require "home.php";?>
 		<?php require "footer.php";?>
+		<script src="index.js"></script>
 	</body>
 </html>

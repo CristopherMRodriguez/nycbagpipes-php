@@ -6,7 +6,7 @@
     </div>
   </div>
 </section>
-<section class="section">
+<section class="section section-odd">
   <a class="pic-anchor"  class="button" href="<?php echo $Site . "/hire-a-bagpiper";?>">
     <img src="./img/bagpiper-playing.jpg" alt="Bagpiper Playing Bagpipes">  
   </a>
@@ -21,7 +21,7 @@
   </div>
 </section>
 <div class="section-border"></div>
-<section class="section">
+<section class="section section-even">
   <div class="section-div">
     <h1 class="section-title">Learn to Play Bagpipes</h1>
     <a class="landing-page-button-a"  class="button" href="<?php echo $Site . "/learn-to-play-the-bagpipes";?>">
@@ -36,7 +36,7 @@
   </a>
 </section>
 <div class="section-border"></div>
-<section class="section">
+<section class="section section-odd">
   <a class="pic-anchor"  class="button" href="<?php echo $Site . "/bagpipe-faq";?>">
     <img src="./img/bagpipes-faq.jpeg" alt="Bagpipes FAQ's">
   </a>
@@ -51,7 +51,7 @@
   </div>
 </section>
 <div class="section-border"></div>
-<section class="section bottom-section">
+<section class="section section-even bottom-section">
   <div class="section-div">
     <h2 class="section-title">NYC Bagpipes Blog</h2>
     <a class="landing-page-button-a"  class="button" href="<?php echo $Site . "/bagpipe-blog";?>">

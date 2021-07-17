@@ -49,6 +49,12 @@ table {
 
 /* And so the CSS begins... */
 
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
 :root {
   --dark: #000000;
   --light: #FFFFFF;
@@ -96,7 +102,7 @@ p {
 	color: var(--red);
 	font-size: 24px;
 	height: 100px;
-	font-weight: 600;
+	font-weight: 800;
 	position: fixed;
 	display: flex;
 	flex-direction: column;
@@ -105,10 +111,11 @@ p {
 	width: 100%;
 	top: 0;
 	border: var(--dark) solid 1px;
+	padding: 50px;
 }
 
 .call-button{
-	background-color: var(--white);
+	background-color: var(--light);
 	border-radius: 45px;
 	height: 40px;
 	margin-top: 10px;
@@ -116,6 +123,12 @@ p {
 	color: var(--dark);
 	border-color: var(--dark);
 	padding: 0 75px;
+}
+
+@media (max-width: 935px) {
+	.call {
+		height: 120px;
+	}
 }
 
 .call-anchor{
@@ -147,7 +160,12 @@ p {
 	margin-top: 100px;
 	width: 100%;
 }
-
+@media (max-width: 935px) {
+	.header-div {
+		margin-top: 120px;
+	}
+}
+/* nav-bar non-mobile */
 .nav-ul{
 	background-color: var(--dark);
 	color: var(--light);
@@ -158,7 +176,64 @@ p {
 	justify-content: space-evenly;
 	align-items: center;
 	width: 100%;
+}
 
+/* hamburger icon */
+
+.hamburger-icon {
+	position: fixed;
+	right: 15px;
+	top: 120px;
+}
+
+.hamburger-bar {
+	width: 35px;
+	height: 5px;
+	background-color: red;
+	margin: 6px 0;
+}
+
+/* nav-bar mobile open */
+
+.nav-hamburger {
+	position: fixed;
+	background-color: black;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	display: none;
+	height: 100vh;
+}
+
+.hamburger-ul{
+	color: var(--light);
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+	font-size: 30px;
+	align-items: space-between;
+	margin-top: 50px;
+}
+
+.hamburger-nav-ul-li{
+	height: 100%;
+}
+
+.hamburger-nav-ul__li__a{
+	text-decoration: none;
+}
+
+@media (max-width: 835px) {
+	.nav-ul {
+		display: none;
+	}
+}
+
+@media (min-width: 835px) {
+	.hamburger-icon {
+		display: none;
+	}
 }
 
 .nav-ul li{
@@ -217,6 +292,12 @@ p {
 	flex-flow: wrap;
 }
 
+@media (max-width: 835px){
+	.landing-page-header h1 {
+		margin-top: 50px;
+	}
+}
+
 .landing-page-header-p {
 	margin-top: 25px;
 }
@@ -224,6 +305,12 @@ p {
 .section img {
 	width: 450px;
 	border: black solid 2px;
+}
+
+@media (max-width: 835px) {
+	.section img {
+		width: 300px;
+	}
 }
 
 .online-bagpipes-img {
@@ -256,7 +343,7 @@ p {
 }
 
  /* for 3rd tier content pages */
-.section-div-sub{
+ .section-div-sub{
 	height: 450px;
 	display: flex;
 	align-content: space-between; /*flexes top middle bottom section*/
@@ -266,6 +353,22 @@ p {
 	text-align: left;
 	margin: 0 25px;
 }
+
+@media (max-width: 835px) {
+	.section {
+		flex-direction: column;
+		align-items: center; /*center on main axis*/
+		align-content: space-between;
+	}
+	.section-even {
+		flex-direction: column-reverse;
+	}
+	.section-div, .section-div-sub {
+		height: 300px;
+		margin-top: 25px;
+	}
+}
+
 
 .section-title {
 	font-size: 50px;

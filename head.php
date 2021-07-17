@@ -27,6 +27,10 @@
 		<meta property="og:image:width" content="1200"/>
 		<meta property="og:image:height" content="617" />
 		<meta property="og:type" content="website"/>
+		<!-- normalize (line evening out on different browsers -->
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css" 
+      integrity="sha256-46qynGAkLSFpVbEBog43gvNhfrOj+BmwXdxFgVK/Kvc=" crossorigin="anonymous" /> 
 		<link rel="stylesheet" type="text/css" href="<?php echo $Site . "/styles.css";?>">
 		<link rel="preconnect" href="https://fonts.googleapis.com">
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
