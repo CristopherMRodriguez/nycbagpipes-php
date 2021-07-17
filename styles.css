@@ -97,6 +97,7 @@ p {
 
 .call {
 	background-color: var(--light);
+	height: 60px;
 	color: var(--red);
 	font-size: 40px;
 	font-weight: 800;
@@ -107,6 +108,8 @@ p {
 	flex-wrap: wrap;
 	width: 100%;
 	top: 0;
+	border-bottom: var(--dark) solid 2px;
+
 }
 
 .call-button{
@@ -146,7 +149,7 @@ p {
 /* nav-bar section */
 
 .header-div{
-	margin-top: 70px;
+	margin-top: 60px;
 	width: 100%;
 }
 
@@ -207,18 +210,6 @@ p {
 
 .hamburger-nav-ul__li__a{
 	text-decoration: none;
-}
-
-@media (max-width: 835px) {
-	.nav-ul {
-		display: none;
-	}
-}
-
-@media (min-width: 835px) {
-	.hamburger-icon {
-		display: none;
-	}
 }
 
 .nav-ul li{
@@ -328,15 +319,17 @@ p {
 }
 
  /* for 3rd tier content pages */
- .section-div-sub{
-	height: 450px;
+ .section-div-sub{ 
 	display: flex;
 	align-content: space-between; /*flexes top middle bottom section*/
 	flex-flow: wrap;
 	max-width: 700px;
-	justify-content: center;
-	text-align: left;
 	margin: 0 25px;
+	justify-content: center;
+}
+
+.section-div-sub p {
+	padding-top: 15px;
 }
 
 @media (max-width: 835px) {
@@ -348,12 +341,28 @@ p {
 	.section-even {
 		flex-direction: column-reverse;
 	}
-	.section-div, .section-div-sub {
+	.section-div {
 		height: 300px;
 		margin-top: 25px;
 	}
+	.section-div-sub {
+		height: 500px;
+		margin-top: 25px;
+	}
 	.call {
-		font-size: 24px;
+		font-size: 28px;
+	}
+}
+
+@media (max-width: 300px) {
+	.bottom-section {
+		height: 500px;
+	}
+	.call {
+		font-size: 20px;
+	}
+	.call-button {
+		height: 30px;
 	}
 }
 
@@ -370,6 +379,8 @@ p {
 .section-p, .landing-page-header p {
 	color: var(--dark-gray);
 }
+
+
 
 .section-border {
 	margin: 50px auto 0;
@@ -401,6 +412,8 @@ p {
 
 .bottom-section {
 	margin-bottom: 50px;
+	height: 100%;
+	
 }
 
 
@@ -456,6 +469,23 @@ p {
 
 .email-div-p{
 	color: var(--dark-gray);
-	font-size: 20px;
+	font-size: 24px;
 	display: inline;
+}
+
+.email-anchor-footer{
+	color: var(--light);
+	font-size: 24px;
+}
+
+@media (max-width: 835px) {
+	.nav-ul {
+		display: none;
+	}
+}
+
+@media (min-width: 835px) {
+	.hamburger-icon {
+		display: none !important;
+	}
 }
