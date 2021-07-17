@@ -26,7 +26,7 @@
 					<button class="landing-page-button">	
 						<h2 class="section-subtitle">Hiring a Bagpiper Info</h2>
 					</button>
-				</a>  
+				</a>   
 				<p class="section-p">Learn more about about commonly asked questions about hiring a bagpiper.</p>
 			</div>
 		</section>
