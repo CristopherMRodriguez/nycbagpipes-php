@@ -11,7 +11,7 @@
 		<section class="section bottom-section">
 			<img src="../../img/hire-a-bagpiper-at-wedding.jpg" alt="Bagpiper Playing at a Wedding Ceremony">
 			<div class="section-div-sub">
-				<h1 class="section-title">Hiring a Bagpiper for a Wedding Ceremony Info</h1>
+				<h1 class="section-title">Hiring a Bagpiper for a Wedding Ceremony</h1>
 				<p class="section-p">
 					Nothing makes a wedding ceremony more joyous and lively than having a bagpiper play.  A typical 
 					ceremony may have a piper welcome guests as they enter the church with joyous music before entering

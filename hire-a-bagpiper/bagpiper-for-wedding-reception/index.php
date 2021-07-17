@@ -11,7 +11,7 @@
 		<section class="section bottom-section">
 			<img src="../../img/bagpiper-at-wedding.jpg" alt="Bagpiper Playing at a Wedding Ceremony">
 			<div class="section-div-sub">
-				<h1 class="section-title">Hiring a Bagpiper for a Wedding Ceremony Info</h1>
+				<h1 class="section-title">Hiring a Bagpiper for a Wedding Ceremony</h1>
 				<p class="section-p">
 					Want to add an extra flair to the after party? Nothing gets the crowd going than a bagpiper.  Or add a few extra pipers to 
 					make the party get really going.

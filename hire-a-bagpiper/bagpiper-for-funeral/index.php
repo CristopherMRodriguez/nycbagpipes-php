@@ -11,7 +11,7 @@
     <section class="section bottom-section">
 			<img src="../../img/bagpiper-funeral.jpg" alt="Bagpiper Playing at Funeral">
 			<div class="section-div-sub">
-				<h1 class="section-title">Hiring a Bagpiper for a Funeral Info</h1>
+				<h1 class="section-title">Hiring a Bagpiper for a Funeral</h1>
 				<p class="section-p">
 					Firstly if you are searching for a piper to play bagpipes at a funeral, 
 					our condolences to you and the family. We understand that not only is the loss of a loved one 
