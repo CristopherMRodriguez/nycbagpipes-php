@@ -491,7 +491,7 @@ p {
 }
 
 @media (min-width: 200px) {
-	.call h1 {
+	.call-title {
 		display: none;
 	}
 }
