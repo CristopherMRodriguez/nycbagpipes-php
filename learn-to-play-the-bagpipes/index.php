@@ -18,7 +18,7 @@
 		<div class="section-border"></div>
 		<section class="section">
 			<a class="pic-anchor"  class="button" href="<?php echo $Site . "/learn-to-play-the-bagpipes/in-erson-bagpipe-lessons";?>">
-				<img src="./img/bagpiper-soldier-2.jpg" alt="Learn Bagpipes In Person">
+				<img src="../img/bagpiper-soldier-2.jpg" alt="Learn Bagpipes In Person">
 			</a>	
 			<div class="section-div">
 				<h1 class="section-title">Learn Bagpipes In Person</h1>
@@ -42,7 +42,7 @@
 				<p class="section-p">Learn to bagpipe at the convenience of home - or anywhere - online.</p>
 			</div>
 			<a class="pic-anchor"  class="button" href="<?php echo $Site . "/learn-to-play-the-bagpipes/online-bagpipe-lessons";?>">
-				<img class="online-bagpipes-img" src="./img/bagpipe-lessons.png" alt="Online Bagpipes">
+				<img class="online-bagpipes-img" src="../img/bagpipe-lessons.png" alt="Online Bagpipes">
 			</a>
 		</section>		
 	
