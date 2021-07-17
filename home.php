@@ -2,7 +2,7 @@
   <div class="hero">
     <div class="hero-title-container">
       <h1 class="hero-title">NYC Bagpipes</h1>
-      <h2 class="hero-subtitle">For all your Bagpipe Needs</h2>
+      <h2 class="hero-subtitle">Hire a Bagpiper in NYC | New York | New Jersey | Pennsylvania | Connecticut</h2>
     </div>
   </div>
 </section>
