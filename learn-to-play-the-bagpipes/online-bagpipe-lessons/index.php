@@ -2,7 +2,7 @@
 		<title>Learn to Play Bagpipes Online</title>
 		<?php $content = "Get online bagpipe lessons.  Begin learning the bagpipes today. Learn to play the bagpipes in 2021 and become a bagpiper. Get bagpipe lessons on the internet. Our bagpipe instructors are available on facetime, skype, and zoom.";?>
 		<meta name="description" content="<?php echo $content;?>">
-		<meta property="og:description" content="<?php echo $content?>">
+		<meta property="og:description" content="<?php echo $content;?>">
 	</head>
   <body>
 		<?php require "../../googleTagBody.php";?>

@@ -2,7 +2,7 @@
 		<title>Hire a Bagpiper for a Wedding Reception</title>
 		<?php $content = "Hire a bagpiper for a wedding reception.  Find out how much does it cost to hire a bagpiper for a wedding reception. Find bagpiper players for weddings near me. A bagpiper for a wedding reception adds tremendous fun to your big day. ";?>
 		<meta name="description" content="<?php echo $content;?>">
-		<meta property="og:description" content="<?php echo $content?>">
+		<meta property="og:description" content="<?php echo $content;?>">
 	</head>
   <body>
 		<?php require "../../googleTagBody.php";?>
