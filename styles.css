@@ -490,7 +490,7 @@ p {
 	}
 }
 
-@media (min-width: 200px) {
+@media (max-width: 200px) {
 	.call-title {
 		display: none;
 	}
