@@ -47,7 +47,7 @@
         <h3 class="section-subtitle">Click here to learn more about frequently asked questions.</h3>
       </button>
     </a>
-    <p class="section-p">Our bagpipers are the best in the area. They will add magic to your special event.</p>
+    <p class="section-p">Click here to read our bagpipe FAQ.</p>
   </div>
 </section>
 <div class="section-border"></div>
@@ -59,7 +59,7 @@
         <h3 class="section-subtitle">Click here to read the blog.</h3>
       </button>
     </a>
-    <p class="section-p">Our bagpipers are the best in the area. They will add magic to your special event.</p>
+    <p class="section-p">Some (hopefully) useful info on hiring a bagpiper, learning bagpipes, and other bagpiper related stuff.</p>
   </div>
   <a class="pic-anchor"  class="button" href="<?php echo $Site . "/bagpipe-blog";?>">
     <img src="./img/bagpipes-blog.jpeg" alt="Bagpipes Blog">  

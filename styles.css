@@ -60,7 +60,8 @@ table {
 
 body {
   text-align: center;
-	font-family: var(--ff-main)
+	font-family: var(--ff-main);
+	position: absolute;
 }
 
 a:link {
@@ -254,6 +255,7 @@ p {
 	margin: 0 20px;
 }
 
+ /* for 3rd tier content pages */
 .section-div-sub{
 	height: 450px;
 	display: flex;
