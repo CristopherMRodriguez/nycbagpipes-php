@@ -1,6 +1,6 @@
 <?php require "../head.php"?>
 		<title>Learn to Play the Bagpipes</title>
-		<?php $content = "";?>
+		<?php $content = "Get bagpipe lessons near me.  Learn bagpipes online or in the nyc area.  A qualified bagpiper instructor can meet also on zoom, skype, or facetime at your convenience with flexible schedule.";?>
 		<meta name="description" content="<?php echo $content;?>">
 		<meta property="og:description" content="<?php echo $content?>">
 	</head>

@@ -1,6 +1,6 @@
 <?php require "../head.php"?>
-		<title>Bagpipes Blog</title>
-		<?php $content = "";?>
+		<title>Bagpipes Blog - Get info on how to hire a bagpiper, learn bagpipes, and more.</title>
+		<?php $content = "A bagpipes blog on various bagpiping topics for those looking to learn how to play the bagpipes or hire a bagpiper. Learn bagpipe lessons online or in person.";?>
 		<meta name="description" content="<?php echo $content;?>">
 		<meta property="og:description" content="<?php echo $content?>">
 	</head>

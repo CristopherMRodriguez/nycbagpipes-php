@@ -1,8 +1,8 @@
 <?php const Site = "http://localhost:3000"; ?>
 
 	<?php require "head.php"?>
-		<title>NYC Bagpipes - Hire a Bagpiper - Learn to Play Bagpipes</title>
-		<?php $content = "Official homepage for NYC Bagpipes. The #1 Website for anything bagpipe related in the tri-state area. We offer piping for weddings, funerals, parties, and other events; and in-person and online lessons.  Call here to hire a professional bagpiper.";?>
+		<title>Hire a Bagpiper - Learn to Play Bagpipes - NYC Bagpipes</title>
+		<?php $content = "Hire the best bagpiper in NYC, New York, New Jersey, Long Island, Connecticut, and Pennsylvania. Want to learn how to play the bagpipes? We teach bagpipes. We offer bagpiping for weddings, funerals, parties, and other events; and in-person and online lessons. Call to hire a professional bagpiper.";?>
 		<meta name="description" content="<?php echo $content;?>">
 		<meta property="og:description" content="<?php echo $content?>">
 	</head>	

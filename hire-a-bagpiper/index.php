@@ -1,10 +1,10 @@
 		<?php require "../head.php"?>
 		<title>Hire a Bagpiper</title>
-		<?php $content = "";?>
+		<?php $content = "Hire a bagpiper. Find a bagpiper player for hire near me. Learn how much a bagpiper costs. Bagpipe players available.";?>
 		<meta name="description" content="<?php echo $content;?>">
 		<meta property="og:description" content="<?php echo $content?>">
 	</head>
-  <body>
+  <body> 
 		<?php require "../googleTagBody.php";?>
 		<?php require "../call.php";?>
 		<?php require "../nav.php";?>
