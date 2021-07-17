@@ -489,3 +489,10 @@ p {
 		display: none !important;
 	}
 }
+
+@media (min-width: 200px) {
+	.call h1 {
+		display: none;
+	}
+}
+
