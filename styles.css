@@ -176,7 +176,7 @@ p {
 .hero {
 	height: 100%;
 	width: 100%;
-	background-image: url(./img/hire-a-bagpiper-at-wedding.jpg);
+	background-image: url(./img/hire-a-bagpiper-at-wedding-big.jpg);
 	background-position: center;
 	background-repeat:no-repeat;
 	height: 700px;
@@ -208,8 +208,8 @@ p {
 
 .landing-page-header{
 	height: 100%;
-	width: 50%;
-	margin: 20px auto;
+	width: 70%;
+	margin: 50px auto;
 	display: flex;
 	align-content: space-between;
 	justify-content: center;
@@ -217,7 +217,7 @@ p {
 }
 
 .landing-page-header-p {
-	margin-top: 20px;
+	margin-top: 25px;
 }
 
 .section img {
@@ -262,6 +262,7 @@ p {
 	max-width: 700px;
 	justify-content: center;
 	text-align: left;
+	margin: 0 25px;
 }
 
 .section-title {
@@ -346,9 +347,13 @@ p {
 }
 
 .social-ul {
-	padding-top: 30px;
+	margin-top: 30px;
 	display: flex;
 	justify-content: space-evenly;
+}
+
+.social-ul img{
+	width: 40px;
 }
 
 .email-div{

@@ -8,7 +8,18 @@
 		<?php require "../../googleTagBody.php";?>
 		<?php require "../../call.php";?>
 		<?php require "../../nav.php";?>
-    <h1>Learn to Play Bagpipes Online</h1>
+		<section class="section bottom-section">
+			<img src="../../img/two-bagpipers.jpg" alt="Bagpipers at a Party">
+			<div class="section-div-sub">
+				<h1 class="section-title">Learn to Play Bagpipes Online</h1>
+				<p class="section-p">
+					There are advantages to learning bagpipes online. After all, getting a lesson in during a busy
+					day allows one the freedom to develop a new skill. With regular practice you will improve while
+					saving time. We also offer a flexible schedule so that you can schedule when you need to.  Lessons
+					can be done on FaceTime, Zoom, or Skype.
+				</p>
+			</div>
+		</section>
 		<?php require "../../footer.php";?>
 	</body>
 </html>
