@@ -1,13 +1,13 @@
-<?php require "../../head.php"?>
+<?php require "../../components/head.php"?>
 		<title>Hire a Bagpiper for a Funeral - Find a Bagpipe Player for Funeral near you.</title>
 		<?php $content = "Hire a bagpiper for a funeral.  Find out how much does it cost to hire a bagpiper for a funeral. Find bagpiper players for funerals near me.";?>
 		<meta name="description" content="<?php echo $content;?>">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>
   <body>
-		<?php require "../../googleTagBody.php";?>
-		<?php require "../../call.php";?>
-		<?php require "../../nav.php";?>
+		<?php require "../../components/googleTagBody.php";?>
+		<?php require "../../components/call.php";?>
+		<?php require "../../components/nav.php";?>
     <section class="section bottom-section">
 			<img src="../../img/bagpiper-funeral.jpg" alt="Bagpiper Playing at Funeral">
 			<div class="section-div-sub">
@@ -24,7 +24,7 @@
 				</p>
 			</div>
 		</section>
-		<?php require "../../footer.php";?>
+		<?php require "../../components/footer.php";?>
 		<script src="index.js"></script>
 	</body>
 </html>

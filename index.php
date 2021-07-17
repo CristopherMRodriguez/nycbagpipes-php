@@ -1,13 +1,13 @@
-	<?php require "components/head.php"?>
+	<?php require "./components/head.php"?>
 		<title>Hire a Bagpiper - Learn to Play Bagpipes - NYC Bagpipes</title>
 		<?php $content = "Hire the best bagpiper in NYC, New York, New Jersey, Long Island, Connecticut, and Pennsylvania. Want to learn how to play the bagpipes? We teach bagpipes. We offer bagpiping for weddings, funerals, parties, and other events; and in-person and online lessons. Call to hire a professional bagpiper.";?>
 		<meta name="description" content="<?php echo $content;?>">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>	
 	<body>
-		<?php require "components/googleTagBody.php";?>
-		<?php require "components/call.php";?>
-		<?php require "components/nav.php";?>
+		<?php require "./components/googleTagBody.php";?>
+		<?php require "./components/call.php";?>
+		<?php require "./components/nav.php";?>
 		<section class="home">
 			<div class="hero">
 				<div class="hero-title-container">
@@ -75,7 +75,7 @@
 				<img src="./img/bagpipes-blog.jpeg" alt="Bagpipes Blog">  
 			</a>
 		</section>		
-		<?php require "components/footer.php";?>
+		<?php require "./components/footer.php";?>
 		<script src="index.js"></script>
 	</body>
 </html>

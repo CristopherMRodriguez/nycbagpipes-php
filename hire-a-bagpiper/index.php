@@ -1,13 +1,13 @@
-		<?php require "../head.php"?>
+		<?php require "../components/head.php"?>
 		<title>Hire a Bagpiper</title>
 		<?php $content = "Hire a bagpiper. Find a bagpiper player for hire near me. Learn how much a bagpiper costs. Bagpipe players available.";?>
 		<meta name="description" content="<?php echo $content;?>">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>
   <body> 
-		<?php require "../googleTagBody.php";?>
-		<?php require "../call.php";?>
-		<?php require "../nav.php";?>
+		<?php require "../components/googleTagBody.php";?>
+		<?php require "../components/call.php";?>
+		<?php require "../components/nav.php";?>
 
 		<div class="landing-page-header">
 			<h1 class="section-title">Hire a Bagpiper</h1><br/>
@@ -75,7 +75,7 @@
 			</a>
 		</section>
 	
-		<?php require "../footer.php";?>
+		<?php require "../components/footer.php";?>
 		<script src="index.js"></script>
 	</body>
 </html>

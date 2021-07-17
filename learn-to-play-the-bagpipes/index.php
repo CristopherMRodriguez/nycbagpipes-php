@@ -1,13 +1,13 @@
-<?php require "../head.php"?>
+<?php require "../components/head.php"?>
 		<title>Learn to Play the Bagpipes</title>
 		<?php $content = "Get bagpipe lessons near me.  Learn bagpipes online or in the nyc area.  A qualified bagpiper instructor can meet also on zoom, skype, or facetime at your convenience with flexible schedule.";?>
 		<meta name="description" content="<?php echo $content;?>">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>
   <body>
-		<?php require "../googleTagBody.php";?>
-		<?php require "../call.php";?>
-		<?php require "../nav.php";?>
+		<?php require "../components/googleTagBody.php";?>
+		<?php require "../components/call.php";?>
+		<?php require "../components/nav.php";?>
 		<div class="landing-page-header">
 			<h1 class="section-title">Learn to Play Bagpipes</h1>
 			<p class="landing-page-header-p">Whether you are enchanted by the sound of the pipes and want to learn, 
@@ -46,6 +46,6 @@
 			</a>
 		</section>		
 	
-		<?php require "../footer.php";?>
+		<?php require "../components/footer.php";?>
 	</body>
 </html>

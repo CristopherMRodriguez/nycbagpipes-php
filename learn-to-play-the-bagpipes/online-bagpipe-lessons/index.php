@@ -1,13 +1,13 @@
-<?php require "../../head.php"?>
+<?php require "../../components/head.php"?>
 		<title>Learn to Play Bagpipes Online</title>
 		<?php $content = "Get online bagpipe lessons.  Begin learning the bagpipes today. Learn to play the bagpipes in 2021 and become a bagpiper. Get bagpipe lessons on the internet. Our bagpipe instructors are available on facetime, skype, and zoom.";?>
 		<meta name="description" content="<?php echo $content;?>">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>
   <body>
-		<?php require "../../googleTagBody.php";?>
-		<?php require "../../call.php";?>
-		<?php require "../../nav.php";?>
+		<?php require "../../components/googleTagBody.php";?>
+		<?php require "../../components/call.php";?>
+		<?php require "../../components/nav.php";?>
 		<section class="section bottom-section">
 			<img src="../../img/two-bagpipers.jpg" alt="Bagpipers at a Party">
 			<div class="section-div-sub">
@@ -20,7 +20,7 @@
 				</p>
 			</div>
 		</section>
-		<?php require "../../footer.php";?>
+		<?php require "../../components/footer.php";?>
 		<script src="index.js"></script>
 	</body>
 </html>
