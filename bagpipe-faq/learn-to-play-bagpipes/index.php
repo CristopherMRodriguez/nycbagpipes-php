@@ -9,7 +9,7 @@
 		<?php require "../../components/call.php";?>
 		<?php require "../../components/nav.php";?>
 		<section class="section bottom-section">
-			<img src="../../img/bagpiper-funeral.jpg" alt="Hire a Bagpiper FAQ's">
+			<img src="../../img/children-playing-bagpipes.jpg" alt="Learning to Play FAQ's">
 			<div class="section-div-sub">
 				<h1 class="section-title">Learn How to Play Bagpipes FAQ's</h1>
 				<p class="section-p">

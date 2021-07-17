@@ -16,12 +16,12 @@
 		</div>
 		<div class="section-border"></div>
 		<section class="section section-odd">
-		<a class="pic-anchor" href="<?php echo $Site . "hire-a-bagpiper/bagpiper-for-funeral" ?>">
+		<a class="pic-anchor" href="<?php echo "hire-a-bagpiper/bagpiper-for-funeral" ?>">
 			<img src="../img/bagpiper-funeral.jpg" alt="Bagpiper Playing Bagpipes">
 		</a>
 			<div class="section-div">
 				<h1 class="section-title">Hire a Bagpiper for a Funeral</h1>
-				<a class="landing-page-button-a"  href="<?php echo $Site . "hire-a-bagpiper/bagpiper-for-funeral" ?>">
+				<a class="landing-page-button-a"  href="<?php echo "hire-a-bagpiper/bagpiper-for-funeral" ?>">
 					<button>	
 						<h2 class="section-subtitle">Bagpiper for Funeral Info</h2>
 					</button>
@@ -33,25 +33,25 @@
 		<section class="section section-even">
 			<div class="section-div">
 				<h1 class="section-title">Hire a Bagpiper for a Wedding Ceremony</h1>
-				<a class="landing-page-button-a"  href="<?php echo $Site . "hire-a-bagpiper/bagpiper-for-wedding-ceremony" ?>">
+				<a class="landing-page-button-a"  href="<?php echo "hire-a-bagpiper/bagpiper-for-wedding-ceremony" ?>">
 					<button class="landing-page-button">
 						<h2 class="section-subtitle">Bagpiper for a Wedding Ceremony Info</h2>
 					</button>
 				</a>
 				<p class="section-p">Let the bagpipes create a memorable and lively atmosphere to any wedding event.</p>
 			</div>
-			<a class="pic-anchor" href="<?php echo $Site . "hire-a-bagpiper/bagpiper-for-wedding-ceremony" ?>">
+			<a class="pic-anchor" href="<?php echo "hire-a-bagpiper/bagpiper-for-wedding-ceremony" ?>">
 				<img src="../img/hire-a-bagpiper-at-wedding.jpg" alt="Bagpiper Playing at Wedding">
 			</a>
 		</section>
 		<div class="section-border"></div>
 		<section class="section section-odd">
-			<a class="pic-anchor" href="<?php echo $Site . "hire-a-bagpiper/bagpiper-for-wedding-reception" ?>">
+			<a class="pic-anchor" href="<?php echo "hire-a-bagpiper/bagpiper-for-wedding-reception" ?>">
 				<img src="../img/bagpiper-at-wedding.jpg" alt="Bagpiper at Wedding Reception">
 			</a>
 			<div class="section-div">
 				<h2 class="section-title">Hire a Bagpiper for a Wedding Reception</h2>
-				<a class="landing-page-button-a"  href="<?php echo $Site . "hire-a-bagpiper/bagpiper-for-wedding-reception" ?>">
+				<a class="landing-page-button-a"  href="<?php echo "hire-a-bagpiper/bagpiper-for-wedding-reception" ?>">
 					<button class="landing-page-button">
 						<h3 class="section-subtitle">Bagpiper for a Wedding Reception Info</h3>
 					</button>
@@ -63,14 +63,14 @@
 		<section class="bottom-section section section-even">
 			<div class="section-div">
 				<h2 class="section-title">Hire a Bagpiper for a Party - or Any Event!</h2>
-				<a class="landing-page-button-a"  href="<?php echo $Site . "hire-a-bagpiper/bagpiper-for-any-event" ?>">
+				<a class="landing-page-button-a"  href="<?php echo "hire-a-bagpiper/bagpiper-for-any-event" ?>">
 					<button class="landing-page-button">
 						<h3 class="section-subtitle">Bagpiper for Party or Any Event Info</h3>
 					</button>
 				</a>
 				<p class="section-p">Got a party? Bagpipes will give it some extra fun!</p>
 			</div>
-			<a class="pic-anchor" href="<?php echo $Site . "hire-a-bagpiper/bagpiper-for-any-event" ?>">
+			<a class="pic-anchor" href="<?php echo "hire-a-bagpiper/bagpiper-for-any-event" ?>">
 				<img src="../img/two-bagpipers.jpg" alt="Bagpipes Blog">
 			</a>
 		</section>

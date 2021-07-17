@@ -17,12 +17,12 @@
 		</div>
 		<div class="section-border"></div>
 		<section class="section section-odd">
-			<a class="pic-anchor"  class="button" href="<?php echo $Site . "/bagpipe-faq/hire-a-bagpiper";?>">
+			<a class="pic-anchor"  class="button" href="<?php echo "/bagpipe-faq/hire-a-bagpiper";?>">
 				<img src="../img/bagpiper-playing.jpg" alt="Hiring a Bagpipe FAQ's">
 			</a>	
 			<div class="section-div">
 				<h1 class="section-title">Hiring a Bagpiper FAQ's</h1>
-				<a class="landing-page-button-a" href="<?php echo $Site . "/bagpipe-faq/hire-a-bagpiper";?>">					
+				<a class="landing-page-button-a" href="<?php echo "/bagpipe-faq/hire-a-bagpiper";?>">					
 					<button class="landing-page-button">	
 						<h2 class="section-subtitle">Hiring a Bagpiper Info</h2>
 					</button>
@@ -34,14 +34,14 @@
 		<section class="section bottom-section section-even">
 			<div class="section-div">
 				<h1 class="section-title">Learning Bagpipes FAQ's</h1>
-				<a class="landing-page-button-a" href="<?php echo $Site . "/bagpipe-faq/learning-bagpipes";?>">					
+				<a class="landing-page-button-a" href="<?php echo "/bagpipe-faq/learn-to-play-bagpipes";?>">					
 					<button class="landing-page-button">
 						<h2 class="section-subtitle">Online Bagpipe Lessons Info</h2>
 					</button>
 				</a>
 				<p class="section-p">Learn more about about commonly asked questions about learning how to play the bagpipes</p>
 			</div>
-			<a class="pic-anchor"  class="button" href="<?php echo $Site . "/bagpipe-faq/learning-bagpipes";?>">
+			<a class="pic-anchor"  class="button" href="<?php echo "/bagpipe-faq/learn-to-play-bagpipes";?>">
 				<img class="online-bagpipes-img" src="../img/children-playing-bagpipes.jpg" alt="Learning How to Play Bagpipes FAQ's">
 			</a>
 		</section>		
