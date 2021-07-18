@@ -67,7 +67,6 @@ table {
 body {
   text-align: center;
 	font-family: var(--ff-main);
-	position: absolute;
 }
 
 a:link {
@@ -121,6 +120,7 @@ p {
 	color: var(--light);
 	border-color: var(--dark);
 	padding: 0 30px;
+	font-weight: 900;
 }
 
 .call-anchor{
@@ -130,7 +130,7 @@ p {
 .call-anchor :hover{
 	transform: scale(1.01); 
 	background-color: var(--light-gray);
-
+	color: var(--dark);
 }
 
 .call-anchor :active{
@@ -145,15 +145,13 @@ p {
 	width: 50px;
 }
 
-
-/* nav-bar section */
+/* nav-bar non-mobile */
 
 .header-div{
 	margin-top: 60px;
 	width: 100%;
 }
 
-/* nav-bar non-mobile */
 .nav-ul{
 	background-color: var(--dark);
 	color: var(--light);
@@ -166,12 +164,24 @@ p {
 	width: 100%;
 }
 
+.nav-ul-li{
+	height: 100%;
+	line-height: 70px;
+	display: inline;
+	padding: 0 10px;
+}
+
+.nav-ul :hover{
+	background-color: white;
+	color: var(--dark);
+}
+
 /* hamburger icon */
 
 .hamburger-icon {
 	position: fixed;
 	right: 15px;
-	top: 120px;
+	top: 110px;
 }
 
 .hamburger-bar {
@@ -191,17 +201,19 @@ p {
 	right: 0;
 	bottom: 0;
 	display: none;
-	height: 100vh;
+	height: 100%;
 }
 
 .hamburger-ul{
+	font-size: 30px;
 	color: var(--light);
 	display: flex;
-	flex-direction: column;
 	height: 100%;
-	font-size: 30px;
-	align-items: space-between;
-	margin-top: 50px;
+	flex-direction: column;
+	justify-content: space-evenly;
+  align-items: center;
+  margin: 50px 0 0 0;
+  padding: 0;
 }
 
 .hamburger-nav-ul-li{
@@ -212,26 +224,14 @@ p {
 	text-decoration: none;
 }
 
-.nav-ul li{
-	display: inline;
-	padding: 0 10px;
-}
-
-.nav-ul li :hover{
-	background-color: white;
-	color: var(--dark);
-	padding: 23px;
-}
-
 	/* hero section */
 
 .hero {
-	height: 100%;
 	width: 100%;
 	background-image: url(./img/hire-a-bagpiper-at-wedding-big.jpg);
 	background-position: center;
 	background-repeat:no-repeat;
-	height: 700px;
+	height: 100vh;
 }
  
 .hero-title-container{
@@ -252,7 +252,7 @@ p {
 .hero-subtitle {
 	color: var(--light);
 	font-size: 25px;
-	margin-top: 50px;
+	margin: 50px 10px 0 10px;
 	font-style: italic;
 }
 
@@ -268,12 +268,6 @@ p {
 	flex-flow: wrap;
 }
 
-@media (max-width: 835px){
-	.landing-page-header h1 {
-		margin-top: 50px;
-	}
-}
-
 .landing-page-header-p {
 	margin-top: 25px;
 }
@@ -281,12 +275,6 @@ p {
 .section img {
 	width: 450px;
 	border: black solid 2px;
-}
-
-@media (max-width: 835px) {
-	.section img {
-		width: 300px;
-	}
 }
 
 .online-bagpipes-img {
@@ -332,40 +320,6 @@ p {
 	padding-top: 15px;
 }
 
-@media (max-width: 835px) {
-	.section {
-		flex-direction: column;
-		align-items: center; /*center on main axis*/
-		align-content: space-between;
-	}
-	.section-even {
-		flex-direction: column-reverse;
-	}
-	.section-div {
-		height: 300px;
-		margin-top: 25px;
-	}
-	.section-div-sub {
-		height: 500px;
-		margin-top: 25px;
-	}
-	.call {
-		font-size: 28px;
-	}
-}
-
-@media (max-width: 300px) {
-	.bottom-section {
-		height: 500px;
-	}
-	.call {
-		font-size: 20px;
-	}
-	.call-button {
-		height: 30px;
-	}
-}
-
 .section-title {
 	font-size: 50px;
 	font-weight: 600;
@@ -379,8 +333,6 @@ p {
 .section-p, .landing-page-header p {
 	color: var(--dark-gray);
 }
-
-
 
 .section-border {
 	margin: 50px auto 0;
@@ -401,7 +353,7 @@ p {
 .landing-page-button-a :active{
 	transform: scale(.99); 
 	background-color: var(--light);
-
+	color: var(--dark);
 }
 
 .landing-page-button {
@@ -420,7 +372,6 @@ p {
 /* footer section */
 
 .footer{
-	width: 100%;
 	background-color: var(--dark);
 	text-align: left;
 	color: var(--light);
@@ -478,15 +429,72 @@ p {
 	font-size: 24px;
 }
 
-@media (max-width: 835px) {
+@media (max-width: 500px) {
+	.hero-title {
+		font-size: 60px;
+	}
+}
+
+@media (max-width: 870px) {
 	.nav-ul {
 		display: none;
 	}
 }
 
-@media (min-width: 835px) {
+@media (min-width: 870px) {
 	.hamburger-icon {
 		display: none !important;
 	}
 }
 
+@media (max-width: 870px){
+	.landing-page-header h1 {
+		margin-top: 50px;
+	}
+}
+
+@media (max-width: 870px) {
+	.section img {
+		width: 300px;
+	}
+}
+
+@media (max-width: 870px) {
+	.section {
+		flex-direction: column;
+		align-items: center; /*center on main axis*/
+		align-content: space-between;
+	}
+	.section-even {
+		flex-direction: column-reverse;
+	}
+	.section-div {
+		height: 300px;
+		margin-top: 25px;
+	}
+	.section-div-sub {
+		height: 500px;
+		margin-top: 25px;
+	}
+	.call {
+		font-size: 28px;
+	}
+}
+
+@media (max-width: 300px) {
+	.bottom-section {
+		height: 500px;
+	}
+	.call {
+		font-size: 20px;
+	}
+	.call-button {
+		height: 30px;
+	}
+}
+
+@media (max-width: 430px){
+	.call {
+		height: 100px;
+	}
+}

@@ -11,7 +11,7 @@
 		<div class="landing-page-header">
 			<h1 class="section-title">Learn to Play Bagpipes</h1>
 			<p class="landing-page-header-p">Whether you are enchanted by the sound of the pipes and want to learn, 
-				desire to one day march up 5th Avenue on St. Patrick's Day, or whatever you wish is, 
+				desire to one day march up 5th Avenue on St. Patrick's Day, or whatever your wish is, 
 				NYC Bagpipes are as passionate as you are.  
 				Choose to learn bagpiping in person or conveniently online.</p>
 		</div>
@@ -45,7 +45,7 @@
 				<img class="online-bagpipes-img" src="../img/bagpipe-lessons.png" alt="Online Bagpipes">
 			</a>
 		</section>		
-	
 		<?php require "../components/footer.php";?>
+		<script src="../script.js"></script>
 	</body>
 </html>

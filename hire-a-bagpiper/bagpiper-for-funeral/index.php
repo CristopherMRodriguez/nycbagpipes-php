@@ -25,6 +25,6 @@
 			</div>
 		</section>
 		<?php require "../../components/footer.php";?>
-		<script src="index.js"></script>
+		<script src="../../script.js"></script>
 	</body>
 </html>
