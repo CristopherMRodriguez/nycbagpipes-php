@@ -62,6 +62,7 @@ table {
 	--dark-gray: #888888;
 	--red: #FF0000;
 	--ff-main: 'Source Serif Pro', serif;
+	--ff-secondary: 'Montserrat', serif;
 }
 
 body {
@@ -292,6 +293,7 @@ p {
 	height: 100%;
 	width: 100%;
 	padding-top: 50px;
+	font-family: var(--ff-secondary);
 }
 
 	/*text area */
