@@ -21,6 +21,58 @@
       </ul>
       <a class="footer-group-ul" href="<?php echo "/bagpipe-blog";?>"><h2>NYC Bagpipes Blog</h2></a>
     </div>
+
+
+
+
+
+    <div class="sitemap-footer-mobile footer-group-mobile">
+      <ul class="footer-mobile-ul">
+        <li class="button-mobile"><a class="home-link-mobile" href="<?php echo "/";?>"><h2>Home</h2></a></li>
+
+        <li onclick="mobile()" class="button-mobile">
+          <div class="collapsible-parent-div">
+            <span>Hire a Bagpiper</span>
+            <img class="down-arrow" src="./img/home-arrow-bottom.png">
+          </div>
+        </li>
+        <ul id="hire" class="hire-a-bagpiper-footer-ul-mobile collapsible-ul">
+          <a href="<?php echo "/hire-a-bagpiper";?>"><h2>Hire a Bagpiper Info</h2></a>
+          <li class="footer-li"><a href="<?php echo "/hire-a-bagpiper/bagpiper-for-funeral";?>">Hire a Bagpiper for a Funeral</a></li>
+          <li class="footer-li"><a href="<?php echo "/hire-a-bagpiper/bagpiper-for-wedding-ceremony";?>">Hire a Bagpiper for a Wedding Ceremony</a></li>
+          <li class="footer-li"><a href="<?php echo "/hire-a-bagpiper/bagpiper-for-wedding-reception";?>">Hire a Bagpiper for a Wedding Reception</a></li>
+          <li class="footer-li"><a href="<?php echo "/hire-a-bagpiper/bagpiper-for-any-event";?>">Hire a Bagpiper for Any Event</a></li>
+        </ul>
+
+        <li onclick="mobile2()" class="button-mobile">
+          <div class="collapsible-parent-div">
+            <span>Learn to Play Bagpipes</span>
+            <img class="down-arrow" src="./img/home-arrow-bottom.png">
+          </div>
+        </li>
+        <ul id="learn" class="learn-to-play-bagpipes-footer-ul-mobile collapsible-ul">
+          <a href="<?php echo "/learn-to-play-the-bagpipes";?>"><h2>Learn to Play Bagpipes Info</h2></a>
+          <li class="footer-li"><a href="<?php echo "/learn-to-play-the-bagpipes/in-person-bagpipe-lessons";?>">In Person Lessons</a></li>
+          <li class="footer-li"><a href="<?php echo "/learn-to-play-the-bagpipes/online-bagpipe-lessons";?>">Online Bagpipe Lessons</a></li>
+        </ul>
+
+        <li onclick="mobile3()" class="button-mobile">
+          <div class="collapsible-parent-div">
+            <span>Bagpipe FAQ's</span>
+            <img class="down-arrow" src="./img/home-arrow-bottom.png">
+          </div>
+        </li>
+        <ul id="faq" class="nyc-bagpipes-faq-ul-mobile collapsible-ul">
+          <a href="<?php echo "/bagpipe-faq";?>"><h2>NYC Bagpipes FAQ's Info</h2></a>
+          <li class="footer-li"><a href="<?php echo "/bagpipe-faq/hire-a-bagpiper";?>">Hire a Bagpiper FAQ's</a></li>
+          <li class="footer-li"><a href="<?php echo "/bagpipe-faq/learn-to-play-bagpipes";?>">Learn to Play Bagpipes FAQ's</a></li>
+        </ul>
+
+        <li class="button-mobile"><a class="bagpipe-faqs-link-mobile" href="<?php echo "/bagpipe-blog";?>"><h2>NYC Bagpipes Blog</h2></a></li>
+      
+      </ul>
+    </div>
+
     <div class="footer-keywords footer-group">
       <p>NYC Bagpipes is an easy and 
       reliable service that provides a high quality, professional 
