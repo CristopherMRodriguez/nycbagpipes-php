@@ -27,7 +27,7 @@
 						<h2 class="section-subtitle">Hiring a Bagpiper Info</h2>
 					</button>
 				</a>   
-				<p class="section-p">Learn more about about commonly asked questions about hiring a bagpiper.</p>
+				<p class="section-p">Learn more about commonly asked questions about hiring a bagpiper.</p>
 			</div>
 		</section>
 		<div class="section-border"></div>
@@ -39,7 +39,7 @@
 						<h2 class="section-subtitle">Online Bagpipe Lessons Info</h2>
 					</button>
 				</a>
-				<p class="section-p">Learn more about about commonly asked questions about learning how to play the bagpipes</p>
+				<p class="section-p">Learn more about commonly asked questions about learning how to play the bagpipes</p>
 			</div>
 			<a class="pic-anchor"  class="button" href="<?php echo "/bagpipe-faq/learn-to-play-bagpipes";?>">
 				<img class="online-bagpipes-img" src="../img/children-playing-bagpipes.jpg" alt="Learning How to Play Bagpipes FAQ's">

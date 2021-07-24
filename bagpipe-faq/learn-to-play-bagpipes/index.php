@@ -16,8 +16,15 @@
 					Below is a list of commonly asked questions about learning how to play bagpipes.
 				</p>
 				<p class="section-p">
-					Coming soon.
+					Check regularly for new content!
 				</p>
+			</div>
+		</section>
+		<section class="blog-link-section">	
+			<div class="blog-links">
+				<ul>
+					<li><a class="section-title" href="../../bagpipe-blog/learn-to-play-the-bagpipes-blog.php">How to Learn the Bagpipes (the right way)</a></li>
+				</ul>
 			</div>
 		</section>		
 		<?php require "../../components/footer.php";?>
