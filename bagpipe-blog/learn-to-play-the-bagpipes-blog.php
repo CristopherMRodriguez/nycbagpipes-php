@@ -11,22 +11,21 @@
 		
 		<section class="blog-post-section">
 			<div class="blog-post-div">
-				<div class="blog-post-beginning">
-					<h1 class="section-title blog-post-title">How to learn the bagpipes?</h1>
-					<!--img src="" alt="How to Learn the Bagpipes"-->
-					<ol class="blog-list">
-						<li class="blog-list-item">Purchase a good quality practice chanter</li>
-						<li class="blog-list-item">Consider hiring a qualified instructor</li>
-						<li class="blog-list-item">Join a local band that offers instruction to beginners</li>
-						<li class="blog-list-item">Practice regularly on the practice chanter</li>
-						<li class="blog-list-item">Practice the bagpipes regularly.</li>
-						<li class="blog-list-item">Join a band</li>
-						<li class="blog-list-item">Perform publicly</li>
-						<li class="blog-list-item">Compete in competitions</li>
-						<li class="blog-list-item">Keep learning</li>
-						<li class="blog-list-item">Become a teacher</li>
-					</ol>
-				</div>
+				<h1 class="section-title blog-post-title">How to learn the bagpipes?</h1>
+				<!--img src="" alt="How to Learn the Bagpipes"-->
+				<ol class="blog-list">
+					<li class="blog-list-item">Purchase a good quality practice chanter</li>
+					<li class="blog-list-item">Consider hiring a qualified instructor</li>
+					<li class="blog-list-item">Join a local band that offers instruction to beginners</li>
+					<li class="blog-list-item">Practice regularly on the practice chanter</li>
+					<li class="blog-list-item">Practice the bagpipes regularly.</li>
+					<li class="blog-list-item">Join a band</li>
+					<li class="blog-list-item">Perform publicly</li>
+					<li class="blog-list-item">Compete in competitions</li>
+					<li class="blog-list-item">Keep learning</li>
+					<li class="blog-list-item">Become a teacher</li>
+				</ol>
+				
 				<div class="section-border"></div>
 				<h2 class="section-subtitle blog-h2">Short Term Goals for Learning to Play the Bagpipes</h2>
 

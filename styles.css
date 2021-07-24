@@ -446,8 +446,15 @@ p {
 /*Blog Posting Section */
 
 .blog-post-section {
-	text-align: left;
 	padding: 10px;
+	max-width: 700px;
+	margin: 0 auto;
+}
+
+.blog-post-div {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
 }
 
 .blog-post-title {
@@ -455,9 +462,10 @@ p {
 }
 
 .blog-list {
-	margin-top: 10px;
-	margin-left: 15px;
+	margin: 10px auto;
 	padding: 12px;
+	text-align: left;
+	font-family: var(--ff-secondary);
 }
 
 .blog-list-item {
@@ -479,6 +487,8 @@ p {
 
 .blog-post-p {
 	margin-top: 20px;
+	max-width: 700px;
+	text-align: left;
 }
 
 /*media layout*/
