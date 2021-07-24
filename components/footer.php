@@ -33,7 +33,7 @@
         <li onclick="mobile()" class="button-mobile">
           <div class="collapsible-parent-div">
             <span>Hire a Bagpiper</span>
-            <img class="down-arrow" src="./img/home-arrow-bottom.png">
+            <img class="down-arrow" src="https://nycbagpipes.com/img/home-arrow-bottom.png">
           </div>
         </li>
         <ul id="hire" class="hire-a-bagpiper-footer-ul-mobile collapsible-ul">
@@ -47,7 +47,7 @@
         <li onclick="mobile2()" class="button-mobile">
           <div class="collapsible-parent-div">
             <span>Learn to Play Bagpipes</span>
-            <img class="down-arrow" src="./img/home-arrow-bottom.png">
+            <img class="down-arrow" src="https://nycbagpipes.com/img/home-arrow-bottom.png">
           </div>
         </li>
         <ul id="learn" class="learn-to-play-bagpipes-footer-ul-mobile collapsible-ul">
@@ -59,7 +59,7 @@
         <li onclick="mobile3()" class="button-mobile">
           <div class="collapsible-parent-div">
             <span>Bagpipe FAQ's</span>
-            <img class="down-arrow" src="./img/home-arrow-bottom.png">
+            <img class="down-arrow" src="https://nycbagpipes.com/img/home-arrow-bottom.png">
           </div>
         </li>
         <ul id="faq" class="nyc-bagpipes-faq-ul-mobile collapsible-ul">
@@ -91,7 +91,7 @@
     </div>
     <div class="email-div footer-group">
       <p class="email-div-p">Email us at: </p>
-      <a class="email-anchor-footer" href="nycbagpipes@gmail.com">NYCBagpipes@gmail.com</a>
+      <a class="email-anchor-footer" href="mailto: nycbagpipes@gmail.com">NYCBagpipes@gmail.com</a>
     </div>
   </footer>
 </section>

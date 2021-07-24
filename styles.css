@@ -31,7 +31,7 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
-ol, ul {
+ul {
 	list-style: none;
 }
 blockquote, q {
@@ -430,6 +430,58 @@ p {
 	color: var(--light);
 	font-size: 24px;
 }
+
+.home-blog-links {
+	font-family: var(--ff-secondary);
+	font-size: 30px;
+}
+
+/*Bagpipe Blog Landing Page */
+
+.blog-link-section {
+	margin: 100px 0 100px 0;
+	font-family: var(--ff-secondary);
+}
+
+/*Blog Posting Section */
+
+.blog-post-section {
+	text-align: left;
+	padding: 10px;
+}
+
+.blog-post-title {
+	margin-top: 25px;
+}
+
+.blog-list {
+	margin-top: 10px;
+	margin-left: 15px;
+	padding: 12px;
+}
+
+.blog-list-item {
+	padding: 10px;
+}
+
+.blog-h2 {
+	font-size: 24px;
+	padding-top: 50px;
+	font-weight: 900;
+	text-align: center;
+}
+
+.blog-h3 {
+	font-size: 22px;
+	font-weight: 600;
+	margin-top: 25px;
+}
+
+.blog-post-p {
+	margin-top: 20px;
+}
+
+/*media layout*/
 
 @media (max-width: 500px) {
 	.hero-title {

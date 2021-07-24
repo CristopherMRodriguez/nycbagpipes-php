@@ -69,7 +69,7 @@
 						<h3 class="section-subtitle">Click here to read the blog.</h3>
 					</button>
 				</a>
-				<p class="section-p">Some (hopefully) useful info on hiring a bagpiper, learning bagpipes, and other bagpiper related stuff.</p>
+				<a class="home-blog-links" href="./bagpipe-blog/learn-to-play-the-bagpipes-blog.php">How to Learn the Bagpipes (the right way)</a> 
 			</div>
 			<a class="pic-anchor"  class="button" href="<?php echo "/bagpipe-blog";?>">
 				<img src="./img/bagpipes-blog.jpeg" alt="Bagpipes Blog">  

@@ -15,11 +15,15 @@
 				<p class="section-p">
 					Below is the blog on various topics on bagpiping.
 				</p>
-				<p class="section-p">
-					The blog is coming soon.
-				</p>
 			</div>
-		</section>		
+		</section>	
+		<section class="blog-link-section">	
+			<div class="blog-links">
+				<ul>
+					<li><a class="section-title" href="./bagpipe-blog/learn-to-play-the-bagpipes-blog.php">How to Learn the Bagpipes (the right way)</a></li>
+				</ul>
+			</div>
+		</section>
 		<?php require "../components/footer.php";?>
 		<script src="../script.js"></script>
 	</body>
