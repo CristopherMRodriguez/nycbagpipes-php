@@ -25,7 +25,7 @@
 					<li class="blog-list-item">Keep learning</li>
 					<li class="blog-list-item">Become a teacher</li>
 				</ol>
-				
+
 				<div class="section-border"></div>
 				<h2 class="section-subtitle blog-h2">Short Term Goals for Learning to Play the Bagpipes</h2>
 
@@ -46,14 +46,14 @@
 				<p class="section-p blog-post-p">This has pros and cons.  This is actually the route that I had begun with.  I learned in a high school band.  But you will be limited by the skills in whoever is teaching you.  If you are in certain areas, like NYC, Scotland, New Zealand, there are no shortages of pipe bands, and many of them offer free instruction to beginning bagpipe players. Free isn’t always necessarily a good thing, particularly if the qual ity of instruction is poor.  However, some of the perks may include learning with others and, if you progress, you may end up playing with the band.  I would suggest if you want to go this route to find a band that sounds good.  If you are going to hire an instructor, then they can help you with that.  If you live in the NYC tri-state area, contact me.</p>
 				
 				<div class="section-border"></div>
-				<h3 class="section-subtitle blog-h3">Practice regularly on the chanter.</h3>
+				<h3 class="section-subtitle blog-h3">Practice regularly on the chanter</h3>
 				<p class="section-p blog-post-p">This should be obvious but then again some people are lazy and expect good results. Bagpiping is a skill, and a skill takes time to learn. So try to set some time in your day to practice 20 minutes minimum.  30 minutes is better; 60 minutes and you’ll be flying. The beauty of it is is that practicing reaps rewards and it is a nurturing process. Furthermore, you’d be wasting your money or instructor’s time if you didn’t reinforce your lessons with adequate practice. Even the most patient instructors may break and tell you that this just isn’t working out if you don’t put any effort at all into practicing.</p>
 			
 				<div class="section-border"></div>
 				<h2 class="section-subtitle blog-h2">Mid Term Goals for Learning to Play the Bagpipes</h2>
 
 				<div class="section-border"></div>
-				<h3 class="section-subtitle blog-h3">Practice the bagpipes regularly. </h3>
+				<h3 class="section-subtitle blog-h3">Practice the bagpipes regularly</h3>
 				<p class="section-p blog-post-p">This goes hand in hand with the above but this can also get more complicated.  You can’t just practice on the practice chanter and magically get good on the bagpipes.  Perhaps you’ll develop amazing fingerwork on the practice chanter, but that won’t fill in all the holes (no pun intended) of being able to play on actual bagpipes.  As mentioned before, the bagpipes are physically demanding so it requires the development of fitness and endurance. This will build up but it too is a skill that must be developed.  Blowing the bagpipe and squeezing it requires coordination to get any sound out of it.  The better you get, the better the tonal quality will get.  These are very important steps that can only be reached by regular practice of the bagpipes. Don’t be like some guys in bands who only pull out their bagpipes in March to play in the St. Patrick’s parade, never to play again after the beer runs out on March 17th. They are poor players. </p>
 				<p class="section-p blog-post-p">That being said, playing on the bagpipes regularly can pose difficulty. As my sister likes to remind me: it sounded like a dying cow when I was learning to play. Do you have a partner who is going to be sympathetic to your new and very loud hobby? Do you have a newborn baby who won’t mind? If you rent a rehearsal place to practice, will you commit time? Will your neighbors kill you? I live in a multifamily home in New York City with upstairs neighbors. For this reason, I practice in a basement. Because I am a serious piper, it has often been a large factor in me not choosing to move to a new location. And thankfully, my upstairs neighbor who can be sometimes annoying, is at least a fan of the bagpipes. At the very least, if you have a band that meets up weekly for practice, hopefully you can get some practice there.</p>
 			
