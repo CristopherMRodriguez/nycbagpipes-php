@@ -491,6 +491,19 @@ p {
 	text-align: left;
 }
 
+.blog-link {
+	text-align: left;
+	margin: 50px;
+}
+
+.bold {
+	font-weight: 900;
+}
+
+.questions {
+	margin: 20px auto;
+}
+
 /*media layout*/
 
 @media (max-width: 500px) {

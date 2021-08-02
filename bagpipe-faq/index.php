@@ -36,7 +36,7 @@
 				<h1 class="section-title">Learning Bagpipes FAQ's</h1>
 				<a class="landing-page-button-a" href="<?php echo "/bagpipe-faq/learn-to-play-bagpipes";?>">					
 					<button class="landing-page-button">
-						<h2 class="section-subtitle">Online Bagpipe Lessons Info</h2>
+						<h2 class="section-subtitle">How to Learn Bagpipes Info</h2>
 					</button>
 				</a>
 				<p class="section-p">Learn more about commonly asked questions about learning how to play the bagpipes</p>

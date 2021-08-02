@@ -16,7 +16,7 @@
 					Below is a list of commonly asked questions about hiring a bagpiper.
 				</p>
 				<p class="section-p">
-					Coming soon.
+					Coming soon!
 				</p>
 			</div>
 		</section>		

@@ -81,7 +81,7 @@
 				<p class="section-p blog-post-p">They say you don’t know anything until you can teach it. When a student asks a question, an instructor’s knowledge is put to the test. Perhaps one day your knowledge will be put to the test too.</p>
 				
 				<div class="section-border"></div>
-				<p class="section-p blog-post-p">Happy Piping.  Have any questions? Shoot me an <a href="mailto: nycbagpipes@gmail.com">email</a>.</p>
+				<p class="section-p questions">Happy Piping.  Have any questions? Shoot me an <a href="mailto: nycbagpipes@gmail.com">email</a>.</p>
 				
 			</div>
 		</section>
