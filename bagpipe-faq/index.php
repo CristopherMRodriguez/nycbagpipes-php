@@ -41,7 +41,7 @@
 				</a>
 				<p class="section-p">Learn more about commonly asked questions about learning how to play the bagpipes</p>
 			</div>
-			<a class="pic-anchor"  class="button" href="<?php echo "/bagpipe-faq/learn-to-play-bagpipes";?>">
+			<a class="pic-anchor"  class="button" href="<?php echo "/bagpipe-faq/hire-a-bagpiper/learn-to-play-bagpipes.php";?>">
 				<img class="online-bagpipes-img" src="../img/children-playing-bagpipes.jpg" alt="Learning How to Play Bagpipes FAQ's">
 			</a>
 		</section>		
