@@ -1,3 +1,4 @@
+<?php $cur_dir = getcwd();?>
 <?php require "../../components/head.php"?>
 		<title>Bagpipe FAQ - Hire a Bagpipe FAQ's</title>
 		<?php $content = "Info on how to hire a bagpiper.  How much does it cost to hire a bagpiper for a funeral?  FAQ's on how to hire a bagpiper near me.  How much does a wedding bagpiper cost?";?>
@@ -15,11 +16,16 @@
 				<p class="section-p">
 					Below is a list of commonly asked questions about hiring a bagpiper.
 				</p>
-				<p class="section-p">
-					Coming soon!
-				</p>
 			</div>
-		</section>		
+		</section>
+		<section class="blog-link-section">	
+			<div class="blog-links">
+				<ul>
+					<li class="blog-link"><a class="section-title" target="blank" href="<?php echo '/how-much-does-a-bagpiper-cost.php';?>">How much does a bagpiper cost?</a></li>
+					<li class="blog-link"><a class="section-title" target="blank" href="<?php echo "./";?>">Why NYC Bagpipes?</a></li>
+				</ul>
+			</div>
+		</section>
 		<?php require "../../components/footer.php";?>
 		<script src="../../script.js"></script>
 	</body>

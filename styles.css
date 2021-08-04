@@ -113,7 +113,7 @@ p {
 }
 
 .call-button{
-	background-color: var(--dark);
+	background-color: var(--red);
 	border-radius: 45px;
 	height: 40px;
 	margin: 10px;
@@ -130,7 +130,7 @@ p {
 
 .call-anchor :hover{
 	transform: scale(1.01); 
-	background-color: var(--light-gray);
+	background-color: var(--light);
 	color: var(--dark);
 }
 
@@ -367,9 +367,7 @@ p {
 .bottom-section {
 	margin-bottom: 50px;
 	height: 100%;
-	
 }
-
 
 /* footer section */
 
@@ -436,7 +434,7 @@ p {
 	font-size: 30px;
 }
 
-/*Bagpipe Blog Landing Page */
+/*Bagpipe Blog Landing Page and FAQ */
 
 .blog-link-section {
 	margin: 100px 0 100px 0;
