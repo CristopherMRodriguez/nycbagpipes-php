@@ -14,9 +14,8 @@
 				<h1 class="section-title">Hiring a Bagpiper for a Wedding Ceremony</h1>
 				<p class="section-p">
 					Nothing makes a wedding ceremony more joyous and lively than having a bagpiper play.  A typical 
-					ceremony may have a piper welcome guests as they enter the church with joyous music before entering
-					a church.  After the ceremony is over music welcomes the guests to celebrate the newly wedded couple.
-					You may also choose to incorporate having a piper play during the ceremony as well.
+					ceremony may have a piper welcome guests as they enter the ceremonial location with joyous music.  After the wedding is over the music continues to welcome the newly wedded couple.
+					You may also choose to have a piper perform in the ceremony as well.
 				</p>
 				<p class="section-p">
 					Simply give us a call or email and provide us with the details of the wedding ceremony.  We are open to special requests, 
