@@ -498,8 +498,8 @@ p {
 }
 
 .blog-link {
-	text-align: left;
-	margin: 50px;
+	text-align: center;
+	margin: 50px auto;
 }
 
 .bold {
@@ -620,7 +620,7 @@ p {
 		height: 1200px;
 	}
 	.blog-link {
-		margin: 20px;
+		margin: 25px 10px 25px 10px;
 	}
 }
 

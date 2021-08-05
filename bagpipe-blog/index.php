@@ -23,8 +23,8 @@
 		<section class="blog-link-section">	
 			<div class="blog-links">
 				<ul>
-					<li class="blog-link"><a class="section-title" href="./how-to-hire-a-bagpiper.php">How to Hire a Bagpiper</a></li>
-					<li class="blog-link"><a class="section-title" href="./learn-to-play-the-bagpipes-blog.php">How to Learn the Bagpipes (the right way)</a></li>
+					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/how-to-hire-a-bagpiper.php">How to Hire a Bagpiper</a></li>
+					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/learn-to-play-the-bagpipes-blog.php">How to Learn the Bagpipes (the right way)</a></li>
 				</ul>
 			</div>
 		</section>

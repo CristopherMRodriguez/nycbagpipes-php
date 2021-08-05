@@ -13,7 +13,7 @@
 			<div class="section-div-sub">
 				<h1 class="section-title">Learn How to Play Bagpipes FAQ's</h1>
 				<p class="section-p">
-					Below is a list of commonly asked questions about learning how to play bagpipes.
+					See below for a list of commonly asked questions about learning how to play bagpipes.
 				</p>
 				<p class="section-p">
 					Check regularly for new content!
@@ -23,6 +23,7 @@
 		<section class="blog-link-section">	
 			<div class="blog-links">
 				<ul>
+					<li class="blog-link"><a class="section-title" href="/bagpipe-faq/learn-to-play-bagpipes/how-do-i-learn-to-play-the-bagpipes.php">How do I learn to play the bagpipes?</a></li>
 					<li class="blog-link"><a class="section-title" href="../../bagpipe-blog/learn-to-play-the-bagpipes-blog.php">How to Learn the Bagpipes (the right way)</a></li>
 				</ul>
 			</div>
