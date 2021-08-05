@@ -24,7 +24,7 @@
 					<li class="blog-link"><a class="section-title blog-link-a" target="blank" href="<?php echo "/bagpipe-faq/hire-a-bagpiper/why-nyc-bagpipes.php";?>">Why NYC Bagpipes?</a></li>
 					<li class="blog-link"><a class="section-title blog-link-a" target="blank" href="<?php echo "/bagpipe-faq/hire-a-bagpiper/what-does-a-bagpiper-do-at-a-funeral.php";?>">What does a bagpiper do at a funeral?</a></li>
 					<li class="blog-link"><a class="section-title blog-link-a" target="blank" href="<?php echo "/bagpipe-faq/hire-a-bagpiper/what-does-a-bagpiper-do-at-a-wedding.php";?>">What does a bagpiper do at a wedding?</a></li>
-					<li class="blog-link"><a class="section-title blog-link-a" target="blank" href="<?php echo "/bagpipe-faq/hire-a-bagpiper/do-you-only-play-in-nyc.php";?>">Do you only play in NYC?</a></li>
+					<li class="blog-link"><a class="section-title blog-link-a" target="blank" href="<?php echo "/bagpipe-faq/hire-a-bagpiper/does-nyc-bagpipes-only-perform-in-nyc.php";?>">Does NYC Bagpipes Only Perform In NYC?</a></li>
 				</ul>
 			</div>
 		</section>
