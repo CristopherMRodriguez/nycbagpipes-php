@@ -10,7 +10,7 @@
 		<?php require "../../components/nav.php";?>
 		<section class="section bottom-section">
 			<img src="../../img/bagpiper-funeral.jpg" alt="Hire a Bagpiper FAQ's">
-			<div class="section-div-sub">
+			<div class="section-div hire-a-bagpiper-faq-section">
 				<h1 class="section-title">Hire a Bagpiper FAQ's</h1>
 				<p class="section-p">
 					Below is a list of commonly asked questions about hiring a bagpiper.
@@ -20,8 +20,11 @@
 		<section class="blog-link-section">	
 			<div class="blog-links">
 				<ul>
-					<li class="blog-link"><a class="section-title" target="blank" href="<?php echo "/bagpipe-faq/hire-a-bagpiper/how-much-does-a-bagpiper-cost.php";?>">How much does a bagpiper cost?</a></li>
-					<li class="blog-link"><a class="section-title" target="blank" href="<?php echo "/bagpipe-faq/hire-a-bagpiper/why-nyc-bagpipes.php";?>">Why NYC Bagpipes?</a></li>
+					<li class="blog-link"><a class="section-title blog-link-a" target="blank" href="<?php echo "/bagpipe-faq/hire-a-bagpiper/how-much-does-a-bagpiper-cost.php";?>">How much does a bagpiper cost?</a></li>
+					<li class="blog-link"><a class="section-title blog-link-a" target="blank" href="<?php echo "/bagpipe-faq/hire-a-bagpiper/why-nyc-bagpipes.php";?>">Why NYC Bagpipes?</a></li>
+					<li class="blog-link"><a class="section-title blog-link-a" target="blank" href="<?php echo "/bagpipe-faq/hire-a-bagpiper/what-does-a-bagpiper-do-at-a-funeral.php";?>">What does a bagpiper do at a funeral?</a></li>
+					<li class="blog-link"><a class="section-title blog-link-a" target="blank" href="<?php echo "/bagpipe-faq/hire-a-bagpiper/what-does-a-bagpiper-do-at-a-wedding.php";?>">What does a bagpiper do at a wedding?</a></li>
+					<li class="blog-link"><a class="section-title blog-link-a" target="blank" href="<?php echo "/bagpipe-faq/hire-a-bagpiper/do-you-only-play-in-nyc.php";?>">Do you only play in NYC?</a></li>
 				</ul>
 			</div>
 		</section>
