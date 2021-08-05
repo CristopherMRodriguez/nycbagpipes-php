@@ -506,6 +506,10 @@ p {
 	font-weight: 900;
 }
 
+.italic {
+	font-style: italic;
+}
+
 .questions {
 	margin: 20px auto;
 }
