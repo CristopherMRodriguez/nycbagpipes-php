@@ -18,7 +18,7 @@
 		</section>
 		<section class="section section-odd">
 			<a class="pic-anchor"  class="button" href="<?php echo "/hire-a-bagpiper";?>">
-				<img src="./img/bagpiper-playing.jpg" alt="Bagpiper Playing Bagpipes">  
+				<img src="./img/bagpiper-playing.jpg" alt="Button to Hire a Bagpiper">  
 			</a>
 			<div class="section-div">
 				<h1 class="section-title">Hire a Bagpiper</h1>
@@ -42,19 +42,19 @@
 				<p class="section-p">Want to learn how to play the bagpipes? Our instructors will get you on your way to learning to play the bagpipes.</p>
 			</div>
 			<a class="pic-anchor"  class="button" href="<?php echo "/learn-to-play-the-bagpipes";?>">
-				<img src="./img/children-playing-bagpipes.jpg" alt="Children Playing Bagpipes">
+				<img src="./img/children-playing-bagpipes.jpg" alt="Button to Learn How to Play Bagpipes">
 			</a>
 		</section>
 		<div class="section-border"></div>
 		<section class="section section-odd">
 			<a class="pic-anchor"  class="button" href="<?php echo "/bagpipe-faq";?>">
-				<img src="./img/bagpipes-faq.jpeg" alt="Bagpipes FAQ's">
+				<img src="./img/bagpipes-faq.jpeg" alt="Button for Bagpipes FAQ's">
 			</a>
 			<div class="section-div">
 				<h2 class="section-title">NYC Bagpipes FAQ's</h2>
 				<a class="landing-page-button-a"  class="button" href="<?php echo "/bagpipe-faq";?>">
 					<button class="landing-page-button">
-						<h3 class="section-subtitle">Click here to learn more about frequently asked questions.</h3>
+						<h3 class="section-subtitle">Click here to learn more about frequently asked questions about bagpiping.</h3>
 					</button>
 				</a>
 				<p class="section-p">Click here to read our bagpipe FAQ.</p>
@@ -66,14 +66,14 @@
 				<h2 class="section-title">NYC Bagpipes Blog</h2>
 				<a class="landing-page-button-a"  class="button" href="<?php echo "/bagpipe-blog";?>">
 					<button class="landing-page-button">
-						<h3 class="section-subtitle">Click here to read the blog.</h3>
+						<h3 class="section-subtitle">Click here to read the bagpipe blog.</h3>
 					</button>
 				</a>
 				<a class="home-blog-links" href="./bagpipe-blog/how-to-hire-a-bagpiper.php">How to Hire a Bagpiper</a> 
 				<a class="home-blog-links" href="./bagpipe-blog/learn-to-play-the-bagpipes-blog.php">How to Learn the Bagpipes (the right way)</a> 
 			</div>
 			<a class="pic-anchor"  class="button" href="<?php echo "/bagpipe-blog";?>">
-				<img src="./img/bagpipes-blog.jpeg" alt="Bagpipes Blog">  
+				<img src="./img/bagpipes-blog.jpeg" alt="Button for Bagpipes Blog">  
 			</a>
 		</section>		
 		<?php require "./components/footer.php";?>

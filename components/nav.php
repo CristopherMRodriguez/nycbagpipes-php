@@ -5,8 +5,9 @@
         <li class="nav-ul-li"><a class="nav-ul__li__a"href="<?php echo $Site . "/";?>">Home</a><li>
         <li class="nav-ul-li"><a class="nav-ul__li__a"href="<?php echo $Site . "/hire-a-bagpiper";?>">Hire a Bagpiper</a><li>
         <li class="nav-ul-li"><a class="nav-ul__li__a"href="<?php echo $Site . "/learn-to-play-the-bagpipes";?>">Learn to Play Bagpipes</a><li>          
-        <li class="nav-ul-li"><a class="nav-ul__li__a"href="<?php echo $Site . "/bagpipe-faq";?>">NYC Bagpipes FAQ's</a><li>
-        <li class="nav-ul-li"><a class="nav-ul__li__a"href="<?php echo $Site . "/bagpipe-blog";?>">NYC Bagpipes Blog</a><li>
+        <li class="nav-ul-li"><a class="nav-ul__li__a"href="<?php echo $Site . "/bagpipe-faq";?>">FAQ's</a><li>
+        <li class="nav-ul-li"><a class="nav-ul__li__a"href="<?php echo $Site . "/bagpipe-blog";?>">Blog</a><li>
+        <li class="nav-ul-li"><a class="nav-ul__li__a"href="<?php echo $Site . "/bagpipe-news";?>">News</a><li>
       </ul> 
     </nav>
     <nav class="nav-hamburger">
@@ -15,8 +16,9 @@
         <li class="hamburger-nav-ul-li"><a class="hamburger-nav-ul__li__a"href="<?php echo $Site . "/";?>">Home</a><li>
         <li class="hamburger-nav-ul-li"><a class="hamburger-nav-ul__li__a"href="<?php echo $Site . "/hire-a-bagpiper";?>">Hire a Bagpiper</a><li>
         <li class="hamburger-nav-ul-li"><a class="hamburger-nav-ul__li__a"href="<?php echo $Site . "/learn-to-play-the-bagpipes";?>">Learn to Play Bagpipes</a><li>          
-        <li class="hamburger-nav-ul-li"><a class="hamburger-nav-ul__li__a"href="<?php echo $Site . "/bagpipe-faq";?>">NYC Bagpipes FAQ's</a><li>
-        <li class="hamburger-nav-ul-li"><a class="hamburger-nav-ul__li__a"href="<?php echo $Site . "/bagpipe-blog";?>">NYC Bagpipes Blog</a><li>
+        <li class="hamburger-nav-ul-li"><a class="hamburger-nav-ul__li__a"href="<?php echo $Site . "/bagpipe-faq";?>">FAQ's</a><li>
+        <li class="hamburger-nav-ul-li"><a class="hamburger-nav-ul__li__a"href="<?php echo $Site . "/bagpipe-blog";?>">Blog</a><li>
+        <li class="hamburger-nav-ul-li"><a class="hamburger-nav-ul__li__a"href="<?php echo $Site . "/bagpipe-news";?>">News</a><li>
       </ul>
     </nav>
     <div class="hamburger-icon" onclick="Open()">

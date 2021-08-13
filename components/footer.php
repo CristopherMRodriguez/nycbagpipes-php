@@ -20,6 +20,7 @@
         <li class="footer-li"><a href="<?php echo "/bagpipe-faq/learn-to-play-bagpipes";?>">Learn to Play Bagpipes FAQ's</a></li>
       </ul>
       <a class="footer-group-ul" href="<?php echo "/bagpipe-blog";?>"><h2>NYC Bagpipes Blog</h2></a>
+      <a class="footer-group-ul" href="<?php echo "/bagpipe-news";?>"><h2>NYC Bagpipes News</h2></a>
     </div>
 
 
@@ -33,7 +34,7 @@
         <li onclick="mobile()" class="button-mobile">
           <div class="collapsible-parent-div">
             <span>Hire a Bagpiper</span>
-            <img class="down-arrow" src="https://nycbagpipes.com/img/home-arrow-bottom.png">
+            <img class="down-arrow" src="https://nycbagpipes.com/img/home-arrow-bottom.png" alt="Button to Open ">
           </div>
         </li>
         <ul id="hire" class="hire-a-bagpiper-footer-ul-mobile collapsible-ul">
@@ -69,6 +70,7 @@
         </ul>
 
         <li class="button-mobile"><a class="bagpipe-faqs-link-mobile" href="<?php echo "/bagpipe-blog";?>"><h2>NYC Bagpipes Blog</h2></a></li>
+        <li class="button-mobile"><a class="bagpipe-faqs-link-mobile" href="<?php echo "/bagpipe-news";?>"><h2>NYC Bagpipes News</h2></a></li>
       
       </ul>
     </div>
@@ -84,9 +86,9 @@
     </div>
     <div class="social-div footer-group">
       <ul class="social-ul">
-        <li class="social-footer-li"><a class="google-icon" href="https://www.google.com/search?client=firefox-b-1-d&output=search&q=NYC+Bagpipes+-+Hire+a+Bagpiper&ludocid=1508350128923398375&lsig=AB86z5X5EUF34L-8ws3SpA8Matpa&sa=X&ved=2ahUKEwiUp7afrdHxAhUUGFkFHUAXDpIQj9IGKAAwAXoECBQQAQ&biw=1920&bih=944&dpr=1#lrd=0x89c25b3746a8f7cd:0x14eebc735f64d0e7,1,,," target="blank"><img src="https://nycbagpipes.com/img/google.svg"></a></li>
-        <li class="social-footer-li"><a href="https://www.facebook.com/nycbagpipes" target="blank"><img src="https://nycbagpipes.com/img/facebook.png"></a></li>
-        <li class="social-footer-li"><a href="https://www.yelp.com/biz/nyc-bagpipes-hire-a-bagpiper-new-york" target="blank"><img src="https://nycbagpipes.com/img/yelp.png"></a></li>
+        <li class="social-footer-li"><a class="google-icon" alt="Button for NYC Bagpipes Google My Business Web Page" href="https://www.google.com/search?client=firefox-b-1-d&output=search&q=NYC+Bagpipes+-+Hire+a+Bagpiper&ludocid=1508350128923398375&lsig=AB86z5X5EUF34L-8ws3SpA8Matpa&sa=X&ved=2ahUKEwiUp7afrdHxAhUUGFkFHUAXDpIQj9IGKAAwAXoECBQQAQ&biw=1920&bih=944&dpr=1#lrd=0x89c25b3746a8f7cd:0x14eebc735f64d0e7,1,,," target="blank"><img src="https://nycbagpipes.com/img/google.svg"></a></li>
+        <li class="social-footer-li"><a href="https://www.facebook.com/nycbagpipes" target="blank"><img alt="Button for NYC Bagpipes Facebook Web Page" src="https://nycbagpipes.com/img/facebook.png"></a></li>
+        <li class="social-footer-li"><a href="https://www.yelp.com/biz/nyc-bagpipes-hire-a-bagpiper-new-york" target="blank" alt="Button for NYC Bagpipes Yelp Web Page"><img src="https://nycbagpipes.com/img/yelp.png"></a></li>
       </ul>
     </div>
     <div class="email-div footer-group">
