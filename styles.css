@@ -506,6 +506,11 @@ p {
 	margin: 50px auto;
 }
 
+.blog-post-image {
+margin: 25px auto 25px;
+width: 400px;
+}
+
 .bold {
 	font-weight: 900;
 }
@@ -555,6 +560,10 @@ p {
 	}
 	.section img {
 		width: 300px;
+	}
+	.blog-post-image {
+		width: 300px;
+		margin: 25px auto 0px;
 	}
 	.section {
 		flex-direction: column;

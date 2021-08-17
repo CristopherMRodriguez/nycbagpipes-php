@@ -12,7 +12,7 @@
 		<section class="blog-post-section">
 			<div class="blog-post-div">
 				<h1 class="section-title blog-post-title">How do I learn to Play the Bagpipes?</h1>
-				<!--img src="" alt="How to Learn the Bagpipes"-->
+				<img class="blog-post-image" src="../../img/learn-the-bagpipes.png" alt="How to Learn the Bagpipes">
 				<div class="section-border"></div>
 				
 				<h3 class="section-subtitle blog-h3">How do I learn to play the bagpipes?</h3>

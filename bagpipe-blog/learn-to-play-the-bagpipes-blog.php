@@ -6,13 +6,13 @@
 	</head>	
 	<body>
 		<?php require "../components/googleTagBody.php";?>
-		<!--?php require "../components/call.php";?-->
+		<?php require "../components/call.php";?>
 		<?php require "../components/nav.php";?>
 		
 		<section class="blog-post-section">
 			<div class="blog-post-div">
-				<h1 class="section-title blog-post-title">How to learn the bagpipes?</h1>
-				<!--img src="" alt="How to Learn the Bagpipes"-->
+				<img class="blog-post-image" src="../img/how-to-learn-bagpipes.jpg" alt="How to Learn the Bagpipes">
+				<h1 class="section-title blog-post-title">How to learn the bagpipes</h1>
 				<ol class="blog-list">
 					<li class="blog-list-item">Purchase a good quality practice chanter</li>
 					<li class="blog-list-item">Consider hiring a qualified instructor</li>
