@@ -377,6 +377,10 @@ p {
 	height: 100%;
 }
 
+.bottom-home {
+	margin-bottom: 50px;
+}
+
 /* footer section */
 
 .footer{
@@ -505,7 +509,7 @@ p {
 	text-align: center;
 	margin: 50px auto;
 }
-
+	
 .blog-post-image {
 margin: 25px auto 25px;
 width: 400px;
@@ -528,6 +532,9 @@ width: 400px;
 @media (max-width: 500px) {
 	.hero-title {
 		font-size: 60px;
+	}
+	.home-blog-links {
+		font-size: 20px;
 	}
 }
 
