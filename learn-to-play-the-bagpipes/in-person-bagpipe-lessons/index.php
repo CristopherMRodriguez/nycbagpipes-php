@@ -14,12 +14,13 @@
 				<h1 class="section-title">Learn Bagpipes in Person</h1>
 				<p class="section-p">
 					There are many advantages to learning bagpipes in person.  The subtleties of communicating
-					music ideas are not lost; it is easier to communicate; and there are no online technical issues. 
-					It also gets us off being online.  Furthermore, when the student is ready
-					to move onto learning bagpipes, the aspect of maintaining the bagpipes becomes a critical skill
-					that is often overlooked. Having in-person bagpipe lessons helps the student gain confidence that 
-					they are playing on an instrument that is in good shape. The student also gets into the habit
-					of performing in front of another person.
+					musically are not lost; it is easier to verbally communicate; and there are no online technical issues. 
+					It gets us off being online, fully immersing the student and teacher in each other's presence with focus.  
+					Furthermore, when the student is ready
+					to move onto learning the bagpipes, the aspect of maintaining the bagpipes becomes a critical skill
+					that must not be overlooked. Having in-person bagpipe lessons helps the student gain confidence to maintain 
+					an instrument that is in good shape. The student also gets into the habit
+					of performing in front of another person, in a live setting.
 				</p>
 			</div>
 		</section>		

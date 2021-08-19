@@ -15,10 +15,11 @@
 			suits your needs.</p>
 		</div>
 		<div class="section-border"></div>
+
 		<section class="section section-odd">
-		<a class="pic-anchor" href="<?php echo "/hire-a-bagpiper//bagpiper-for-funeral" ?>">
-			<img src="../img/bagpiper-funeral.jpg" alt="Bagpiper Playing Bagpipes">
-		</a>
+			<a class="pic-anchor" href="<?php echo "/hire-a-bagpiper//bagpiper-for-funeral" ?>">
+				<img src="../img/bagpiper-funeral.jpg" alt="Bagpiper Playing Bagpipes">
+			</a>
 			<div class="section-div">
 				<h1 class="section-title">Hire a Bagpiper for a Funeral</h1>
 				<a class="landing-page-button-a"  href="<?php echo "/hire-a-bagpiper//bagpiper-for-funeral" ?>">
@@ -60,7 +61,7 @@
 			</div>
 		</section>
 		<div class="section-border"></div>
-		<section class="bottom-section section section-even">
+		<section class="section section-even">
 			<div class="section-div">
 				<h2 class="section-title">Hire a Bagpiper for a Party - or Any Event!</h2>
 				<a class="landing-page-button-a"  href="<?php echo "/hire-a-bagpiper//bagpiper-for-any-event" ?>">

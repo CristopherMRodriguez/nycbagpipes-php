@@ -300,14 +300,14 @@ p {
 	justify-content: space-evenly; /*flexes image with text area div */
 	height: 100%;
 	width: 100%;
-	padding-top: 50px;
+	padding: 50px 0;
 	font-family: var(--ff-secondary);
 }
 
 	/*text area */
 
 .section-div{
-	height: 450px;
+	/*height: 450px;*/
 	display: flex;
 	align-content: space-between; /*flexes top middle bottom section*/
 	flex-flow: wrap;
@@ -345,7 +345,7 @@ p {
 }
 
 .section-border {
-	margin: 50px auto 0;
+	margin: 0 auto 0;
 	width: 80%;
 	border: var(--light-gray) solid 1px;
 }
@@ -370,15 +370,6 @@ p {
 	border-radius: 10px;
 	background-color: var(--light-gray);
 	color: var(--dark);
-}
-
-.bottom-section {
-	margin-bottom: 50px;
-	height: 100%;
-}
-
-.bottom-home {
-	margin-bottom: 50px;
 }
 
 /* footer section */
@@ -449,7 +440,6 @@ p {
 /*Bagpipe Blog Landing Page and FAQ */
 
 .blog-link-section {
-	margin: 100px 0 100px 0;
 	font-family: var(--ff-secondary);
 }
 
@@ -491,6 +481,10 @@ p {
 	padding-top: 50px;
 	font-weight: 900;
 	text-align: center;
+}
+
+.section-border-space {
+	margin-bottom: 50px;
 }
 
 .blog-h3 {
@@ -536,6 +530,12 @@ width: 400px;
 	.home-blog-links {
 		font-size: 20px;
 	}
+	.bottom-section img {
+		margin-top: 50px;
+	}
+	.blog-post-div {
+		margin-top: 50px;
+	}
 }
 
 @media (max-width: 1200px) {
@@ -547,11 +547,14 @@ width: 400px;
 	.bottom-section img {
 		margin-bottom: 25px;
 	}
-	.hire-a-bagpiper-faq-section {
+	/*.hire-a-bagpiper-faq-section {
 		height: 300px;
-	}
+	}*/
 	.nav-ul {
 		display: none;
+	}
+	.landing-page-header h1 {
+		margin-top: 50px;
 	}
 }
 
@@ -580,24 +583,22 @@ width: 400px;
 	.section-even {
 		flex-direction: column-reverse;
 	}
-	.section-div {
-		height: 300px;
+	.section-div > * {
+		/*height: 300px;*/
 		margin-top: 25px;
 	}
-	.section-div-sub {
-		height: 500px;
-		margin-top: 25px;
-	}
+	
+
 	.call {
 		font-size: 28px;
 	}
 }
 
-@media (max-width: 575px){
+/*@media (max-width: 575px){
 	.section-div-sub {
 		height: 600px;
 	}
-}
+}*/
 
 @media (max-width: 500px){
 	.call {
@@ -606,9 +607,12 @@ width: 400px;
 	.blog-link-a {
 		font-size: 30px;
 	}
-	.section-div-sub {
-		height: 700px;
+	.landing-page-header h1 {
+		margin-top: 75px;
 	}
+	/*.section-div-sub {
+		height: 700px;
+	}*/
 }
 
 @media (max-width: 429px) {
@@ -618,16 +622,16 @@ width: 400px;
 	.footer-keywords {
 		font-size: 0.8em;
 	}
-	.section-div-sub {
+	/*.section-div-sub {
 		height: 800px;
-	}
+	}*/
 }
 
-@media (max-width: 375px) {
+/*@media (max-width: 375px) {
 	.section-div-sub {
 		height: 1100px;
 	}
-}
+}*/
 
 @media (max-width: 300px) {
 	.call {
@@ -636,9 +640,9 @@ width: 400px;
 	.call-button {
 		height: 30px;
 	}
-	.section-div-sub {
+	/*.section-div-sub {
 		height: 1200px;
-	}
+	}*/
 	.blog-link {
 		margin: 25px 10px 25px 10px;
 	}
