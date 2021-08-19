@@ -32,7 +32,7 @@
 				<p class="section-p blog-post-p">After you have decided on a particular bagpipe player to hire, the rest is usually pretty straight forward. The bagpiper may request a deposit. NYC Bagpipes does so because sometimes people will want to book for the same time slot. Putting a deposit down ensures that your event is booked, but be aware that these are usually not refundable if you wish to cancel.</p>
 				<p class="section-p blog-post-p">I also strongly suggest a short phone call to the bagpiper. A short 5 minute phone call usually irons out all the details rather than having to email back and forth. This is usually the best time to let the know if you have any tune or special requests for the performance.</p>
 				<p class="section-p blog-post-p">On the day of the event, the piper should be there early to tune the instrument to ensure a good performance. After the performance is over, you can pay them the balance due, usually via cash or PayPal or Venmo.</p>
-				<p class="section-p blog-post-p">I hope this article helps to demonstrate some tips on hiring a good bagpiper, since not all bagpipers are created equally and not all take the craft with the same degree of seriousness. Here at NYC Bagpipes we do!</p>
+				<p class="section-p blog-post-p section-border-space">I hope this article helps to demonstrate some tips on hiring a good bagpiper, since not all bagpipers are created equally and not all take the craft with the same degree of seriousness. Here at NYC Bagpipes we do!</p>
 				
 
 				<div class="section-border"></div>

@@ -19,7 +19,7 @@
 				<p class="section-p blog-post-p">AGL's are a factor in determining whether a competitor will be upgraded at the end of the season to the next, higher grade for the EUSPBA. Should Cristopher Rodriguez be upgraded, he would then be placed in the Grade 1 Amateur category for EUSPBA solo bagpipers. Above Grade 1 would be the highest grade that can be reached, which is the Professional Grade.</p>
 				<p class="section-p blog-post-p">Cristopher Rodriguez finished 2nd place overall for the 2/4 march event.</p>
 				<p class="section-p blog-post-p">Aside from competing, Cristopher Rodriguez runs NYC Bagpipes, a service that allows people to hire a bagpiper or to learn how to play the bagpipes.</p>
-				<p class="section-p blog-post-p"><span class="italic">Published: August 13th, 2021</span></p>
+				<p class="section-p blog-post-p section-border-space"><span class="italic">Published: August 13th, 2021</span></p>
 				
 				<div class="section-border"></div>
 				<p class="section-p questions">Have any questions? Shoot me an <a href="mailto: nycbagpipes@gmail.com">email</a>.</p>
