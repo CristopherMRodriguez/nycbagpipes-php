@@ -69,6 +69,7 @@
 						<h3 class="section-subtitle">Click here to read the bagpipe blog.</h3>
 					</button>
 				</a>
+				<a class="home-blog-links" href="./bagpipe-blog/donald-lindsay-history-of-the-bagpipes.php">Donald Lindsay Interview - History of the Bagpipes</a> 
 				<a class="home-blog-links" href="./bagpipe-blog/how-to-hire-a-bagpiper.php">How to Hire a Bagpiper</a> 
 				<a class="home-blog-links" href="./bagpipe-blog/learn-to-play-the-bagpipes-blog.php">How to Learn the Bagpipes (the right way)</a> 
 			</div>

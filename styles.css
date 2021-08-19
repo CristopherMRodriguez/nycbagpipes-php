@@ -522,6 +522,11 @@ width: 400px;
 	margin: 20px auto;
 }
 
+.youtube {
+	width: 700px;
+	height: 394px; 
+}
+
 /*media layout*/
 
 @media (max-width: 500px) {
