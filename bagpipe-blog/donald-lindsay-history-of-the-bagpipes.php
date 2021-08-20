@@ -23,8 +23,10 @@
 					<p class="section-p blog-post-p section-border-space"> <a href="https://drive.google.com/file/d/1pjjJ6sUMUTZ8PELcFyDBxdKex6s64gyO/view" target="_blank">Voice Interview w/ Donald Pt 2</a></p>
 					
 					<div class="video-container">
-						<iframe class="youtube section-border-space" src="https://www.youtube.com/embed/KkU9Ai_ROPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						<iframe class="youtube" src="https://www.youtube.com/embed/KkU9Ai_ROPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 					</div>
+					
+					<p class="section-border-space"></p>
 					<div class="section-border"></div>
 					<p class="section-p questions">Have any questions? Shoot me an <a href="mailto: nycbagpipes@gmail.com">email</a>.</p>
 					

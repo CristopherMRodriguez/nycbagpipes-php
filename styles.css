@@ -194,6 +194,7 @@ p {
 	position: fixed;
 	right: 15px;
 	top: 110px;
+	z-index: 100;
 }
 
 .hamburger-bar {
