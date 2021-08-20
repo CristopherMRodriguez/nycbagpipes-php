@@ -1,0 +1,32 @@
+@font-face {
+	font-family: 'Marta';
+font-style: normal;
+font-weight: 700;
+	src: url('marta_bold.eot');
+	src: url('marta_bold.eot') format('embedded-opentype'),
+			 url('marta_bold.svg#MartaBold') format('svg'),
+			 url('marta_bold.woff') format('woff'),
+			 url('marta_bold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Marta';
+font-style: italic;
+font-weight: 400;
+	src: url('marta_italic.eot');
+	src: url('marta_italic.eot') format('embedded-opentype'),
+			 url('marta_italic.svg#MartaItalic') format('svg'),
+			 url('marta_italic.woff') format('woff'),
+			 url('marta_italic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Marta';
+font-style: normal;
+font-weight: 400;
+	src: url('marta_regular.eot');
+	src: url('marta_regular.eot') format('embedded-opentype'),
+			 url('marta_regular.svg#MartaRegular') format('svg'),
+			 url('marta_regular.woff') format('woff'),
+			 url('marta_regular.ttf') format('truetype');
+}
