@@ -13,7 +13,8 @@
 				<div class="blog-post-div">
 					<h1 class="section-title blog-post-title">History of the Highland Bagpipes - Video Interview with Donald Lindsay</h1>
 					<img class="blog-post-image" src="../img/donald-lindsay-bagpipes.jpeg" alt="Donald Lindsay Music Album - History of the Highland Bagpipes">
-
+					
+					<p class="section-border-space"></p>
 					<div class="section-border"></div>
 					
 					<p class="section-p blog-post-p">In this video Donald Lindsay, a respected bagpipe instructor and award winning bagpiper, gives us a brief history of the highland bagpipes, spanning several hundreds of years. We explore piobaireachd, the McCrimmons, highland history, military aspects of the pipes, some of his personal life and interactions with famous pipers, as well as the challenges that modern bagpipers face.</p>
