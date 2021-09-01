@@ -37,7 +37,7 @@
 				<h3 class="section-subtitle blog-h3">What do I need to buy to start learning how to play the bagpipes?</h3>
         <ul class="blog-list section-p blog-post-p">
           <li class="blog-list-item"><a target="blank" href="https://www.hendersongroupltd.com/product/mccallum-long-poly-practice-chanter-with-imitation-ivory/">A practice chanter</a></li>
-					<li class="blog-list-item section-border-space"><a target="blank" href="https://www.hendersongroupltd.com/product/piping-centre-green-book-volume-1-with-web-videos/">A learning book.</a> If you hire me as a tutor, I can provide you with free learning material!</li>
+					<li class="blog-list-item section-border-space"><a target="blank" href="https://www.hendersongroupltd.com/product/piping-centre-green-book-volume-1-with-web-videos/">A bagpipe tutorial book.</a> If you hire me as a tutor, I can provide you with free learning material!</li>
 				</ul>
 
 				<div class="section-border"></div>

@@ -20,8 +20,8 @@
 					<p class="section-p blog-post-p">In this video Donald Lindsay, a respected bagpipe instructor and award winning bagpiper, gives us a brief history of the highland bagpipes, spanning several hundreds of years. We explore piobaireachd, the McCrimmons, highland history, military aspects of the pipes, some of his personal life and interactions with famous pipers, as well as the challenges that modern bagpipers face.</p>
 					<p class="section-p blog-post-p"><a href="https://www.donaldlindsay.info/" target="_blank">Donald Lindsay's website</a></p>
 					<p class="section-p blog-post-p"><a href="https://donaldlindsay.bandcamp.com/releases" target="_blank">Donald Lindsay Music Album</a></p>
-					<p class="section-p blog-post-p"><a href="https://drive.google.com/file/d/1UAM50Zi197tPNvjAos-rY-gsxn-wcxMj/view" target="_blank">Voice Interview w/ Donald Pt 1</a></p>
-					<p class="section-p blog-post-p section-border-space"> <a href="https://drive.google.com/file/d/1pjjJ6sUMUTZ8PELcFyDBxdKex6s64gyO/view" target="_blank">Voice Interview w/ Donald Pt 2</a></p>
+					<p class="section-p blog-post-p"><a href="https://drive.google.com/file/d/1UAM50Zi197tPNvjAos-rY-gsxn-wcxMj/view" target="_blank">Voice Interview w/ Donald Lindsay Pt 1</a></p>
+					<p class="section-p blog-post-p section-border-space"> <a href="https://drive.google.com/file/d/1pjjJ6sUMUTZ8PELcFyDBxdKex6s64gyO/view" target="_blank">Voice Interview w/ Donald Lindsay Pt 2</a></p>
 					
 					<div class="video-container">
 						<iframe class="youtube" src="https://www.youtube.com/embed/KkU9Ai_ROPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
