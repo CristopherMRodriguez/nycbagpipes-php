@@ -61,7 +61,7 @@
 			</div>
 		</section>
 		<div class="section-border"></div>
-		<section class="section section-even bottom-home">
+		<section class="section section-even">
 			<div class="section-div">
 				<h2 class="section-title">NYC Bagpipes Blog</h2>
 				<a class="landing-page-button-a"  class="button" href="<?php echo "/bagpipe-blog";?>">
@@ -77,7 +77,25 @@
 			<a class="pic-anchor"  class="button" href="<?php echo "/bagpipe-blog";?>">
 				<img src="./img/bagpipes-blog.jpeg" alt="Button for Bagpipes Blog">  
 			</a>
-		</section>		
+		</section>
+		<div class="section-border"></div>
+		<section class="section section-odd">
+			<a class="pic-anchor"  class="button" href="<?php echo "/bagpipe-news";?>">
+				<img src="./img/bagpipe-news.jpeg" alt="Button for Bagpipes News">
+			</a>
+			<div class="section-div">
+				<h2 class="section-title">NYC Bagpipes News</h2>
+				<a class="landing-page-button-a" class="button" href="<?php echo "/bagpipe-news";?>">
+					<button class="landing-page-button">
+						<h3 class="section-subtitle">Click here to read the latest news at NYC Bagpipes.</h3>
+					</button>
+				</a>
+				<a class="home-blog-links" href="/bagpipe-news/nyc-bagpipes-piper-gets-1st-place-award.php">NYC Bagpipes Piper Gets 1st Place Award</a>
+				<a class="home-blog-links" href="/bagpipe-news/nyc-bagpipes-bagpiper-earns-scholarships.php">NYC Bagpipes Bagpiper Earns Scholarships</a>
+				<a class="home-blog-links" href="/bagpipe-news/nyc-bagpiper-from-nyc-bagpipes-earns-agl.php">NYC Bagpipes Piper Earns AGL for Solo Bagpiper Event</a>
+			</div>
+		</section>
+		<div class="section-border"></div>		
 		<?php require "./components/footer.php";?>
 		<script src="script.js"></script>
 	</body>
