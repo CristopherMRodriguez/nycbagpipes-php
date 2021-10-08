@@ -66,13 +66,12 @@
 				<h2 class="section-title">NYC Bagpipes Blog</h2>
 				<a class="landing-page-button-a"  class="button" href="<?php echo "/bagpipe-blog";?>">
 					<button class="landing-page-button">
-						<h3 class="section-subtitle">Click here to read the bagpipe blog.</h3>
+						<h3 class="section-subtitle">Click here to see the entire bagpipe blog section.</h3>
 					</button>
 				</a>
+				<a class="home-blog-links" href="./bagpipe-blog/how-to-use-bagpipes-with-other-musical-instruments.php">How do You Use Bagpipes with Other Instruments?</a> 
+				<a class="home-blog-links" href="./bagpipe-blog/how-to-get-better-at-bagpipes.php">How to Get Better at Bagpipes</a> 
 				<a class="home-blog-links" href="./bagpipe-faq/learn-to-play-bagpipes/is-it-hard-to-learn-the-bagpipes.php">Is it Hard to Learn the Bagpipes?</a> 
-				<a class="home-blog-links" href="./bagpipe-blog/donald-lindsay-history-of-the-bagpipes.php">Donald Lindsay Interview - History of the Bagpipes</a> 
-				<a class="home-blog-links" href="./bagpipe-blog/how-to-hire-a-bagpiper.php">How to Hire a Bagpiper</a> 
-				<a class="home-blog-links" href="./bagpipe-blog/learn-to-play-the-bagpipes-blog.php">How to Learn the Bagpipes (the right way)</a> 
 			</div>
 			<a class="pic-anchor"  class="button" href="<?php echo "/bagpipe-blog";?>">
 				<img src="./img/bagpipes-blog.jpeg" alt="Button for Bagpipes Blog">  

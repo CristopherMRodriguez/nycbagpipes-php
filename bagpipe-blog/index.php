@@ -23,6 +23,8 @@
 		<section class="blog-link-section">	
 			<div class="blog-links">
 				<ul>
+					<li class="blog-link"><a target="blank" class="section-title" href="/bagpipe-blog/how-to-use-bagpipes-with-other-musical-instruments.php">How do You Use Bagpipes with Other Instruments?</a></li>
+					<li class="blog-link"><a target="blank" class="section-title" href="/bagpipe-blog/how-to-get-better-at-bagpipes.php">How to Get Better at Bagpipes</a></li>
 					<li class="blog-link"><a target="blank" class="section-title" href="/bagpipe-faq/learn-to-play-bagpipes/is-it-hard-to-learn-the-bagpipes.php">Is it Hard to Learn the Bagpipes?</a></li>
 					<li class="blog-link"><a target="blank" class="section-title" href="/bagpipe-blog/donald-lindsay-history-of-the-bagpipes.php">Donald Lindsay Interview-History of the Bagpipes</a></li>
 					<li class="blog-link"><a target="blank" class="section-title" href="/bagpipe-blog/how-to-hire-a-bagpiper.php">How to Hire a Bagpiper</a></li>
