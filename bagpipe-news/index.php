@@ -23,9 +23,10 @@
 		<section class="blog-link-section">	
 			<div class="blog-links">
 				<ul>
-					<li class="blog-link"><a class="section-title" href="/bagpipe-news/nyc-bagpipes-piper-gets-1st-place-award.php">NYC Bagpipes Piper Gets 1st Place Award</a></li>
-					<li class="blog-link"><a class="section-title" href="/bagpipe-news/nyc-bagpipes-bagpiper-earns-scholarships.php">NYC Bagpipes Bagpiper Earns Scholarships</a></li>
-					<li class="blog-link"><a class="section-title" href="/bagpipe-news/nyc-bagpiper-from-nyc-bagpipes-earns-agl.php">NYC Bagpipes Piper Earns AGL for Solo Bagpiper Event</a></li>
+					<li class="blog-link"><a class="section-title" href="/bagpipe-news/nyc-bagpipes-piper-helps-band-get-1st-place.php">NYC Bagpipes' Piper Helps Band Receive 1st Place Award</a></li>
+					<li class="blog-link"><a class="section-title" href="/bagpipe-news/nyc-bagpipes-piper-gets-1st-place-award.php">NYC Bagpipes' Piper Gets 1st Place Award</a></li>
+					<li class="blog-link"><a class="section-title" href="/bagpipe-news/nyc-bagpipes-bagpiper-earns-scholarships.php">NYC Bagpipes' Bagpiper Earns Scholarships</a></li>
+					<li class="blog-link"><a class="section-title" href="/bagpipe-news/nyc-bagpiper-from-nyc-bagpipes-earns-agl.php">NYC Bagpipes' Piper Earns AGL for Solo Bagpiper Event</a></li>
 				</ul>
 			</div>
 		</section>

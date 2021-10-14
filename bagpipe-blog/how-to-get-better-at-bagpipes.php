@@ -11,7 +11,7 @@
 			
 			<section class="blog-post-section">
 				<div class="blog-post-div">
-					<img class="blog-post-image" src="../img/figure-stretching.png" alt="Donald Lindsay Music Album - History of the Highland Bagpipes">
+					<img class="blog-post-image" src="../img/figure-stretching.png" alt="A figure of person stretching">
 					<h1 class="section-title blog-post-title">How to Get Better at Bagpiping</h1><h2 class="section-title blog-post-title"> (or anything else)</h2>
 					
 					

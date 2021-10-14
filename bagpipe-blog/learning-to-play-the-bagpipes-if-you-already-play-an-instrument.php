@@ -1,0 +1,38 @@
+<?php require "../components/head.php"?>
+		<title>Learning to Play the Bagpipes if You Already Play an Instrument</title>
+		<?php $content = "If you are already a musician, whether a novice or professional, the skills you’ve already learned will greatly help you learn the bagpipes.";?>
+		<meta name="description" content="<?php echo $content;?>">
+		<meta property="og:description" content="<?php echo $content;?>">
+	</head>	
+	<body>
+		<?php require "../components/googleTagBody.php";?>
+			<?php require "../components/learn-call.php";?>
+			<?php require "../components/nav.php";?>
+			
+			<section class="blog-post-section">
+				<div class="blog-post-div">
+					<img class="blog-post-image" src="../img/musical-instruments-bagpipes.jpeg" alt="Various Musical Instruments">
+					<h1 class="section-title blog-post-title">Learning to Play the Bagpipes if You Already Play an Instrument</h1>
+						
+					<p class="section-p blog-post-p">If you are already a musician, whether a novice or professional, the skills you’ve already learned will greatly help you learn the bagpipes.</p>
+					<p class="section-p blog-post-p">If you were to break down the two main categories of what you need to learn while learning the bagpipes, the two main categories would be fingerwork (yes, one word, in bagpiping) and tone.</p>
+					<p class="section-p blog-post-p">Fingerwork is where most of those skills that you have already picked up as a musician come into play.  For example, when I started to learn the bagpipes, I had about 3 years of self-taught guitar experience. Because I already was familiar with the concepts of pitch and rhythm, I didn’t have to add that to my learning curve.  I already had a big advantage over some of my classmates (I learned in a high school band).  Understanding those concepts helped me to transition them to doing fingerwork on a practice chanter.</p>
+					<p class="section-p blog-post-p">What probably makes the fingerwork aspect of bagpiping tricky is that unlike many other instruments, it involves a bit more coordination to play a single note. You are more or less using all 10 fingers when you play any single note on the bagpipe (assuming you don’t have more than 10 fingers.  hahaha. Ok, I’ll stop with the cheese humor).  Compare that to a piano.  Anyone can play a note — or even — multiple notes on a piano instantaneously — regardless of whether or not a person has ever played a single on a instrument in their entire life. Compare that to a guitar.  Guitar involves more coordination: at least 2 or 3 fingers to play a single note if you count the thumb behind the neck.  To play on a practice chanter requires much more coordination to navigate around the different notes and to play even simple melodies.</p>
+					<p class="section-p blog-post-p">The other aspect of playing the practice chanter (and eventually the bagpipes) is the aspect of blowing air to produce a sound.  It is just another thing that the brain needs to focus on doing while trying to practice your fingerwork.   While it isn’t very difficult to blow air into the practice chanter, it is important to develop the skill.  If you don’t blow hard enough the reed will either not sound or vibrate properly.  If you blow too hard then the reed will stop vibrating.  Because bagpiping also is very physical (another aspect of what makes bagpiping unique from other instruments), your lips will actually get tired.  The more you practice however, the more stamina you will develop.  It is important to develop this so that you can get adequate amounts of time to practice. In order to do so, your lips will get tired.  When your lips are very tired they will lose the seal on the chanter. This is also known as “blowout.”  Keep practicing and it will get better though. However if you give up playing the moment it starts to occur, it will take longer for your stamina to develop.  Furthermore, you will need to be able to do this comfortably before moving onto the bagpipes which will require even more stamina (and more coordination to learn to squeeze the bag).</p>
+					<p class="section-p blog-post-p">Another useful skill that can transfer to the bagpipes is sight reading.  Sight reading corresponds with the ability to play different pitches with rhythm in real time.  It involves also the part of your brain that interprets the notation before you play the notes.  Even if you aren’t the greatest sight reader, the bagpipes are rather easy to sight read since for the most part there are only 9 notes and the music is written without any flats or sharps.  Since the scale is limited, you also won’t have to worry about reading different keys, which is more of a skill to develop, say, if you were reading piano music.  The main thing you will have to do is associate the finger movements with any of the 9 notes written on the staff.  After that, then you will work to develop your rhythm and timing of those notes.  If you have already seen pipe notation, you will notice also many “mini” notes written before and after notes.  These are known as the grace notes and embellishments.</p>
+					<p class="section-p blog-post-p">There are regular occurrence of these grace notes and embellishments.  As you progress in your learning, you will have to learn each individual grace note and embellishment before you can apply that to reading bagpipe notation.  Grace notes and embellishment are a separate topic that won’t be covered in this article, but the dexterity that you have learned from other instruments will at least help somewhat in learning new finger movements.  </p>
+					<p class="section-p blog-post-p">As mentioned in the beginning of the article, the other aspect of piping to learn is tone.  Tone is another extensive topic to cover but it does happen to make the bagpipes also very unique. For the most part, if a person were to use an app or tuner for a guitar, the guitar would already sound decent. (Not to say that the make of the guitar, amplifier, strings, parts, and especially the player’s capabilities don’t have important effects on the guitar’s sound).  However with bagpipes, a good deal of knowledge of maintenance is required to make the bagpipes sound good.  For example, if you were playing on a bagpipe that was leaking air, that issue would need to be addressed in order to make the bagpipe sound good.  While this article is intended not to cover tone, you have an inkling about what else you’d need to develop as a bagpiper.  And as mentioned before you will have to learn how to blow and squeeze the bagpipe to produce sound.  At least that will be easier though if you can transition some of your music skills to learning fingerwork.</p>
+					<p class="section-p blog-post-p">Lastly, you get what you put in. Slow and steady wins the race. So if you practice, you will progress. However, if you are a skilled musician who is too lazy to practice, you may not progress much, as I have seen with some musicians.  So pick up the chanter!</p>
+					<p class="section-p blog-post-p">By the way, if you'd like to know where and how to buy a practice chanter <a href="mailto: nycbagpipes@gmail.com">email me!</a></p>
+					
+					<p class="section-border-space"></p>
+					<div class="section-border"></div>
+					<p class="section-p questions">Have any questions? Shoot me an <a href="mailto: nycbagpipes@gmail.com">email</a>.</p>
+					
+			</section>
+		
+			<?php require "../components/footer.php";?>
+		</div>
+		<script src="../script.js"></script>
+	</body>
+</html>

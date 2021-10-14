@@ -69,9 +69,9 @@
 						<h3 class="section-subtitle">Click here to see the entire bagpipe blog section.</h3>
 					</button>
 				</a>
+				<a class="home-blog-links" href="./bagpipe-blog/learning-to-play-the-bagpipes-if-you-already-play-an-instrument.php">Learning to Play the Bagpipes if You Already Play an Instrument</a> 
 				<a class="home-blog-links" href="./bagpipe-blog/how-to-use-bagpipes-with-other-musical-instruments.php">How do You Use Bagpipes with Other Instruments?</a> 
 				<a class="home-blog-links" href="./bagpipe-blog/how-to-get-better-at-bagpipes.php">How to Get Better at Bagpipes</a> 
-				<a class="home-blog-links" href="./bagpipe-faq/learn-to-play-bagpipes/is-it-hard-to-learn-the-bagpipes.php">Is it Hard to Learn the Bagpipes?</a> 
 			</div>
 			<a class="pic-anchor"  class="button" href="<?php echo "/bagpipe-blog";?>">
 				<img src="./img/bagpipes-blog.jpeg" alt="Button for Bagpipes Blog">  
@@ -89,9 +89,9 @@
 						<h3 class="section-subtitle">Click here to read the latest news at NYC Bagpipes.</h3>
 					</button>
 				</a>
-				<a class="home-blog-links" href="/bagpipe-news/nyc-bagpipes-piper-gets-1st-place-award.php">NYC Bagpipes Piper Gets 1st Place Award</a>
-				<a class="home-blog-links" href="/bagpipe-news/nyc-bagpipes-bagpiper-earns-scholarships.php">NYC Bagpipes Bagpiper Earns Scholarships</a>
-				<a class="home-blog-links" href="/bagpipe-news/nyc-bagpiper-from-nyc-bagpipes-earns-agl.php">NYC Bagpipes Piper Earns AGL for Solo Bagpiper Event</a>
+				<a class="home-blog-links" href="/bagpipe-news/nyc-bagpipes-piper-helps-band-get-1st-place.php">NYC Bagpipes' Bagpiper Helps Band Receive 1st Place Award</a>
+				<a class="home-blog-links" href="/bagpipe-news/nyc-bagpipes-piper-gets-1st-place-award.php">NYC Bagpipes' Bagpiper Gets 1st Place Award</a>
+				<a class="home-blog-links" href="/bagpipe-news/nyc-bagpipes-bagpiper-earns-scholarships.php">NYC Bagpipes' Bagpiper Earns Scholarships</a>
 			</div>
 		</section>
 		<div class="section-border"></div>		
