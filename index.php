@@ -69,9 +69,9 @@
 						<h3 class="section-subtitle">Click here to see the entire bagpipe blog section.</h3>
 					</button>
 				</a>
+				<a class="home-blog-links" href="./bagpipe-blog/how-to-memorize-bagpipe-tunes-faster.php">How to Memorize Bagpipe Tunes Faster</a> 
 				<a class="home-blog-links" href="./bagpipe-blog/learning-to-play-the-bagpipes-if-you-already-play-an-instrument.php">Learning to Play the Bagpipes if You Already Play an Instrument</a> 
 				<a class="home-blog-links" href="./bagpipe-blog/how-to-use-bagpipes-with-other-musical-instruments.php">How do You Use Bagpipes with Other Instruments?</a> 
-				<a class="home-blog-links" href="./bagpipe-blog/how-to-get-better-at-bagpipes.php">How to Get Better at Bagpipes</a> 
 			</div>
 			<a class="pic-anchor"  class="button" href="<?php echo "/bagpipe-blog";?>">
 				<img src="./img/bagpipes-blog.jpeg" alt="Button for Bagpipes Blog">  
