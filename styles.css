@@ -598,6 +598,10 @@ p {
   font-weight: 900;
 }
 
+.light-bold {
+  font-weight: 600;
+}
+
 .italic {
   font-style: italic;
 }
