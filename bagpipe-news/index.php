@@ -23,6 +23,7 @@
 		<section class="blog-link-section">	
 			<div class="blog-links">
 				<ul>
+					<li class="blog-link"><a class="section-title" href="/bagpipe-news/new-nyc-bagpipe-club-coming-soon.php">New NYC Bagpipe Club Coming Soon</a></li>
 					<li class="blog-link"><a class="section-title" href="/bagpipe-news/nyc-bagpipes-piper-helps-band-get-1st-place.php">NYC Bagpipes' Piper Helps Band Receive 1st Place Award</a></li>
 					<li class="blog-link"><a class="section-title" href="/bagpipe-news/nyc-bagpipes-piper-gets-1st-place-award.php">NYC Bagpipes' Piper Gets 1st Place Award</a></li>
 					<li class="blog-link"><a class="section-title" href="/bagpipe-news/nyc-bagpipes-bagpiper-earns-scholarships.php">NYC Bagpipes' Bagpiper Earns Scholarships</a></li>
