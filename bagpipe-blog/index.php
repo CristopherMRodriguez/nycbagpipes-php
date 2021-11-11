@@ -23,6 +23,7 @@
 		<section class="blog-link-section">	
 			<div class="blog-links">
 				<ul>
+					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/when-to-quit-your-bagpipe-band.php">When to Quit Your Bagpipe Band</a></li> 
 					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/playing-your-first-bagpipe-solo-competition.php">Playing Your First Bagpipe Competition</a></li> 
 					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/how-to-memorize-bagpipe-tunes-faster.php">How to Memorize Bagpipe Tunes Faster</a></li> 
 					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/learning-to-play-the-bagpipes-if-you-already-play-an-instrument.php">Learning to Play the Bagpipes if You Already Play an Instrument</a></li> 
