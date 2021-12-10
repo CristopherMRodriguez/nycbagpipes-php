@@ -23,18 +23,19 @@
 		<section class="blog-link-section">	
 			<div class="blog-links">
 				<ul>
+					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/setting-bagpipe-goals.php">Setting goals in bagpiping</a></li> 
 					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/is-an-electronic-bagpipe-good.php">Is an electronic bagpipe good?  (Why you shouldn’t use an electronic bagpipe chanter.)</a></li> 
-					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/ross-vs-faegerstrom-vs-blair-electronic-bagpipe-review.php">Ross Vs. Faegerstrom Vs. Blair Electronic Bagpipe Review</a></li> 
-					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/when-to-quit-your-bagpipe-band.php">When to Quit Your Bagpipe Band</a></li> 
-					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/playing-your-first-bagpipe-solo-competition.php">Playing Your First Bagpipe Competition</a></li> 
-					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/how-to-memorize-bagpipe-tunes-faster.php">How to Memorize Bagpipe Tunes Faster</a></li> 
-					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/learning-to-play-the-bagpipes-if-you-already-play-an-instrument.php">Learning to Play the Bagpipes if You Already Play an Instrument</a></li> 
-					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/how-to-use-bagpipes-with-other-musical-instruments.php">How do You Use Bagpipes with Other Instruments?</a></li>
-					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/how-to-get-better-at-bagpipes.php">How to Get Better at Bagpipes</a></li>
-					<li class="blog-link"><a class="section-title" href="/bagpipe-faq/learn-to-play-bagpipes/is-it-hard-to-learn-the-bagpipes.php">Is it Hard to Learn the Bagpipes?</a></li>
-					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/donald-lindsay-history-of-the-bagpipes.php">Donald Lindsay Interview-History of the Bagpipes</a></li>
-					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/how-to-hire-a-bagpiper.php">How to Hire a Bagpiper</a></li>
-					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/learn-to-play-the-bagpipes-blog.php">How to Learn the Bagpipes (the right way)</a></li>
+					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/ross-vs-faegerstrom-vs-blair-electronic-bagpipe-review.php">Ross Vs. Faegerstrom Vs. Blair electronic bagpipe review</a></li> 
+					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/when-to-quit-your-bagpipe-band.php">When to quit your bagpipe band</a></li> 
+					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/playing-your-first-bagpipe-solo-competition.php">Playing your first bagpipe competition</a></li> 
+					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/how-to-memorize-bagpipe-tunes-faster.php">How to memorize bagpipe tunes faster</a></li> 
+					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/learning-to-play-the-bagpipes-if-you-already-play-an-instrument.php">Learning to play the bagpipes if you already play an instrument</a></li> 
+					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/how-to-use-bagpipes-with-other-musical-instruments.php">How do you use bagpipes with other instruments?</a></li>
+					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/how-to-get-better-at-bagpipes.php">How to get better at bagpipes</a></li>
+					<li class="blog-link"><a class="section-title" href="/bagpipe-faq/learn-to-play-bagpipes/is-it-hard-to-learn-the-bagpipes.php">Is it hard to learn the bagpipes?</a></li>
+					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/donald-lindsay-history-of-the-bagpipes.php">Donald Lindsay interview-history of the bagpipes</a></li>
+					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/how-to-hire-a-bagpiper.php">How to hire a bagpiper</a></li>
+					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/learn-to-play-the-bagpipes-blog.php">How to learn the bagpipes (the right way)</a></li>
 				</ul>
 			</div>
 		</section>
