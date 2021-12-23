@@ -69,9 +69,9 @@
 						<h3 class="section-subtitle">Click here to see the entire bagpipe blog section.</h3>
 					</button>
 				</a>
+				<a class="home-blog-links" href="./bagpipe-blog/getting-the-most-of-bagpipe-practice-when-you-have-limited-time.php">Getting the most of bagpiping practice when you have limited time</a> 
 				<a class="home-blog-links" href="./bagpipe-blog/setting-bagpipe-goals.php">Setting goals in bagpiping</a> 
 				<a class="home-blog-links" href="./bagpipe-blog/is-an-electronic-bagpipe-good.php">Is an electronic bagpipe good?  (Why you shouldn’t use one.)</a> 
-				<a class="home-blog-links" href="./bagpipe-blog/ross-vs-faegerstrom-vs-blair-electronic-bagpipe-review.php">Ross Vs. Faegerstrom Vs. Blair electronic bagpipe review</a> 
 			</div>
 			<a class="pic-anchor"  class="button" href="<?php echo "/bagpipe-blog";?>">
 				<img src="./img/bagpipes-blog.jpeg" alt="Button for Bagpipes Blog">  

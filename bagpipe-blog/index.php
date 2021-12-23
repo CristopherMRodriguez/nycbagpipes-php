@@ -23,6 +23,7 @@
 		<section class="blog-link-section">	
 			<div class="blog-links">
 				<ul>
+					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/getting-the-most-of-bagpiping-practice-when-you-have-limited-time.php">Getting the most of bagpiping practice when you have limited time</a></li> 
 					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/setting-bagpipe-goals.php">Setting goals in bagpiping</a></li> 
 					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/is-an-electronic-bagpipe-good.php">Is an electronic bagpipe good?  (Why you shouldn’t use an electronic bagpipe chanter.)</a></li> 
 					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/ross-vs-faegerstrom-vs-blair-electronic-bagpipe-review.php">Ross Vs. Faegerstrom Vs. Blair electronic bagpipe review</a></li> 
