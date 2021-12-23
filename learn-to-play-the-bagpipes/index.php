@@ -6,7 +6,7 @@
 	</head>
   <body>
 		<?php require "../components/googleTagBody.php";?>
-		<?php require "../components/call.php";?>
+		<?php require "../components/learn-call.php";?>
 		<?php require "../components/nav.php";?>
 		<div class="landing-page-header">
 			<h1 class="section-title">Learn to Play Bagpipes</h1>

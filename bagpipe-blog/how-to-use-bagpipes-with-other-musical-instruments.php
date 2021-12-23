@@ -6,7 +6,7 @@
 	</head>	
 	<body>
 		<?php require "../components/googleTagBody.php";?>
-		<div class="non-call-wrapper">
+		<?php require "../components/learn-call.php";?>
 			<?php require "../components/nav.php";?>
 			
 			<section class="blog-post-section">
@@ -87,7 +87,6 @@
 			</section>
 		
 			<?php require "../components/footer.php";?>
-		</div>
 		<script src="../script.js"></script>
 	</body>
 </html>

@@ -6,7 +6,7 @@
 	</head>
   <body>
 		<?php require "../../components/googleTagBody.php";?>
-		<?php require "../../components/call.php";?>
+		<?php require "../../components/learn-call.php";?>
 		<?php require "../../components/nav.php";?>
 		<section class="section bottom-section">
 			<img src="../../img/children-playing-bagpipes.jpg" alt="Learning to Play FAQ's">
@@ -23,9 +23,10 @@
 		<section class="blog-link-section">	
 			<div class="blog-links">
 				<ul>
-					<li class="blog-link"><a target="blank" class="section-title" href="/bagpipe-faq/learn-to-play-bagpipes/is-it-hard-to-learn-the-bagpipes.php">Is it Hard to Learn the Bagpipes?</a></li>
-					<li class="blog-link"><a target="blank" class="section-title" href="/bagpipe-faq/learn-to-play-bagpipes/how-do-i-learn-to-play-the-bagpipes.php">How do I learn to play the bagpipes?</a></li>
-					<li class="blog-link"><a target="blank" class="section-title" href="../../bagpipe-blog/learn-to-play-the-bagpipes-blog.php">How to Learn the Bagpipes (the right way)</a></li>
+					<li class="blog-link"><a class="section-title" href="../../bagpipe-blog/learning-to-play-the-bagpipes-if-you-already-play-an-instrument.php">How do I learn to play the bagpipes if I already play an instrument?</a></li>
+					<li class="blog-link"><a class="section-title" href="/bagpipe-faq/learn-to-play-bagpipes/is-it-hard-to-learn-the-bagpipes.php">Is it Hard to Learn the Bagpipes?</a></li>
+					<li class="blog-link"><a class="section-title" href="/bagpipe-faq/learn-to-play-bagpipes/how-do-i-learn-to-play-the-bagpipes.php">How do I learn to play the bagpipes?</a></li>
+					<li class="blog-link"><a class="section-title" href="../../bagpipe-blog/learn-to-play-the-bagpipes-blog.php">How to Learn the Bagpipes (the right way)</a></li>
 				</ul>
 			</div>
 		</section>		

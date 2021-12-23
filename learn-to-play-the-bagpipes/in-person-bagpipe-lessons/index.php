@@ -6,7 +6,7 @@
 	</head>
   <body>
 		<?php require "../../components/googleTagBody.php";?>
-		<?php require "../../components/call.php";?>
+		<?php require "../../components/learn-call.php";?>
 		<?php require "../../components/nav.php";?>
 		<section class="section bottom-section">
 			<img src="../../img/bagpiper-soldier-2.jpg" alt="Learn Bagpipes In Person">
