@@ -69,9 +69,9 @@
 						<h3 class="section-subtitle">Click here to see the entire bagpipe blog section.</h3>
 					</button>
 				</a>
+				<a class="home-blog-links" href="./bagpipe-blog/bagpiping-dealing-with-mental-distractions.php">Getting better at bagpiping by dealing with mental distractions</a> 
 				<a class="home-blog-links" href="./bagpipe-blog/getting-the-most-of-bagpiping-practice-when-you-have-limited-time.php">Getting the most of bagpiping practice when you have limited time</a> 
 				<a class="home-blog-links" href="./bagpipe-blog/setting-bagpipe-goals.php">Setting goals in bagpiping</a> 
-				<a class="home-blog-links" href="./bagpipe-blog/is-an-electronic-bagpipe-good.php">Is an electronic bagpipe good?  (Why you shouldn’t use one.)</a> 
 			</div>
 			<a class="pic-anchor"  class="button" href="<?php echo "/bagpipe-blog";?>">
 				<img src="./img/bagpipes-blog.jpeg" alt="Button for Bagpipes Blog">  
@@ -89,11 +89,18 @@
 						<h3 class="section-subtitle">Click here to read the latest news at NYC Bagpipes.</h3>
 					</button>
 				</a>
+				<a class="home-blog-links" href="/bagpipe-news/nyc-bagpipe-club-officially-announced.php">NYC Bagpipe Club Officially Announced</a>
 				<a class="home-blog-links" href="/bagpipe-news/new-nyc-bagpipe-club-coming-soon.php">New NYC Bagpipe Club Coming Soon</a>
 				<a class="home-blog-links" href="/bagpipe-news/nyc-bagpipes-piper-helps-band-get-1st-place.php">NYC Bagpipes' Bagpiper Helps Band Receive 1st Place Award</a>
-				<a class="home-blog-links" href="/bagpipe-news/nyc-bagpipes-piper-gets-1st-place-award.php">NYC Bagpipes' Bagpiper Gets 1st Place Award</a>
 			</div>
 		</section>
+		<div class="section-border"></div>
+		<section class="section section-odd">
+			<a class="pic-anchor"  class="button" href="<?php echo "/bagpipe-news/nyc-bagpipe-club-officially-announced.php";?>">
+				<img src="./img/bagpipe-club.jpg" alt="Flyer for NYC Bagpipe Club">
+			</a>
+		</section>
+		
 		<div class="section-border"></div>		
 		<?php require "./components/footer.php";?>
 		<script src="script.js"></script>
