@@ -62,7 +62,7 @@
 				<img class="blog-image" src="../img/bagpipe-club.jpg" alt="NYC Bagpipe Club Flyer">
 
 				<h1 class="section-title blog-post-title">NYC Bagpipe Club Officially Announced</h1>        
-				<p class="section-p blog-post-p">NYC Bagpipes officially announces a date and venue for its first bagpipe club.  The bagpipe club will be February 5th, 2022, 6:00 P.M. at Bantry Bay in Long Island City, Queens.</p>
+				<p class="section-p blog-post-p">NYC Bagpipes officially announces a date and venue for its first bagpipe club.  The bagpipe club will be February 5th, 2022, 7:00 P.M. at Bantry Bay in Long Island City, Queens.</p>
 				<p class="section-p blog-post-p">The club event is free and open to all people.  People who play the bagpipes are encouraged to perform and watch others perform.  Non-bagpipers are also welcome to watch and enjoy.</p>
 				<p class="section-p blog-post-p">The club is based upon the Scottish Pipers Association's bagpipe club that had existed in Glasgow, Scotland, which were informal get togethers and performances of bagpipers of all levels.  The goal of the club is to have pipers participate in a bagpipe based social club in the NYC metro area for learning, educating, and enjoying the instrument, and to build the bagpiping community in the NYC metro area.</p>
 				
