@@ -23,6 +23,7 @@
 		<section class="blog-link-section">	
 			<div class="blog-links">
 				<ul>
+					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/useful-bagpipe-products.php">Useful Bagpipe Products</a></li> 
 					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/bagpiping-dealing-with-mental-distractions.php">Getting better at bagpiping by dealing with mental distractions</a></li> 
 					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/getting-the-most-of-bagpiping-practice-when-you-have-limited-time.php">Getting the most of bagpiping practice when you have limited time</a></li> 
 					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/setting-bagpipe-goals.php">Setting goals in bagpiping</a></li> 
