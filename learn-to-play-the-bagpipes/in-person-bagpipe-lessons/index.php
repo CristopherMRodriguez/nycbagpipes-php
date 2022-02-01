@@ -11,7 +11,7 @@
 		<section class="section bottom-section">
 			<img src="../../img/bagpiper-soldier-2.jpg" alt="Learn Bagpipes In Person">
 			<div class="section-div-sub">
-				<h1 class="section-title">Learn Bagpipes in Person</h1>
+				<h1 class="section-title">Learn Bagpipes in Person <?php require "../../components/updated.php";?></h1>
 				<p class="section-p">
 					There are many advantages to learning bagpipes in person.  The subtleties of communicating
 					musically are not lost; it is easier to verbally communicate; and there are no online technical issues. 

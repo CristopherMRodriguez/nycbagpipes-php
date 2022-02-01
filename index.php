@@ -1,5 +1,5 @@
 	<?php require "./components/head.php"?>
-		<title>Hire a Bagpiper - Learn to Play Bagpipes - NYC Bagpipes</title>
+		<title>Hire a Bagpiper in New York City, New Jersey, Brooklyn, Queens, Bronx, New York, Long Island, Staten Island, Connecticut, and Pennsylvania - Learn to Play Bagpipes Anywhere - NYC Bagpipes</title>
 		<?php $content = "Hire the best bagpiper in NYC, New York, New Jersey, Long Island, Connecticut, and Pennsylvania. Want to learn how to play the bagpipes? We teach bagpipes. We offer bagpiping for weddings, funerals, parties, and other events; and in-person and online lessons. Call to hire a professional bagpiper.";?>
 		<meta name="description" content="<?php echo $content;?>">
 		<meta property="og:description" content="<?php echo $content;?>">
@@ -21,19 +21,19 @@
 				<img src="./img/bagpiper-playing.jpg" alt="Button to Hire a Bagpiper">  
 			</a>
 			<div class="section-div">
-				<h1 class="section-title">Hire a Bagpiper</h1>
+				<h1 class="section-title">Hire a Bagpiper <?php require "./components/updated.php";?></h1>
 					<a class="landing-page-button-a"  class="button" href="<?php echo "/hire-a-bagpiper";?>">
 						<button class="landing-page-button">
-							<h2 class="section-subtitle">Click to learn more about hiring a bagpiper.</h2>
+							<h2 class="section-subtitle">Hire a bagpiper in New York City, New Jersey, Brooklyn, Queens, Bronx, New York, Long Island, Staten Island, Connecticut, and Pennsylvania.</h2>
 						</button>
 					</a>  
-				<p class="section-p">Our bagpipers are the best in the area. They will add magic to your special event.</p>
+				<p class="section-p">Our bagpipers are the best in the area. They will add magic to your special event!</p>
 			</div>
 		</section>
 		<div class="section-border"></div>
 		<section class="section section-even">
 			<div class="section-div">
-				<h1 class="section-title">Learn to Play Bagpipes</h1>
+				<h1 class="section-title">Learn to Play Bagpipes <?php require "./components/updated.php";?></h1>
 				<a class="landing-page-button-a"  class="button" href="<?php echo "/learn-to-play-the-bagpipes";?>">
 					<button class="landing-page-button">
 						<h2 class="section-subtitle">Click here to learn the bagpipes.</h2>

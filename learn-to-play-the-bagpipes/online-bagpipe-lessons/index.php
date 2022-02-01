@@ -11,7 +11,7 @@
 		<section class="section bottom-section">
 			<img class="online-bagpipes-img" src="../../img/bagpipe-lessons.png" alt="Learn Bagpipes Online">
 			<div class="section-div-sub">
-				<h1 class="section-title">Learn to Play Bagpipes Online</h1>
+				<h1 class="section-title">Learn to Play Bagpipes Online <?php require "../../components/updated.php";?></h1>
 				<p class="section-p">
 					There are advantages to learning bagpipes online. After all, getting a lesson in during a busy
 					day allows one the freedom to develop a new skill. With regular practice you will improve while

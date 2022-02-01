@@ -1,5 +1,5 @@
 <?php require "../../components/head.php"?>
-		<title>Hire a Bagpiper for a Funeral - Find a Bagpipe Player for Funeral near you.</title>
+		<title>Hire a Bagpiper for a Funeral in New York City, New Jersey, Brooklyn, Queens, Bronx, New York, Long Island, Staten Island, Connecticut, and Pennsylvania.</title>
 		<?php $content = "Hire a bagpiper for a funeral.  Find out how much does it cost to hire a bagpiper for a funeral. Find bagpiper players for funerals near me.";?>
 		<meta name="description" content="<?php echo $content;?>">
 		<meta property="og:description" content="<?php echo $content;?>">
@@ -11,7 +11,7 @@
     <section class="section bottom-section">
 			<img src="../../img/bagpiper-funeral.jpg" alt="Bagpiper Playing at Funeral">
 			<div class="section-div-sub">
-				<h1 class="section-title">Hiring a Bagpiper for a Funeral</h1>
+				<h1 class="section-title">Hiring a Bagpiper for a Funeral <?php require "../../components/updated.php";?></h1>
 				<p class="section-p">
 					Firstly if you are searching for a piper to play bagpipes at a funeral, 
 					our condolences to you and the family. We understand that not only is the loss of a loved one 

@@ -78,8 +78,7 @@
     <div class="footer-keywords footer-group">
       <p>NYC Bagpipes is an easy and 
       reliable service that provides a high quality, professional 
-      bagpiper to your important and special event in New York City, 
-      Long Island, New Jersey, Pennsylvania and Connecticut.  
+      bagpiper to your important and special event in New York City, New Jersey, Brooklyn, Queens, Bronx, New York, Long Island, Staten Island, Connecticut, and Pennsylvania.  
       We have bagpipers for hire for funerals, weddings (ceremonies and receptions), 
       and any event, offering you unforgettable performances. We also offer 
       the best bagpipe lessons to anyone looking to learn to play the highland bagpipes.</p>

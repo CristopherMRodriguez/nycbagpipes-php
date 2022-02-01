@@ -1,5 +1,5 @@
 <?php require "../../components/head.php"?>
-		<title>Hire a Bagpiper for Party or Event</title>
+		<title>Hire a Bagpiper for Party or Event in New York City, New Jersey, Brooklyn, Queens, Bronx, New York, Long Island, Staten Island, Connecticut, and Pennsylvania</title>
 		<?php $content = "Hire a bagpiper for your party, retirement, film, or any special event today.  Learn about how much does it cost to hire a bagpiper. We have the best bagpipers for hire.";?>
 		<meta name="description" content="<?php echo $content;?>">
 		<meta property="og:description" content="<?php echo $content;?>">
@@ -11,7 +11,7 @@
 		<section class="section bottom-section">
 			<img src="../../img/two-bagpipers.jpg" alt="Bagpipers at a Party">
 			<div class="section-div-sub">
-				<h1 class="section-title">Hiring a Bagpiper for a Party or Special Event</h1>
+				<h1 class="section-title">Hiring a Bagpiper for a Party or Special Event <?php require "../../components/updated.php";?></h1>
 				<p class="section-p">
 					Whether it be for a birthday party, bachelor/bachelorette party, retirement, job and corporate events - or anything - 
 					we are flexible and adaptable to bagpipe for your special event.  

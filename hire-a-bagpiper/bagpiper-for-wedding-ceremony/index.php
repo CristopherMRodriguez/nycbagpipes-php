@@ -1,5 +1,5 @@
 <?php require "../../components/head.php"?>
-		<title>Hire a Bagpiper for a Wedding Ceremony</title>
+		<title>Hire a Bagpiper for a Wedding Ceremony in New York City, New Jersey, Brooklyn, Queens, Bronx, New York, Long Island, Staten Island, Connecticut, and Pennsylvania.</title>
 		<?php $content = "Hire a bagpiper for a wedding ceremony.  Find out how much does it cost to hire a bagpiper for a wedding. Find bagpiper players for weddings near me.";?>
 		<meta name="description" content="<?php echo $content;?>">
 		<meta property="og:description" content="<?php echo $content;?>">
@@ -11,7 +11,7 @@
 		<section class="section bottom-section">
 			<img src="../../img/hire-a-bagpiper-at-wedding.jpg" alt="Bagpiper Playing at a Wedding Ceremony">
 			<div class="section-div-sub">
-				<h1 class="section-title">Hiring a Bagpiper for a Wedding Ceremony</h1>
+				<h1 class="section-title">Hiring a Bagpiper for a Wedding Ceremony <?php require "../../components/updated.php";?></h1>
 				<p class="section-p">
 					Nothing makes a wedding ceremony more joyous and lively than having a bagpiper play.  A typical 
 					ceremony may have a piper welcome guests as they enter the ceremonial location with joyous music.  After the wedding is over the music continues to welcome the newly wedded couple.

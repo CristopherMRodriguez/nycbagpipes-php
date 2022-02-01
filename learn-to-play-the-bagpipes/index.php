@@ -1,5 +1,5 @@
 <?php require "../components/head.php"?>
-		<title>Learn to Play the Bagpipes</title>
+		<title>Learn to Play the Bagpipes New York City, New Jersey, Brooklyn, Queens, Bronx, New York, Long Island, Staten Island</title>
 		<?php $content = "Get bagpipe lessons near me.  Learn bagpipes online or in the nyc area.  A qualified bagpiper instructor can meet also on zoom, skype, or facetime at your convenience with flexible schedule.";?>
 		<meta name="description" content="<?php echo $content;?>">
 		<meta property="og:description" content="<?php echo $content;?>">
@@ -9,7 +9,7 @@
 		<?php require "../components/learn-call.php";?>
 		<?php require "../components/nav.php";?>
 		<div class="landing-page-header">
-			<h1 class="section-title">Learn to Play Bagpipes</h1>
+			<h1 class="section-title">Learn to Play Bagpipes <?php require "../components/updated.php";?></h1>
 			<p class="landing-page-header-p">Whether you are enchanted by the sound of the pipes and want to learn, 
 				desire to one day march up 5th Avenue on St. Patrick's Day, or whatever your wish is, 
 				NYC Bagpipes are as passionate as you are.  

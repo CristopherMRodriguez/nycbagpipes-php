@@ -1,6 +1,6 @@
 		<?php require "../components/head.php"?>
-		<title>Hire a Bagpiper</title>
-		<?php $content = "Hire a bagpiper. Find a bagpiper player for hire near me. Learn how much a bagpiper costs. Bagpipe players available.";?>
+		<title>Hire a Bagpiper in New York City, New Jersey, Brooklyn, Queens, Bronx, New York, Long Island, Staten Island, Connecticut, and Pennsylvania.</title>
+		<?php $content = "Hire a Bagpiper in New York City, New Jersey, Brooklyn, Queens, Bronx, New York, Long Island, Staten Island, Connecticut, and Pennsylvania. Learn how much a bagpiper costs. Bagpipe players available.";?>
 		<meta name="description" content="<?php echo $content;?>">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>
@@ -10,7 +10,7 @@
 		<?php require "../components/nav.php";?>
 
 		<div class="landing-page-header">
-			<h1 class="section-title">Hire a Bagpiper</h1><br/>
+			<h1 class="section-title">Hire a Bagpiper <?php require "../components/updated.php";?></h1><br/>
 			<p class="landing-page-header-p">There are a variety of ways to hire a bagpiper.  See below for which best 
 			suits your needs.</p>
 		</div>
