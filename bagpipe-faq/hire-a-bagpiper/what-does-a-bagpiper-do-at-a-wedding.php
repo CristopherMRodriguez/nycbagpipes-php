@@ -1,6 +1,6 @@
 <?php require "../../components/head.php"?>
 		<title>What does a bagpiper do at a Wedding?</title>
-		<?php $content = "";?>
+		<?php $content = "A common bagpipe performance at a wedding is to have the bagpiper play outside the ceremony as guests enter and leave the ceremony site. The bagpiper will often play as the bride and groom enter and leave to highlight the special duo.  Another tradition is to have the bagpiper perform and lead the newly wedded couple down the aisle to conclude the ceremony or to lead the bride down the aisle at the beginning. This adds an extra special touch.";?>
 		<meta name="description" content="<?php echo $content;?>">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>	
