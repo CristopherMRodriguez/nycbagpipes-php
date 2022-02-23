@@ -424,7 +424,7 @@ p {
 
 .section-p,
 .landing-page-header p {
-  color: var(--dark-gray);
+  color: var(--dark);
 }
 
 .section-border {
@@ -605,6 +605,10 @@ p {
 
 .italic {
   font-style: italic;
+}
+
+.underline {
+  text-decoration: underline;
 }
 
 .updated {

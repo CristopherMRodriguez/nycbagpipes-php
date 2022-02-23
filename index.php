@@ -69,9 +69,9 @@
 						<h3 class="section-subtitle">Click here to see the entire bagpipe blog section.</h3>
 					</button>
 				</a>
+				<a class="home-blog-links" href="./bagpipe-blog/how-to-record-bagpipes.php">How to Record Bagpipes</a> 
 				<a class="home-blog-links" href="./bagpipe-blog/useful-bagpipe-products.php">Useful Bagpipe Products</a> 
 				<a class="home-blog-links" href="./bagpipe-blog/bagpiping-dealing-with-mental-distractions.php">Getting better at bagpiping by dealing with mental distractions</a> 
-				<a class="home-blog-links" href="./bagpipe-blog/getting-the-most-of-bagpiping-practice-when-you-have-limited-time.php">Getting the most of bagpiping practice when you have limited time</a> 
 			</div>
 			<a class="pic-anchor"  class="button" href="<?php echo "/bagpipe-blog";?>">
 				<img src="./img/bagpipes-blog.jpeg" alt="Button for Bagpipes Blog">  
@@ -95,10 +95,13 @@
 			</div>
 		</section>
 		<div class="section-border"></div>
-		<section class="section section-odd">
+		<!--<section class="section section-odd">
 			<a class="pic-anchor"  class="button" href="<?php echo "/bagpipe-news/nyc-bagpipe-club-officially-announced.php";?>">
 				<img src="./img/bagpipe-club.jpg" alt="Flyer for NYC Bagpipe Club">
 			</a>
+		</section>-->
+		<section class="section section-odd">
+				<img src="./img/BAGPIPE-CLUB-MARCH.jpg" alt="Flyer for NYC Bagpipe Club">
 		</section>
 		
 		<div class="section-border"></div>		
