@@ -69,9 +69,9 @@
 						<h3 class="section-subtitle">Click here to see the entire bagpipe blog section.</h3>
 					</button>
 				</a>
+				<a class="home-blog-links" href="./bagpipe-blog/bagpipe-goals.php">Bagpipe Goals — Using the seasons to get better at bagpiping</a> 
 				<a class="home-blog-links" href="./bagpipe-blog/how-to-record-bagpipes.php">How to Record Bagpipes</a> 
 				<a class="home-blog-links" href="./bagpipe-blog/useful-bagpipe-products.php">Useful Bagpipe Products</a> 
-				<a class="home-blog-links" href="./bagpipe-blog/bagpiping-dealing-with-mental-distractions.php">Getting better at bagpiping by dealing with mental distractions</a> 
 			</div>
 			<a class="pic-anchor"  class="button" href="<?php echo "/bagpipe-blog";?>">
 				<img src="./img/bagpipes-blog.jpeg" alt="Button for Bagpipes Blog">  
@@ -103,7 +103,7 @@
 		<section class="section section-odd">
 				<img src="./img/BAGPIPE-CLUB-MARCH.jpg" alt="Flyer for NYC Bagpipe Club">
 		</section>
-		
+			
 		<div class="section-border"></div>	-->	
 		<?php require "./components/footer.php";?>
 		<script src="script.js"></script>
