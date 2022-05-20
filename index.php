@@ -95,16 +95,16 @@
 			</div>
 		</section>
 		<div class="section-border"></div>
-		<!--<section class="section section-odd">
+		<!--section class="section section-odd">
 			<a class="pic-anchor"  class="button" href="<?php echo "/bagpipe-news/nyc-bagpipe-club-officially-announced.php";?>">
 				<img src="./img/bagpipe-club.jpg" alt="Flyer for NYC Bagpipe Club">
 			</a>
-		</section>
+		</section>-->
 		<section class="section section-odd">
-				<img src="./img/BAGPIPE-CLUB-MARCH.jpg" alt="Flyer for NYC Bagpipe Club">
+				<img src="./img/BAGPIPE-CLUB-MAY.jpg" alt="Flyer for NYC Bagpipe Club">
 		</section>
 			
-		<div class="section-border"></div>	-->	
+		<div class="section-border"></div>	
 		<?php require "./components/footer.php";?>
 		<script src="script.js"></script>
 	</body>
