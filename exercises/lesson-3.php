@@ -6,8 +6,6 @@
 	</head>
   <body>
 		<?php require "../components/googleTagBody.php";?>
-    <?php require "../components/call.php";?>
-		<?php require "../components/nav.php";?>
     
 			<img class="music-notation" src="./jpg/lesson-3-1.jpg" alt="G Gracenote Breakdown">
 			<img class="music-notation" src="./jpg/lesson-3-2.jpg" alt="G Gracenote Breakdown">
@@ -15,7 +13,6 @@
 			<img class="music-notation" src="./jpg/lesson-3-4.jpg" alt="E Gracenote Breakdown">
 			<img class="music-notation" src="./jpg/lesson-3-5.jpg" alt="E Gracenote Breakdown">
 
-		<?php require "../components/footer.php";?>
 		<script src="../script.js"></script>
 	</body>
 </html>
