@@ -8,7 +8,7 @@
 		<?php require "../components/googleTagBody.php";?>
 		<?php require "../components/learn-call.php";?>
 		<?php require "../components/nav.php";?>
-    <section class="section bottom-section">
+    <section class="section bottom-section">`
 			<img src="../img/bagpipe-exercises.jpeg" alt="Hand stretching doing exercises">
 			<div class="section-div-sub">
 				<h1 class="section-title">Bagpipe Exercises</h1>

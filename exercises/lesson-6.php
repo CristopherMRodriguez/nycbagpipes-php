@@ -7,7 +7,7 @@
   <body>
 		<?php require "../components/googleTagBody.php";?>
     
-			<img class="music-notation" src="./jpg/lesson-6.jpg" alt="Bagpipe exercises for F half doublings, E gracenotes, D strikes, D G gracenote strikes, Crossovers</a>">
+			<img class="music-notation" src="./jpg/lesson-6.jpg" alt="Bagpipe exercises for F half doublings, E gracenotes, D strikes, D G gracenote strikes, Crossovers Exercise">
 
 		<script src="../script.js"></script>
 	</body>

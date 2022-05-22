@@ -7,11 +7,11 @@
   <body>
 		<?php require "../components/googleTagBody.php";?>
     
-			<img class="music-notation" src="./jpg/lesson-3-1.jpg" alt="G Gracenote Breakdown">
-			<img class="music-notation" src="./jpg/lesson-3-2.jpg" alt="G Gracenote Breakdown">
-			<img class="music-notation" src="./jpg/lesson-3-3.jpg" alt="D Gracenote Breakdown">
-			<img class="music-notation" src="./jpg/lesson-3-4.jpg" alt="E Gracenote Breakdown">
-			<img class="music-notation" src="./jpg/lesson-3-5.jpg" alt="E Gracenote Breakdown">
+			<img class="music-notation" src="./jpg/lesson-3-1.jpg" alt="G Gracenote Exercise">
+			<img class="music-notation" src="./jpg/lesson-3-2.jpg" alt="G Gracenote Exercise">
+			<img class="music-notation" src="./jpg/lesson-3-3.jpg" alt="D Gracenote Exercise">
+			<img class="music-notation" src="./jpg/lesson-3-4.jpg" alt="E Gracenote Exercise">
+			<img class="music-notation" src="./jpg/lesson-3-5.jpg" alt="D Throw Exercise">
 
 		<script src="../script.js"></script>
 	</body>
