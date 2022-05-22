@@ -20,6 +20,7 @@
         <li class="footer-li"><a href="<?php echo "/bagpipe-faq/learn-to-play-bagpipes";?>">Learn to Play Bagpipes FAQ's</a></li>
       </ul>
       <a class="footer-group-ul" href="<?php echo "/bagpipe-blog";?>"><h2>NYC Bagpipes Blog</h2></a>
+      <a class="footer-group-ul" href="<?php echo "/exercises";?>"><h2>Exercises</h2></a>
       <a class="footer-group-ul" href="<?php echo "/bagpipe-news";?>"><h2>NYC Bagpipes News</h2></a>
     </div>
 
@@ -70,6 +71,7 @@
         </ul>
 
         <li class="button-mobile"><a class="bagpipe-faqs-link-mobile" href="<?php echo "/bagpipe-blog";?>"><h2>NYC Bagpipes Blog</h2></a></li>
+        <li class="button-mobile"><a class="bagpipe-faqs-link-mobile" href="<?php echo "/bagpipe-blog";?>"><h2>Exercises</h2></a></li>
         <li class="button-mobile"><a class="bagpipe-faqs-link-mobile" href="<?php echo "/bagpipe-news";?>"><h2>NYC Bagpipes News</h2></a></li>
       
       </ul>
@@ -81,7 +83,7 @@
       bagpiper to your important and special event in New York City, New Jersey, Brooklyn, Queens, Bronx, New York, Long Island, Staten Island, Connecticut, and Pennsylvania.  
       We have bagpipers for hire for funerals, weddings (ceremonies and receptions), 
       and any event, offering you unforgettable performances. We also offer 
-      the best bagpipe lessons to anyone looking to learn to play the highland bagpipes.</p>
+      the best bagpipe lessons to anyone looking to learn to play the highland bagpipes, as well as supplemental bagpipe learning material.</p>
     </div>
     <div class="social-div footer-group">
       <ul class="social-ul">

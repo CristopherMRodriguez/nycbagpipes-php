@@ -7,6 +7,7 @@
         <li class="nav-ul-li"><a class="nav-ul__li__a"href="<?php echo $Site . "/learn-to-play-the-bagpipes";?>">Learn to Play Bagpipes</a><li>          
         <li class="nav-ul-li"><a class="nav-ul__li__a"href="<?php echo $Site . "/bagpipe-faq";?>">FAQ's</a><li>
         <li class="nav-ul-li"><a class="nav-ul__li__a"href="<?php echo $Site . "/bagpipe-blog";?>">Blog</a><li>
+        <li class="nav-ul-li"><a class="nav-ul__li__a"href="<?php echo $Site . "/exercises";?>">Exercises</a><li>
         <li class="nav-ul-li"><a class="nav-ul__li__a"href="<?php echo $Site . "/bagpipe-news";?>">News</a><li>
       </ul> 
     </nav>
@@ -18,6 +19,7 @@
         <li class="hamburger-nav-ul-li"><a class="hamburger-nav-ul__li__a"href="<?php echo $Site . "/learn-to-play-the-bagpipes";?>">Learn to Play Bagpipes</a><li>          
         <li class="hamburger-nav-ul-li"><a class="hamburger-nav-ul__li__a"href="<?php echo $Site . "/bagpipe-faq";?>">FAQ's</a><li>
         <li class="hamburger-nav-ul-li"><a class="hamburger-nav-ul__li__a"href="<?php echo $Site . "/bagpipe-blog";?>">Blog</a><li>
+        <li class="hamburger-nav-ul-li"><a class="hamburger-nav-ul__li__a"href="<?php echo $Site . "/exercises";?>">Exercises</a><li>
         <li class="hamburger-nav-ul-li"><a class="hamburger-nav-ul__li__a"href="<?php echo $Site . "/bagpipe-news";?>">News</a><li>
       </ul>
     </nav>

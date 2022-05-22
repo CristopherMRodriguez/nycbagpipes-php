@@ -57,7 +57,7 @@
 						<h3 class="section-subtitle">Click here to read frequently asked questions about bagpiping.</h3>
 					</button>
 				</a>
-				<p class="section-p">Click here to read our bagpipe FAQ.</p>
+				<p class="section-p">Read our bagpipe FAQ's!</p>
 			</div>
 		</section>
 		<div class="section-border"></div>
@@ -80,8 +80,20 @@
 		<div class="section-border"></div>
 		<section class="section section-odd">
 			<a class="pic-anchor"  class="button" href="<?php echo "/bagpipe-news";?>">
-				<img src="./img/bagpipe-news.jpeg" alt="Button for Bagpipes News">
+				<img src="./img/bagpipe-exercises.jpeg" alt="Hand doing stretching exercises">
 			</a>
+			<div class="section-div">
+				<h2 class="section-title">Bagpipe Exercises</h2>
+				<a class="landing-page-button-a" class="button" href="<?php echo "/exercises";?>">
+					<button class="landing-page-button">
+						<h3 class="section-subtitle">Click here to get free bagpipe learning exercises.</h3>
+					</button>
+				</a>
+				<p class="section-p">Use these bagpipe exercises to help you improve your playing!</p>
+			</div>
+		</section>
+		<div class="section-border"></div>
+		<section class="section section-even">
 			<div class="section-div">
 				<h2 class="section-title">NYC Bagpipes News</h2>
 				<a class="landing-page-button-a" class="button" href="<?php echo "/bagpipe-news";?>">
@@ -93,6 +105,9 @@
 				<a class="home-blog-links" href="/bagpipe-news/nyc-bagpipe-club-officially-announced.php">NYC Bagpipe Club Officially Announced</a>
 				<a class="home-blog-links" href="/bagpipe-news/new-nyc-bagpipe-club-coming-soon.php">New NYC Bagpipe Club Coming Soon</a>
 			</div>
+			<a class="pic-anchor"  class="button" href="<?php echo "/bagpipe-news";?>">
+				<img src="./img/bagpipe-news.jpeg" alt="Button for Bagpipes News">
+			</a>
 		</section>
 		<div class="section-border"></div>
 		<!--section class="section section-odd">
