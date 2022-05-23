@@ -6,9 +6,8 @@
 	</head>
   <body>
 		<?php require "../components/googleTagBody.php";?>
-    
-			<img class="music-notation" src="./jpg/lesson-4.jpg" alt="6/8 Bagpipe Rhythms, Crossover Exercises, B taps (to A)">
-
+			<img class="music-notation" src="./jpg/lesson-4.jpg" alt="6/8 Bagpipe Rhythms, Crossover Exercises, B taps (to A) Exercise">
+			<?php require "../components/footer.php";?>
 		<script src="../script.js"></script>
 	</body>
 </html>

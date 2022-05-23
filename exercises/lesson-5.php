@@ -6,10 +6,8 @@
 	</head>
   <body>
 		<?php require "../components/googleTagBody.php";?>
-
-    
-			<img class="music-notation" src="./jpg/lesson-5.jpg" alt="Bagpipe Exercises for Taps, Strikes, G Doublings">
-
+			<img class="music-notation" src="./jpg/lesson-5.jpg" alt="Bagpipe Exercises for Taps, Strikes, G Doublings Exercises">
+			<?php require "../components/footer.php";?>
 		<script src="../script.js"></script>
 	</body>
 </html>
