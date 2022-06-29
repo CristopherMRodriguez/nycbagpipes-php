@@ -116,7 +116,7 @@
 			</a>
 		</section>-->
 		<section class="section section-odd">
-				<img src="./img/BAGPIPE-CLUB-MAY.jpg" alt="Flyer for NYC Bagpipe Club">
+				<img src="./img/BAGPIPE-CLUB-July.jpg" alt="Flyer for NYC Bagpipe Club">
 		</section>
 			
 		<div class="section-border"></div>	

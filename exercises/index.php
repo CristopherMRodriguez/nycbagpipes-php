@@ -28,6 +28,10 @@
 					<li class="blog-link"><a class="section-title" href="/exercises/lesson-4.php">Lesson 4 - 6/8 Rhythms, Crossovers, B taps (to A)</a></li>
 					<li class="blog-link"><a class="section-title" href="/exercises/lesson-5.php">Lesson 5 - E & F Taps/Strikes, G Doublings<a></li>
 					<li class="blog-link"><a class="section-title" href="/exercises/lesson-6.php">Lesson 6 - F half doublings, E gracenotes, D strikes, D - G gracenote strikes, Crossovers</a></li>
+					<li class="blog-link section-title">Lesson 7 - Review above lessons!</li>
+					<li class="blog-link"><a class="section-title" href="/exercises/lesson-8.php">Lesson 8 - (The Theory Stuff…)</a></li>
+					<li class="blog-link"><a class="section-title" href="/exercises/lesson-9.php">Lesson 9 - C Doublings, B Doublings, More Crossovers</a></li>
+					<li class="blog-link"><a class="section-title" href="/exercises/lesson-10.php">Lesson 10 - Dot Cuts; More C & B Dbl's, D Throws, E Gracenotes, Taps</a></li>
 				</ul>
 			</div>
 		</section>

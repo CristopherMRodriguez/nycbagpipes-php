@@ -1,5 +1,5 @@
 <?php require "../components/head.php"?>
-		<title>How to play bagpipe gracenotes</title>
+		<title>How to play bagpipe gracenotes Beginner Exercises for Bagpipes</title>
 		<?php $content = "Lesson 3 - How to play bagpipe gracenotes.  Let's break it down SLOWLY so you get it right!";?>
 		<meta name="description" content="<?php echo $content;?>">
 		<meta property="og:description" content="<?php echo $content;?>">

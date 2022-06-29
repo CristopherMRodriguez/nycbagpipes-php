@@ -645,6 +645,23 @@ p {
   width: 100%;
 }
 
+/*exercise 8 page layout*/
+
+div.lesson-8 > *{
+  text-align: left;
+  margin: 4rem 8rem 4rem 4rem;
+}
+
+.lesson-8-ul {
+  font-size: 1.5rem;
+  list-style:disc;
+}
+
+.lesson-8-li {
+  margin-left: 4rem;
+  padding: .5rem;
+}
+
 /*media layout*/
 
 @media (max-width: 500px) {

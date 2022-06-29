@@ -1,5 +1,5 @@
 <?php require "../components/head.php"?>
-		<title>Bagpipe F half doublings, E gracenotes, D strikes, D - G gracenote strikes, Crossovers</a></title>
+		<title>F half doublings, E gracenotes, D strikes, D - G gracenote strikes, Crossovers Beginner Exercises for Bagpipes</a></title>
 		<?php $content = "Lesson 6 - F half doublings, E gracenotes, D strikes, D - G gracenote strikes, Crossovers</a>";?>
 		<meta name="description" content="<?php echo $content;?>">
 		<meta property="og:description" content="<?php echo $content;?>">

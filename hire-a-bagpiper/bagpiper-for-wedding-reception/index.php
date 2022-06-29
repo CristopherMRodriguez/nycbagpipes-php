@@ -9,9 +9,9 @@
 		<?php require "../../components/call.php";?>
 		<?php require "../../components/nav.php";?>
 		<section class="section bottom-section">
-			<img src="../../img/bagpiper-at-wedding.jpg" alt="Bagpiper Playing at a Wedding Ceremony">
+			<img src="../../img/bagpiper-at-wedding.jpg" alt="Bagpiper Playing at a Wedding Reception">
 			<div class="section-div-sub">
-				<h1 class="section-title">Hiring a Bagpiper for a Wedding Ceremony <?php require "../../components/updated.php";?></h1>
+				<h1 class="section-title">Hiring a Bagpiper for a Wedding Reception <?php require "../../components/updated.php";?></h1>
 				<p class="section-p">
 					Want to add an extra flair to the after party? Nothing gets the crowd going than a bagpiper.  Or add a few extra pipers to 
 					make the party get really going.

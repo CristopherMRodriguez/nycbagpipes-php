@@ -1,5 +1,5 @@
 <?php require "../components/head.php"?>
-		<title>Bagpipe E & F Taps, Strikes, G Doublings</title>
+		<title>Bagpipe E & F Taps, Strikes, G Doublings Beginner Exercises for Bagpipes</title>
 		<?php $content = "Lesson 5 - E & F Taps/Strikes, G Doublings";?>
 		<meta name="description" content="<?php echo $content;?>">
 		<meta property="og:description" content="<?php echo $content;?>">

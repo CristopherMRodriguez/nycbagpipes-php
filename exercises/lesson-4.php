@@ -1,5 +1,5 @@
 <?php require "../components/head.php"?>
-		<title>Bagpipe 6/8 Rhythms, Crossover exercises, B taps (to A)</title>
+		<title>Bagpipe 6/8 Rhythms, Crossover exercises, B taps (to A) Beginner Exercises for Bagpipes</title>
 		<?php $content = "Lesson 4 - 6/8 Rhythms, Crossovers, B taps (to A)";?>
 		<meta name="description" content="<?php echo $content;?>">
 		<meta property="og:description" content="<?php echo $content;?>">
