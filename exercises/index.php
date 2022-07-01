@@ -16,7 +16,7 @@
 				Download these exercises to help you improve.  These exercises are designed to work with the tutor book to reinforce new material and movements, and to isolate the tricky parts!
 				</p>
 				<p class="section-p">
-					Click the link to the current lesson you are working on, or <a href="<?php echo "/exercises/pdf/NYC-Bagpipes-Exercises.pdf";?>">just download the entire set of NYC Bagpipes' lessons!</a>
+					Click the link to the current lesson you are working on, or <a style="font-size:1.3em;" href="<?php echo "/exercises/pdf/NYC-Bagpipes-Exercises.pdf";?>">just download the entire set of NYC Bagpipes' lessons!</a>
 				</p>
 			</div>
 		</section>	

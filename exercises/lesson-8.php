@@ -8,7 +8,7 @@
 		<?php require "../components/googleTagBody.php";?>
       <div class="lesson-8">
         <h1 class="section-title">Lesson 8 - (The Theory Stuff...)</h1>
-        <p style="font-size:2em;">Listen to the following examples of different time signatures:</p>
+        <p style="font-size:1.8em;">Listen to the following examples of different time signatures:</p>
         <p class="bold">Simple Time (Beats can be subdivided into 2’s):</p>
         <ul class="lesson-8-ul">
           <li class="lesson-8-li"><a class="italic" href="https://www.youtube.com/watch?v=qJ0kMTv7D68" target="blank">2/4 March</a></li>
@@ -18,7 +18,7 @@
         </ul>
         <p class="bold">Compound Time (Beats are subdivided by 3’s):</p>
         <ul class="lesson-8-ul">
-          <li class="lesson-8-li"><a class="italic" href="https://www.youtube.com/watch?v=7aaPtEtvfiA" target="blank">6/8 March</a> (infamous for having the <span class="bold">Long short / Long short rhythm or Long n Short / Long n Short.</span> The long part of the rhythm equals 2⁄3’s of a pulse, and the short is 1/3rd)</li>
+          <li class="lesson-8-li"><a class="italic" href="https://www.youtube.com/watch?v=7aaPtEtvfiA" target="blank">6/8 March</a> (infamous for having the <span class="bold">Long short / Long short</span> rhythm or <span class="bold">Long n Short / Long n Short.</span> The long part of the rhythm equals 2⁄3’s of a pulse, and the short is 1/3rd)</li>
           <li class="lesson-8-li"><a class="italic" href="https://www.youtube.com/watch?v=sx-y17F62lk" target="blank">9/8 March</a></li>
         </ul>
         <p>Can you tap the pulses for each time signature?</p>
@@ -30,7 +30,7 @@
           <li class="lesson-8-li"><a class="italic" href="https://www.youtube.com/watch?v=YmfcRwoz9co" target="blank">12/8 Jig</a> (compound time signature with 4 pulses per bar).</li>
           <li class="lesson-8-li"><a class="italic" href="https://www.youtube.com/watch?v=DSQXq-xOVu4" target="blank">2/4 Reel</a> (although only 2 beats per bar, they have very strong “upbeats.” Are fast tempos (speeds) for dancing).</li>
           <li class="lesson-8-li"><a class="italic" href="https://www.youtube.com/watch?v=_UhOWBzTSlY" target="blank">2/4 Hornpipe</a> (like the reel it has a strong “upbeat” and is fast for dancing, but each pulse is often subdivided into 4 note groups.</li>
-          <li class="lesson-8-li"><a class="italic" href="https://www.youtube.com/watch?v=eoY5NZmRC4c" target="blank">4/4 Strathspey</a> (pay attention to the very STRONG pulse on the 1st beat, weak 2nd, MEDium 3rd, weak 4th. VERY characteristic of that “Scottish” style or groove).</li>
+          <li class="lesson-8-li"><a class="italic" href="https://www.youtube.com/watch?v=eoY5NZmRC4c" target="blank">4/4 Strathspey</a> (pay attention to the STRONG pulse on the 1st beat, weak 2nd, MEDium 3rd, weak 4th. VERY characteristic of that “Scottish” style or groove).</li>
 
           </ul>
         <p></p>
