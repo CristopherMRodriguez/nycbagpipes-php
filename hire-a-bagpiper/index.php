@@ -10,8 +10,8 @@
 		<?php require "../components/call.php";?>
 		<?php require "../components/nav.php";?>
 
-		<div class="landing-page-header">
-			<h1 class="section-title">Hire a Bagpiper <?php require "../components/updated.php";?></h1><br/>
+		<div class="landing-page-header landing-page-header-no-flex">
+			<h1 class="section-title">Hire a Bagpiper <?php require "../components/updated.php";?></h1>
 			<p class="landing-page-header-p">There are a variety of ways to hire a bagpiper.  See below for which best 
 			suits your needs.</p>
 		</div>

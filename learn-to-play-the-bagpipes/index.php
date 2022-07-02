@@ -9,7 +9,7 @@
 		<?php require "../components/googleTagBody.php";?>
 		<?php require "../components/learn-call.php";?>
 		<?php require "../components/nav.php";?>
-		<div class="landing-page-header">
+		<div class="landing-page-header landing-page-header-no-flex">
 			<h1 class="section-title">Learn to Play Bagpipes <?php require "../components/updated.php";?></h1>
 			<p class="landing-page-header-p">Whether you are enchanted by the sound of the pipes and want to learn, 
 				desire to one day march up 5th Avenue on St. Patrick's Day, or whatever your wish is, 

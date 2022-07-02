@@ -10,7 +10,7 @@
 		<?php require "../components/call.php";?>
 		<?php require "../components/nav.php";?>
 		<?php require "../components/head.php"?>
-		<div class="landing-page-header">
+		<div class="landing-page-header landing-page-header-no-flex">
 			<h1 class="section-title">Bagpipe FAQ's</h1>
 			<p class="landing-page-header-p">For your convenience we have provided commonly asked FAQ's for hiring a bagpiper 
 				or learning the bagpipes.  Follow a section to find out more info.

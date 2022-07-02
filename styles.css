@@ -360,6 +360,10 @@ p {
   flex-flow: wrap;
 }
 
+.landing-page-header-no-flex {
+  display: block;
+}
+
 .landing-page-header-p {
   margin-top: 25px;
 }
