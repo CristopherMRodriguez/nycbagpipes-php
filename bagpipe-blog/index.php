@@ -1,5 +1,6 @@
 <?php require "../components/head.php"?>
 		<title>Bagpipes Blog - Get info on how to hire a bagpiper, learn to play the bagpipes, and more.</title>
+		<link rel=“canonical” href=“https://www.nycbagpipes.com/bagpipe-blog/">
 		<?php $content = "A bagpipes blog on various bagpiping topics for those looking to learn how to play the bagpipes or hire a bagpiper. Learn bagpipe lessons online or in person.";?>
 		<meta name="description" content="<?php echo $content;?>">
 		<meta property="og:description" content="<?php echo $content;?>">

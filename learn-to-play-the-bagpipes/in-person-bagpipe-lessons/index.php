@@ -2,6 +2,7 @@
 		<title>Learn Bagpipes In Person</title>
 		<?php $content = "Get bagpipe lessons in person. Find a bagpipe instructor near me. Learn to play the bagpipes and become a bagpiper. Get in-person bagpipe lessons. Our bagpipe instructors are available to meet.";?>
 		<meta name="description" content="<?php echo $content;?>">
+		<link rel=“canonical” href=“https://www.nycbagpipes.com/learn-to-play-the-bagpipes/in-person-bagpipe-lessons/">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>
   <body>

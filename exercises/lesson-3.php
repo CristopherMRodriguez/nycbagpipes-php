@@ -2,6 +2,7 @@
 		<title>How to play bagpipe gracenotes Beginner Exercises for Bagpipes</title>
 		<?php $content = "Lesson 3 - How to play bagpipe gracenotes.  Let's break it down SLOWLY so you get it right!";?>
 		<meta name="description" content="<?php echo $content;?>">
+		<link rel=“canonical” href=“https://www.nycbagpipes.com/exercises/https://www.nycbagpipes.com/exercises/lesson-3.php">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>
   <body>

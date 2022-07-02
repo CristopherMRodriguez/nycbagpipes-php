@@ -1,6 +1,7 @@
 <?php require "../../components/head.php"?>
 		<title>Bagpipe FAQ - Hire a Bagpipe FAQ's</title>
 		<?php $content = "Info on how to hire a bagpiper. How much does it cost to hire a bagpiper for a funeral? Why NYC Bagpipes? FAQ's on how to hire a bagpiper near me.  How much does a wedding bagpiper cost?";?>
+		<link rel=“canonical” href=“https://www.nycbagpipes.com/hire-a-bagpiper/">
 		<meta name="description" content="<?php echo $content;?>">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>

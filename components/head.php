@@ -18,7 +18,6 @@
 			gtag('config', 'G-1D85KQ7DPS');
 			gtag('config', 'AW-351119435');
 		</script>
-		<link rel="canonical">
 		<link rel="icon" href="https://NycBagpipes.com/img/bagpiper-icon.jpg" sizes="32x32">
 		<meta name="author" content="cristopherrodriguez.com">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />		

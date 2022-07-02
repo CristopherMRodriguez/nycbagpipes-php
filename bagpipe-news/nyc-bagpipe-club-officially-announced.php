@@ -18,7 +18,7 @@
 			gtag('config', 'G-1D85KQ7DPS');
 			gtag('config', 'AW-351119435');
 		</script>
-		<link rel="canonical">
+		<link rel=“canonical” href=“https://www.nycbagpipes.com/bagpipe-news/nyc-bagpipe-club-officially-announced.php">
 		<link rel="icon" href="https://NycBagpipes.com/img/bagpiper-icon.jpg" sizes="32x32">
 		<meta name="author" content="cristopherrodriguez.com">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />		
@@ -60,7 +60,7 @@
 		
 		<section class="blog-post-section">
 			<div class="blog-post-div">
-				<img class="blog-image" src="../img/bagpipe-club.jpg" alt="NYC Bagpipe Club Flyer">
+				<img class="blog-image" src="../img/bagpipe-club-july.jpg" alt="NYC Bagpipe Club Flyer">
 
 				<h1 class="section-title blog-post-title">NYC Bagpipe Club Officially Announced</h1>        
 				<p class="section-p blog-post-p">NYC Bagpipes officially announces a date and venue for its first bagpipe club.  The bagpipe club will be February 5th, 2022, 7:00 P.M. at Bantry Bay in Long Island City, Queens.</p>

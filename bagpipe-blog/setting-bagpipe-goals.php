@@ -2,6 +2,7 @@
 		<title>Setting Goals in Bagpiping</title>
 		<?php $content = "The most successful bagpipers are driven by goals.  Right now I have several goals in piping.  I have an intermediate term goal (get into Grade 1 solo bagpiping by next year), longer term goal (get admitted into a high calibre pipe band).  I even have a dream.";?>
 		<meta name="description" content="<?php echo $content;?>">
+		<link rel=“canonical” href=“https://www.nycbagpipes.com/bagpipe-blog/setting-bagpipe-goals.php">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>	
 	<body>

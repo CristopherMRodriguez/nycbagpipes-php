@@ -2,6 +2,7 @@
 		<title>Bagpipe Music Theory Beginner Exercises for Bagpipes</a></title>
 		<?php $content = "Lesson 8 - Bagpipe Music Theory</a>";?>
 		<meta name="description" content="<?php echo $content;?>">
+    <link rel=“canonical” href=“https://www.nycbagpipes.com/exercises/https://www.nycbagpipes.com/exercises/lesson-8.php">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>
   <body>

@@ -2,6 +2,7 @@
 		<title>Beginner Bagpipe Exercises</title>
 		<?php $content = "Use these beginner bagpipe exercises to help you improve as a bagpiper.";?>
 		<meta name="description" content="<?php echo $content;?>">
+		<link rel=“canonical” href=“https://www.nycbagpipes.com/exercises/">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>
   <body>

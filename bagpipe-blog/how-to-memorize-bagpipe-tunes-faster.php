@@ -2,6 +2,7 @@
 		<title>How to Memorize Bagpipe Tunes Faster</title>
 		<?php $content = "Part of what I think about in my quest to get better as a bagpiper is to how to learn tunes faster and how to teach this to others. I’ve been thinking about how we learn and what is effective.  I’ve learned and talked to people about their memorization methods and read books on it.  Some of it I found helpful; some of it not so much.";?>
 		<meta name="description" content="<?php echo $content;?>">
+		<link rel=“canonical” href=“https://www.nycbagpipes.com/bagpipe-blog/how-to-memorize-bagpipe-tunes-faster.php">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>	
 	<body>

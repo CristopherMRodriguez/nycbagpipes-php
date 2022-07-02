@@ -2,6 +2,7 @@
 		<title>How to Get Better at Bagpiping</title>
 		<?php $content = "Today I was teaching a new student a lesson. I have a tendency to lead with a plan on what the student should learn for the lesson. Many teachers like to do the opposite and ask the student what they would like to learn. But this is, sorta, like a double edged sword. If the student is pretty new, then they really don’t know much about anything at all and therefore won’t have anything to know about what to learn. On the other though, if a student is learning, and they knew all what they wanted to learn, perhaps they wouldn’t need a teacher…";?>
 		<meta name="description" content="<?php echo $content;?>">
+		<link rel=“canonical” href=“https://www.nycbagpipes.com/bagpipe-blog/how-to-get-better-at-bagpipes.php">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>	
 	<body>

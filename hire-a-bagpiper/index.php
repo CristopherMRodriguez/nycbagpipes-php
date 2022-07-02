@@ -2,6 +2,7 @@
 		<title>Hire a Bagpiper in New York City, New Jersey, Brooklyn, Queens, Bronx, New York, Long Island, Staten Island, Connecticut, and Pennsylvania.</title>
 		<?php $content = "Hire a Bagpiper in New York City, New Jersey, Brooklyn, Queens, Bronx, New York, Long Island, Staten Island, Connecticut, and Pennsylvania. Learn how much a bagpiper costs. Bagpipe players available.";?>
 		<meta name="description" content="<?php echo $content;?>">
+		<link rel=“canonical” href=“https://www.nycbagpipes.com/hire-a-bagpiper/">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>
   <body> 

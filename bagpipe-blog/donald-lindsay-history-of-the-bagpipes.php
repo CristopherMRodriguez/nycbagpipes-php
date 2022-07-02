@@ -2,6 +2,7 @@
 		<title>History of the highland bagpipes - Video Interview with Donald Lindsay</title>
 		<?php $content = "In this video Donald Lindsay, a respected bagpipe instructor and award winning bagpiper, gives us a brief history of the highland bagpipes, spanning several hundreds of years. We explore piobaireachd, the McCrimmons, highland history, military aspects of the pipes, some of his personal life and interactions with famous pipers, as well as the challenges that modern bagpipers face.";?>
 		<meta name="description" content="<?php echo $content;?>">
+		<link rel=“canonical” href=“<link rel=“canonical” href=“https://www.nycbagpipes.com/bagpipe-blog/donald-lindsay-history-of-the-bagpipes.php">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>	
 	<body>

@@ -2,6 +2,7 @@
 		<title>Does NYC Bagpipes Only Perform in NYC?</title>
 		<?php $content = "Despite our name NYC Bagpipes covers a large area of the NYC metro tri-state area. Of course if you are looking for bagpipe lessons, the internet makes it possible to receive bagpipe lessons anywhere.";?>
 		<meta name="description" content="<?php echo $content;?>">
+		<link rel=“canonical” href=“https://www.nycbagpipes.com/bagpipe-faq/hire-a-bagpiper/does-nyc-bagpipes-only-perform-in-nyc.php">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>	
 	<body>

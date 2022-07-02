@@ -1,6 +1,7 @@
 	<?php require "./components/head.php"?>
 		<title>Hire a Bagpiper in New York City, New Jersey, Brooklyn, Queens, Bronx, New York, Long Island, Staten Island, Connecticut, and Pennsylvania - Learn to Play Bagpipes Anywhere - NYC Bagpipes</title>
 		<?php $content = "Hire the best bagpiper in NYC, New York, New Jersey, Long Island, Connecticut, and Pennsylvania. Want to learn how to play the bagpipes? We teach bagpipes. We offer bagpiping for weddings, funerals, parties, and other events; and in-person and online lessons. Call to hire a professional bagpiper.";?>
+		<link rel=“canonical” href=“https://www.nycbagpipes.com">
 		<meta name="description" content="<?php echo $content;?>">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>	
@@ -116,7 +117,7 @@
 			</a>
 		</section>-->
 		<section class="section section-odd">
-				<img src="./img/BAGPIPE-CLUB-July.jpg" alt="Flyer for NYC Bagpipe Club">
+				<img src="./img/bagpipe-club-july.jpg" alt="Flyer for NYC Bagpipe Club">
 		</section>
 			
 		<div class="section-border"></div>	

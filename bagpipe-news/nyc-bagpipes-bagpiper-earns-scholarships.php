@@ -2,6 +2,7 @@
 		<title>NYC Bagpipes Bagpiper earns scholarships</title>
 		<?php $content = "Cristopher Rodriguez a native New Yorker and competition bagpiper has earned 2 scholarships over the summer of 2021. On May 27th, 2021 the Eastern United States Pipeband Association awarded Cristopher with a scholarship for his efforts and achievements as a competition bagpiper.</";?>
 		<meta name="description" content="<?php echo $content;?>">
+		<link rel=“canonical” href=“https://www.nycbagpipes.com/bagpipe-news/nyc-bagpipes-bagpiper-earns-scholarships.php">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>	
 	<body>

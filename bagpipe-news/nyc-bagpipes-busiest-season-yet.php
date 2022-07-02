@@ -3,6 +3,7 @@
 		<?php $content = "NYC Bagpipes has just concluded its busiest season to date.  Beginning with St. Patrick’s season in March and ending with the NYC Tartan Day Parade, Cristopher Rodriguez of NYC Bagpipes was hired for over 30 performances, spanning four states.  He also played in 6 parades with 3 bands (St. Columcille, County Cork, and the New York Caledonian Club).
 ";?>
 		<meta name="description" content="<?php echo $content;?>">
+		<link rel=“canonical” href=“https://www.nycbagpipes.com/bagpipe-news/nyc-bagpipes-busiest-season-yet.php">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>	
 	<body>

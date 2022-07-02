@@ -2,6 +2,7 @@
 		<title>NYC Bagpipes News - Get the latest info and news from NYC Bagpipes!</title>
 		<?php $content = "Check out the latest big news updates from NYC Bagpipes! New announcements regarding bagpiping online or in the NYC metro area.";?>
 		<meta name="description" content="<?php echo $content;?>">
+		<link rel=“canonical” href=“https://www.nycbagpipes.com/bagpipe-news/">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>
   <body>

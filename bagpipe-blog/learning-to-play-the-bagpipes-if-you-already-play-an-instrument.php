@@ -2,6 +2,7 @@
 		<title>Learning to Play the Bagpipes if You Already Play an Instrument</title>
 		<?php $content = "If you are already a musician, whether a novice or professional, the skills you’ve already learned will greatly help you learn the bagpipes.";?>
 		<meta name="description" content="<?php echo $content;?>">
+		<link rel=“canonical” href=“https://www.nycbagpipes.com/bagpipe-blog/learning-to-play-the-bagpipes-if-you-already-play-an-instrument.php">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>	
 	<body>

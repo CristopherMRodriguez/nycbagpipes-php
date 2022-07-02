@@ -2,6 +2,7 @@
 		<title>How do You Use Bagpipes with Other Instruments?</title>
 		<?php $content = "So…you want to use bagpipes in your band or musical arrangement?  The uniqueness of the instrument makes it tricky to record.  Here’s why...";?>
 		<meta name="description" content="<?php echo $content;?>">
+		<link rel=“canonical” href=“https://www.nycbagpipes.com/bagpipe-blog/how-to-use-bagpipes-with-other-musical-instruments.php">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>	
 	<body>

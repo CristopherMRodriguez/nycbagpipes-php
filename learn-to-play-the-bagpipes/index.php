@@ -2,6 +2,7 @@
 		<title>Learn to Play the Bagpipes New York City, New Jersey, Brooklyn, Queens, Bronx, New York, Long Island, Staten Island</title>
 		<?php $content = "Get bagpipe lessons near me.  Learn bagpipes online or in the nyc area.  A qualified bagpiper instructor can meet also on zoom, skype, or facetime at your convenience with flexible schedule.";?>
 		<meta name="description" content="<?php echo $content;?>">
+		<link rel=“canonical” href=“https://www.nycbagpipes.com/learn-to-play-the-bagpipes/">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>
   <body>

@@ -2,6 +2,7 @@
 		<title>New NYC Bagpipe Club Coming Soon</title>
 		<?php $content = "NYC Bagpipes publicly announced today that the development of a bagpipe club is in the works and is to be held in New York City.  Discussions have already been made with a venue in Manhattan to provide a space; the venue agreed to accommodate bagpipe playing indoors.  The event will be held sometime in early 2022 (January or February).";?>
 		<meta name="description" content="<?php echo $content;?>">
+		<link rel=“canonical” href=“https://www.nycbagpipes.com/bagpipe-news/new-nyc-bagpipe-club-coming-soon.php">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>	
 	<body>

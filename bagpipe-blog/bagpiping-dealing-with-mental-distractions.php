@@ -2,6 +2,7 @@
 		<title>Getting Better at Bagpiping by Dealing with Mental Distractions</title>
 		<?php $content = "I wanted to write down a couple of observations as of late and how it relates to the mind.  I’ve mentioned before in other blogs about the mind’s incessancy about chattering while we practice — and especially when we perform in front of others.";?>
 		<meta name="description" content="<?php echo $content;?>">
+		<link rel=“canonical” href=“https://www.nycbagpipes.com/bagpipe-blog/bagpiping-dealing-with-mental-distractions.php">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>	
   <body>

@@ -1,6 +1,7 @@
 <?php require "../../components/head.php"?>
 		<title>Hire a Bagpiper for a Wedding Reception in New York City, New Jersey, Brooklyn, Queens, Bronx, New York, Long Island, Staten Island, Connecticut, and Pennsylvania.</title>
 		<?php $content = "Hire a bagpiper for a wedding reception.  Find out how much does it cost to hire a bagpiper for a wedding reception. Find bagpiper players for weddings near me. A bagpiper for a wedding reception adds tremendous fun to your big day. ";?>
+		<link rel=“canonical” href=“https://www.nycbagpipes.com/hire-a-bagpiper/bagpiper-for-wedding-reception/">
 		<meta name="description" content="<?php echo $content;?>">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>

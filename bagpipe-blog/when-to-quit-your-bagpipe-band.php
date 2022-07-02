@@ -2,6 +2,7 @@
 		<title>When to Quit Your Bagpipe Band</title>
 		<?php $content = "Thinking about leaving your pipe band?  Here's when you should leave your bagpipe band.  Music bands are loaded with complex personalities and if your band is not going anywhere or, worse, is toxic you should move on.";?>
 		<meta name="description" content="<?php echo $content;?>">
+		<link rel=“canonical” href=“https://www.nycbagpipes.com/bagpipe-blog/when-to-quit-your-bagpipe-band.php">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>	
 	<body>

@@ -2,6 +2,7 @@
 		<title>Getting the most out of bagpiping when you have limited time…</title>
 		<?php $content = "One of the biggest impediments to getting better at bagpiping is not bagpiping (believe it or not).  It’s really that simple.  I probably don’t need to list them off for you.  But aside from our duties, responsibilities, and perhaps even our bad or non-productive habits, there is a need to practice, that is, if we are proactively trying to improve (or at least not get worse).  If we are a beginner this is absolutely necessary because a new student has to repeatedly commit to practice, or they will give up.  There really isn’t any way around that.";?>
 		<meta name="description" content="<?php echo $content;?>">
+		<link rel=“canonical” href=“https://www.nycbagpipes.com/bagpipe-blog/getting-the-most-of-bagpiping-practice-when-you-have-limited-time.php>
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>	
   <body>

@@ -2,6 +2,7 @@
 		<title>Is an electronic bagpipe good?  (Why you shouldn’t use an electronic bagpipe chanter.)</title>
 		<?php $content = "In this article I cover my opinions on some of the electronic bagpipes on the market.  Part of my opinions are based upon my experience as an electronic musician where I had programmed and even repaired many synthesizers—aside from bagpiping.";?>
 		<meta name="description" content="<?php echo $content;?>">
+		<link rel=“canonical” href=“https://www.nycbagpipes.com/bagpipe-blog/is-an-electronic-bagpipe-good.php">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>	
 	<body>

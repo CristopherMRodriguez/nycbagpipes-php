@@ -2,6 +2,7 @@
 		<title>NYC Bagpipes Piper Gets 1st Place Award</title>
 		<?php $content = "NYC Bagpipes' Cristopher Rodriguez earned 1st place overall at the 8th Annual Covenanter Scottish Festival and Highland Games in Grade 2 solo bagpiping. The annual competition was held in Quarryville, Pennsylvania on September 11th, 2021. The competition had 5 events for Grade 2, including 2/4 March, Strathspey/Reel, 6/8 March, Piobaireachd, and Hornpipe/Jig. Cristopher earned 1st place in the 2/4 March and Hornpipe/Jig events; he also earned 2nd place in the 6/8 March and Piobaireachd events. The competition has become well known for its signature bobble head bagpipe trophy.";?>
 		<meta name="description" content="<?php echo $content;?>">
+		<link rel=“canonical” href=“https://www.nycbagpipes.com/bagpipe-news/nyc-bagpipes-piper-helps-band-get-1st-place.php">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>	
 	<body>

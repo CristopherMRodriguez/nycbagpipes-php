@@ -2,6 +2,7 @@
 		<title>What does a bagpiper do at a Funeral?</title>
 		<?php $content = "Learn about what a bagpiper does at a funeral. Find out appropriate tunes and when they should play them.";?>
 		<meta name="description" content="<?php echo $content;?>">
+		<link rel=“canonical” href=“https://www.nycbagpipes.com/bagpipe-faq/hire-a-bagpiper/what-does-a-bagpiper-do-at-a-funeral.php">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>	
 	<body>

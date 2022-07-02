@@ -2,6 +2,7 @@
 		<title>NYC Bagpipes Piper earns AGL for Solo Bagpiper Event</title>
 		<?php $content = "Forgive us for tooting our own bagpiper, but Cristopher Rodriguez earned his first Grade 2 Solo Bagpipe AGL (above grade level) on June 27th, 2021 at the Round Hill Highland Games in Lime Rock, CT.  Cristopher Rodriguez earned the AGL competing in the 2/4 March event.";?>
 		<meta name="description" content="<?php echo $content;?>">
+		<link rel=“canonical” href=“https://www.nycbagpipes.com/bagpipe-news/nyc-bagpiper-from-nyc-bagpipes-earns-agl.php">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>	
 	<body>

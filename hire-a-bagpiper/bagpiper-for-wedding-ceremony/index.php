@@ -2,6 +2,7 @@
 		<title>Hire a Bagpiper for a Wedding Ceremony in New York City, New Jersey, Brooklyn, Queens, Bronx, New York, Long Island, Staten Island, Connecticut, and Pennsylvania.</title>
 		<?php $content = "Hire a bagpiper for a wedding ceremony.  Find out how much does it cost to hire a bagpiper for a wedding. Find bagpiper players for weddings near me.";?>
 		<meta name="description" content="<?php echo $content;?>">
+		<link rel=“canonical” href=“https://www.nycbagpipes.com/hire-a-bagpiper/bagpiper-for-wedding-ceremony/">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>
   <body>

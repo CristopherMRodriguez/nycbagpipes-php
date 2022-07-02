@@ -2,6 +2,7 @@
 		<title>Why Choose NYC Bagpipes?</title>
 		<?php $content = "Why should you hire NYC Bagpipes? Why trust us over anyone else? Here's why.";?>
 		<meta name="description" content="<?php echo $content;?>">
+		<link rel=“canonical” href=“https://www.nycbagpipes.com/bagpipe-faq/hire-a-bagpiper/why-nyc-bagpipes.php">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>	
 	<body>

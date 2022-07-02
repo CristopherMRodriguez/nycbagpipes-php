@@ -2,6 +2,7 @@
 		<title>How Much Does a Bagpiper Cost?</title>
 		<?php $content = "Here is the average cost for a bagpiper and where those costs for bagpiping come from.";?>
 		<meta name="description" content="<?php echo $content;?>">
+		<link rel=“canonical” href=“https://www.nycbagpipes.com/bagpipe-faq/hire-a-bagpiper/how-much-does-a-bagpiper-cost.php">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>	
 	<body>

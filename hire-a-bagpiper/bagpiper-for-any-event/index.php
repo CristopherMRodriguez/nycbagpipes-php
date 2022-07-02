@@ -2,6 +2,7 @@
 		<title>Hire a Bagpiper for Party or Event in New York City, New Jersey, Brooklyn, Queens, Bronx, New York, Long Island, Staten Island, Connecticut, and Pennsylvania</title>
 		<?php $content = "Hire a bagpiper for your party, retirement, film, or any special event today.  Learn about how much does it cost to hire a bagpiper. We have the best bagpipers for hire.";?>
 		<meta name="description" content="<?php echo $content;?>">
+		<link rel=“canonical” href=“https://www.nycbagpipes.com/hire-a-bagpiper/bagpiper-for-any-event/">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>
   <body>

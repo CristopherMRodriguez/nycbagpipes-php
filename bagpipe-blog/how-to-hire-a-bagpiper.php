@@ -2,6 +2,7 @@
 		<title>How to Hire a Bagpiper - Tips on Hiring a Good Quality Bagpiper</title>
 		<?php $content = "Here are tips on how to hire a bagpiper. The main key is how to hire a good quality bagpiper since that can be within your reach. Don’t hire a bad bagpiper who will make everyone cringe at your important event.";?>
 		<meta name="description" content="<?php echo $content;?>">
+		<link rel=“canonical” href=“https://www.nycbagpipes.com/bagpipe-blog/how-to-hire-a-bagpiper.php">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>	
 	<body>

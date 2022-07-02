@@ -1,6 +1,7 @@
 <?php require "../components/head.php"?>
 		<title>Bagpipe Goals — Using the seasons to get better at bagpiping</title>
 		<?php $content = "Forgive me for not writing a blog in a while, March was one of the busiest months in my bagpipe career—if not, the busiest.  Now that I’ve had a bit of a break I want to share some reflections regarding life after St. Patrick’s season, and about seasons in general.";?>
+		<link rel=“canonical” href=“https://www.nycbagpipes.com/bagpipe-blog/bagpipe-goals.php">
 		<meta name="description" content="<?php echo $content;?>">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>	

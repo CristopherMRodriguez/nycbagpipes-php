@@ -3,6 +3,7 @@
 		<?php $content = "The purpose of this article will be to show how to record bagpipes and how to do so on a budget.  This article isn’t going to delve into an audiophile method, but rather focus on a simple and effective way to get practical recordings that are easy to do and work for home recordings.
 ";?>
 		<meta name="description" content="<?php echo $content;?>">
+    <link rel=“canonical” href=“https://www.nycbagpipes.com/bagpipe-blog/how-to-record-bagpipes.php">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>	
 	<body>

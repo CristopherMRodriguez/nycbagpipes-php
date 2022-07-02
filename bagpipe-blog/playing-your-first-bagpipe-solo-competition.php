@@ -2,6 +2,7 @@
 		<title>Playing Your First Bagpipe Solo Competition</title>
 		<?php $content = "I remember my first time competing.  I was playing the piobaireachd (ground only) event and I was so nervous that I couldn’t remember if I had repeated this first part.  I guess it didn’t go too badly because I got 2nd place.  Not bad considering that I thought I may have botched the performance.  I was so nervous!  Heart pounding; couldn’t think; fingers were shaking so much I was surprised that I could even play anything remotely related to music.  Little did I know this would become the first of many other contests and events, where on a spur I would drive hundreds of miles to get to other ones.";?>
 		<meta name="description" content="<?php echo $content;?>">
+		<link rel=“canonical” href=“https://www.nycbagpipes.com/bagpipe-blog/playing-your-first-bagpipe-solo-competition.php">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>	
 	<body>
