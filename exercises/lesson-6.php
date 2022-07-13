@@ -1,7 +1,7 @@
 <?php require "../components/head.php"?>
-		<title>F half doublings, E gracenotes, D strikes, D - G gracenote strikes, Crossovers Beginner Exercises for Bagpipes</a></title>
+		<title>F half doublings, E gracenotes, D strikes, D - G gracenote strikes, Crossovers Beginner Exercises for Bagpipes</title>
 		<?php $content = "Lesson 6 - F half doublings, E gracenotes, D strikes, D - G gracenote strikes, Crossovers</a>";?>
-		<link rel=“canonical” href=“https://www.nycbagpipes.com/exercises/https://www.nycbagpipes.com/exercises/lesson-6.php">
+		<link rel=“canonical” href=“https://www.nycbagpipes.com/exercises/lesson-6.php">
 		<meta name="description" content="<?php echo $content;?>">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>

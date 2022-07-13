@@ -2,7 +2,7 @@
 		<title>Bagpipe E & F Taps, Strikes, G Doublings Beginner Exercises for Bagpipes</title>
 		<?php $content = "Lesson 5 - E & F Taps/Strikes, G Doublings";?>
 		<meta name="description" content="<?php echo $content;?>">
-		<link rel=“canonical” href=“https://www.nycbagpipes.com/exercises/https://www.nycbagpipes.com/exercises/lesson-5.php">
+		<link rel=“canonical” href=“https://www.nycbagpipes.com/exercises/lesson-5.php">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>
   <body>

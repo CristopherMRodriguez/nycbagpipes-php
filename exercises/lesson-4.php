@@ -2,7 +2,7 @@
 		<title>Bagpipe 6/8 Rhythms, Crossover exercises, B taps (to A) Beginner Exercises for Bagpipes</title>
 		<?php $content = "Lesson 4 - 6/8 Rhythms, Crossovers, B taps (to A)";?>
 		<meta name="description" content="<?php echo $content;?>">
-		<link rel=“canonical” href=“https://www.nycbagpipes.com/exercises/https://www.nycbagpipes.com/exercises/lesson-4.php">
+		<link rel=“canonical” href=“https://www.nycbagpipes.com/exercises/lesson-4.php">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>
   <body>

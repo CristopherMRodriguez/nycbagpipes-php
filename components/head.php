@@ -18,12 +18,12 @@
 			gtag('config', 'G-1D85KQ7DPS');
 			gtag('config', 'AW-351119435');
 		</script>
-		<link rel="icon" href="https://NycBagpipes.com/img/bagpiper-icon.jpg" sizes="32x32">
+		<link rel="icon" href="https://www.nycbagpipes.com/img/bagpiper-icon.jpg" sizes="32x32">
 		<meta name="author" content="cristopherrodriguez.com">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />		
 		<meta property="og:title" content="NYC Bagpipes"/>
-		<meta property="og:image" content="https://NycBagpipes.com/img/hire-a-bagpiper-at-wedding-big.jpg">
-		<meta property="og:url" content="https://NycBagpipes.com"/>
+		<meta property="og:image" content="https://www.nycbagpipes.com/img/hire-a-bagpiper-at-wedding-big.jpg">
+		<meta property="og:url" content="https://wwww.nycbagpipes.com"/>
 		<meta property="og:image:width" content="1200"/>
 		<meta property="og:image:height" content="617" />
 		<meta property="og:type" content="website"/>

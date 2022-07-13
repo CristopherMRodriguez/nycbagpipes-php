@@ -21,12 +21,12 @@
 		<section class="blog-link-section">	
 			<div class="blog-links">
 				<ul>
-					<li class="blog-link"><a class="section-title blog-link-a" href="<?php echo "/bagpipe-faq/hire-a-bagpiper/how-much-does-a-bagpiper-cost.php";?>">How much does a bagpiper cost?</a></li>
-					<li class="blog-link"><a class="section-title blog-link-a" href="<?php echo "/bagpipe-blog/how-to-hire-a-bagpiper.php";?>">How do I hire a bagpiper?</a></li>
-					<li class="blog-link"><a class="section-title blog-link-a" href="<?php echo "/bagpipe-faq/hire-a-bagpiper/why-nyc-bagpipes.php";?>">Why NYC Bagpipes?</a></li>
-					<li class="blog-link"><a class="section-title blog-link-a" href="<?php echo "/bagpipe-faq/hire-a-bagpiper/what-does-a-bagpiper-do-at-a-funeral.php";?>">What does a bagpiper do at a funeral?</a></li>
-					<li class="blog-link"><a class="section-title blog-link-a" href="<?php echo "/bagpipe-faq/hire-a-bagpiper/what-does-a-bagpiper-do-at-a-wedding.php";?>">What does a bagpiper do at a wedding?</a></li>
-					<li class="blog-link"><a class="section-title blog-link-a" href="<?php echo "/bagpipe-faq/hire-a-bagpiper/does-nyc-bagpipes-only-perform-in-nyc.php";?>">Does NYC Bagpipes Only Perform In NYC?</a></li>
+					<li class="blog-link"><a class="section-title blog-link-a" href="https://www.nycbagpipes.com/bagpipe-faq/hire-a-bagpiper/how-much-does-a-bagpiper-cost.php">How much does a bagpiper cost?</a></li>
+					<li class="blog-link"><a class="section-title blog-link-a" href="https://www.nycbagpipes.com/bagpipe-blog/how-to-hire-a-bagpiper.php">How do I hire a bagpiper?</a></li>
+					<li class="blog-link"><a class="section-title blog-link-a" href="https://www.nycbagpipes.com/bagpipe-faq/hire-a-bagpiper/why-nyc-bagpipes.php">Why NYC Bagpipes?</a></li>
+					<li class="blog-link"><a class="section-title blog-link-a" href="https://www.nycbagpipes.com/bagpipe-faq/hire-a-bagpiper/what-does-a-bagpiper-do-at-a-funeral.php">What does a bagpiper do at a funeral?</a></li>
+					<li class="blog-link"><a class="section-title blog-link-a" href="https://www.nycbagpipes.com/bagpipe-faq/hire-a-bagpiper/what-does-a-bagpiper-do-at-a-wedding.php">What does a bagpiper do at a wedding?</a></li>
+					<li class="blog-link"><a class="section-title blog-link-a" href="https://www.nycbagpipes.com/bagpipe-faq/hire-a-bagpiper/does-nyc-bagpipes-only-perform-in-nyc.php">Does NYC Bagpipes Only Perform In NYC?</a></li>
 				</ul>
 			</div>
 		</section>

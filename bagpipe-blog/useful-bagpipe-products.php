@@ -2,7 +2,7 @@
 		<title>Useful Bagpipe Accessories</title>
 		<?php $content = "As you may already know bagpiping can be pricey.  If you are a competitor bagpiping can eat a hole into your wallet between admission costs, gas, tolls, hotels, and food.  Simple products, as soon as they are marketed for bagpiping, have a magical tendency to go up in price.  (After all bagpiping is a small world and bagpipe manufacturers need to make a  living).  That being said, I made a list of products that you may find beneficial to have available.";?>
 		<meta name="description" content="<?php echo $content;?>">
-		<link rel=“canonical” href=“https://www.nycbagpipes.com/bagpipe-blog/<link rel=“canonical” href=“https://www.nycbagpipes.com/bagpipe-blog/">">
+		<link rel=“canonical” href=“https://www.nycbagpipes.com/bagpipe-blog/<link rel=“canonical” href=“https://www.nycbagpipes.com/bagpipe-blog/useful-bagpipe-products.php">
 		<meta property="og:description" content="<?php echo $content;?>">
 	</head>	
 	<body>

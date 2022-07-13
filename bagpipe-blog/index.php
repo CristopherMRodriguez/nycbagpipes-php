@@ -24,24 +24,24 @@
 		<section class="blog-link-section">	
 			<div class="blog-links">
 				<ul>
-					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/bagpipe-goals.php">Bagpipe Goals — Using the seasons to get better at bagpiping</a></li> 
-					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/how-to-record-bagpipes.php">How to Record Bagpipes</a></li> 
-					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/useful-bagpipe-products.php">Useful Bagpipe Products</a></li> 
-					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/bagpiping-dealing-with-mental-distractions.php">Getting better at bagpiping by dealing with mental distractions</a></li> 
-					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/getting-the-most-of-bagpiping-practice-when-you-have-limited-time.php">Getting the most of bagpiping practice when you have limited time</a></li> 
-					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/setting-bagpipe-goals.php">Setting goals in bagpiping</a></li> 
-					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/is-an-electronic-bagpipe-good.php">Is an electronic bagpipe good?  (Why you shouldn’t use an electronic bagpipe chanter.)</a></li> 
-					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/ross-vs-faegerstrom-vs-blair-electronic-bagpipe-review.php">Ross Vs. Faegerstrom Vs. Blair electronic bagpipe review</a></li> 
-					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/when-to-quit-your-bagpipe-band.php">When to quit your bagpipe band</a></li> 
-					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/playing-your-first-bagpipe-solo-competition.php">Playing your first bagpipe competition</a></li> 
-					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/how-to-memorize-bagpipe-tunes-faster.php">How to memorize bagpipe tunes faster</a></li> 
-					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/learning-to-play-the-bagpipes-if-you-already-play-an-instrument.php">Learning to play the bagpipes if you already play an instrument</a></li> 
-					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/how-to-use-bagpipes-with-other-musical-instruments.php">How do you use bagpipes with other instruments?</a></li>
-					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/how-to-get-better-at-bagpipes.php">How to get better at bagpipes</a></li>
-					<li class="blog-link"><a class="section-title" href="/bagpipe-faq/learn-to-play-bagpipes/is-it-hard-to-learn-the-bagpipes.php">Is it hard to learn the bagpipes?</a></li>
-					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/donald-lindsay-history-of-the-bagpipes.php">Donald Lindsay interview-history of the bagpipes</a></li>
-					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/how-to-hire-a-bagpiper.php">How to hire a bagpiper</a></li>
-					<li class="blog-link"><a class="section-title" href="/bagpipe-blog/learn-to-play-the-bagpipes-blog.php">How to learn the bagpipes (the right way)</a></li>
+					<li class="blog-link"><a class="section-title" href="https://www.nycbagpipes.com/bagpipe-blog/bagpipe-goals.php">Bagpipe Goals — Using the seasons to get better at bagpiping</a></li> 
+					<li class="blog-link"><a class="section-title" href="https://www.nycbagpipes.com/bagpipe-blog/how-to-record-bagpipes.php">How to Record Bagpipes</a></li> 
+					<li class="blog-link"><a class="section-title" href="https://www.nycbagpipes.com/bagpipe-blog/useful-bagpipe-products.php">Useful Bagpipe Products</a></li> 
+					<li class="blog-link"><a class="section-title" href="https://www.nycbagpipes.com/bagpipe-blog/bagpiping-dealing-with-mental-distractions.php">Getting better at bagpiping by dealing with mental distractions</a></li> 
+					<li class="blog-link"><a class="section-title" href="https://www.nycbagpipes.com/bagpipe-blog/getting-the-most-of-bagpiping-practice-when-you-have-limited-time.php">Getting the most of bagpiping practice when you have limited time</a></li> 
+					<li class="blog-link"><a class="section-title" href="https://www.nycbagpipes.com/bagpipe-blog/setting-bagpipe-goals.php">Setting goals in bagpiping</a></li> 
+					<li class="blog-link"><a class="section-title" href="https://www.nycbagpipes.com/bagpipe-blog/is-an-electronic-bagpipe-good.php">Is an electronic bagpipe good?  (Why you shouldn’t use an electronic bagpipe chanter.)</a></li> 
+					<li class="blog-link"><a class="section-title" href="https://www.nycbagpipes.com/bagpipe-blog/ross-vs-faegerstrom-vs-blair-electronic-bagpipe-review.php">Ross Vs. Faegerstrom Vs. Blair electronic bagpipe review</a></li> 
+					<li class="blog-link"><a class="section-title" href="https://www.nycbagpipes.com/bagpipe-blog/when-to-quit-your-bagpipe-band.php">When to quit your bagpipe band</a></li> 
+					<li class="blog-link"><a class="section-title" href="https://www.nycbagpipes.com/bagpipe-blog/playing-your-first-bagpipe-solo-competition.php">Playing your first bagpipe competition</a></li> 
+					<li class="blog-link"><a class="section-title" href="https://www.nycbagpipes.com/bagpipe-blog/how-to-memorize-bagpipe-tunes-faster.php">How to memorize bagpipe tunes faster</a></li> 
+					<li class="blog-link"><a class="section-title" href="https://www.nycbagpipes.com/bagpipe-blog/learning-to-play-the-bagpipes-if-you-already-play-an-instrument.php">Learning to play the bagpipes if you already play an instrument</a></li> 
+					<li class="blog-link"><a class="section-title" href="https://www.nycbagpipes.com/bagpipe-blog/how-to-use-bagpipes-with-other-musical-instruments.php">How do you use bagpipes with other instruments?</a></li>
+					<li class="blog-link"><a class="section-title" href="https://www.nycbagpipes.com/bagpipe-blog/how-to-get-better-at-bagpipes.php">How to get better at bagpipes</a></li>
+					<li class="blog-link"><a class="section-title" href="https://www.nycbagpipes.com/bagpipe-faq/learn-to-play-bagpipes/is-it-hard-to-learn-the-bagpipes.php">Is it hard to learn the bagpipes?</a></li>
+					<li class="blog-link"><a class="section-title" href="https://www.nycbagpipes.com/bagpipe-blog/donald-lindsay-history-of-the-bagpipes.php">Donald Lindsay interview-history of the bagpipes</a></li>
+					<li class="blog-link"><a class="section-title" href="https://www.nycbagpipes.com/bagpipe-blog/how-to-hire-a-bagpiper.php">How to hire a bagpiper</a></li>
+					<li class="blog-link"><a class="section-title" href="https://www.nycbagpipes.com/bagpipe-blog/learn-to-play-the-bagpipes-blog.php">How to learn the bagpipes (the right way)</a></li>
 				</ul>
 			</div>
 		</section>
