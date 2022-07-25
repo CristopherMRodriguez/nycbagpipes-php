@@ -80,7 +80,7 @@
 		</section>
 		<div class="section-border"></div>
 		<section class="section section-odd">
-			<a class="pic-anchor"  class="button" href="https://www.nycbagpipes.com/bagpipe-news">
+			<a class="pic-anchor"  class="button" href="https://www.nycbagpipes.com/bagpipe-exercises">
 				<img src="./img/bagpipe-exercises.jpeg" alt="Hand doing stretching exercises">
 			</a>
 			<div class="section-div">
@@ -102,9 +102,9 @@
 						<h3 class="section-subtitle">Click here to read the latest news at NYC Bagpipes.</h3>
 					</button>
 				</a>
-				<a class="home-blog-links" href="https://www.nycbagpipes.com/bagpipe-news/nyc-bagpipes-busiest-season-yet.php">NYC Tartan Day Parade Concludes Busiest Season Yet for NYC Bagpipes</a>
+				<a class="home-blog-links" href="https://www.nycbagpipes.com/bagpipe-news/invermark.php">NYC Bagpipes Pays a Visit to Invermark School</a>
+				<a class="home-blog-links" href="https://www.nycbagpipes.com/bagpipe-news/nyc-bagpipes-busiest-season-yet.php">NYC Tartan Day Parade Concludes Busiest Season Yet</a>
 				<a class="home-blog-links" href="https://www.nycbagpipes.com/bagpipe-news/nyc-bagpipe-club-officially-announced.php">NYC Bagpipe Club Officially Announced</a>
-				<a class="home-blog-links" href="https://www.nycbagpipes.com/bagpipe-news/new-nyc-bagpipe-club-coming-soon.php">New NYC Bagpipe Club Coming Soon</a>
 			</div>
 			<a class="pic-anchor"  class="button" href="https://www.nycbagpipes.com/bagpipe-news">
 				<img src="./img/bagpipe-news.jpeg" alt="Button for Bagpipes News">
